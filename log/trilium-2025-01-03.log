@@ -1,0 +1,1390 @@
+00:27:11.956 Table counts: notes: 274, revisions: 6, attachments: 29, branches: 277, attributes: 426, etapi_tokens: 0, blobs: 212
+00:27:11.967 All consistency checks passed with no errors detected (took 12ms)
+01:27:11.957 Table counts: notes: 274, revisions: 6, attachments: 29, branches: 277, attributes: 426, etapi_tokens: 0, blobs: 212
+01:27:11.968 All consistency checks passed with no errors detected (took 11ms)
+02:27:11.957 Table counts: notes: 274, revisions: 6, attachments: 29, branches: 277, attributes: 426, etapi_tokens: 0, blobs: 212
+02:27:11.967 All consistency checks passed with no errors detected (took 10ms)
+02:56:30.498 Generated CSRF token 48lRQTzJ-uhimfP9wug3pycar1VKPxIqtZYA with secret _csrf=k90jvN9YjD0ud-1SRi3bzi4v; Path=/
+02:56:30.696 200 GET /api/options with 6338 bytes took 2ms
+02:56:30.699 200 GET /api/tree with 31544 bytes took 3ms
+02:56:30.702 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+02:56:30.711 200 GET /api/script/widgets with 155155 bytes took 6ms
+02:56:30.783 200 POST /api/tree/load with 5886 bytes took 2ms
+02:56:30.840 200 POST /api/tree/load with 6050 bytes took 1ms
+02:56:31.061 200 POST /api/tree/load with 5441 bytes took 3ms
+02:56:31.131 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+02:56:31.223 200 GET /api/notes/lsgJRCHtTh9a/blob with 9422 bytes took 3ms
+02:56:31.225 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+02:56:31.269 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+02:56:32.112 204 PUT /api/options with 0 bytes took 3ms
+02:56:33.142 200 GET /api/script/startup with 1804 bytes took 4ms
+02:56:33.184 200 POST /api/tree/load with 6013 bytes took 5ms
+02:56:33.241 200 POST /api/tree/load with 6167 bytes took 2ms
+02:56:55.672 204 PUT /api/options with 0 bytes took 3ms
+02:56:55.675 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 2ms
+02:56:55.677 200 GET /api/note-map/QHp8TIFYUsiT/backlink-count with 11 bytes took 1ms
+02:56:59.872 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 2ms
+02:57:07.312 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 4ms
+02:57:33.134 200 GET /api/app-info with 302 bytes took 2ms
+03:02:01.363 200 GET /api/tree?subTreeNoteId=Gtagls7IzDRK with 11273 bytes took 9ms
+03:02:01.636 204 PUT /api/branches/root_Gtagls7IzDRK/expanded/1 with 0 bytes took 2ms
+03:02:03.410 204 PUT /api/branches/root_Gtagls7IzDRK/expanded/0 with 0 bytes took 3ms
+03:02:04.665 200 GET /api/search-templates with 16 bytes took 3ms
+03:02:04.721 200 POST /api/tree/load with 6304 bytes took 2ms
+03:02:06.179 Created new note 'Loey0RPEdKxB', branch 'root_Loey0RPEdKxB' of type 'text', mime 'text/html'
+03:02:06.185 Slow 200 POST /api/notes/root/children?target=into&targetBranchId= with 539 bytes took 20ms
+03:02:06.242 200 POST /api/tree/load with 1437 bytes took 2ms
+03:02:06.318 200 GET /api/notes/Loey0RPEdKxB/blob with 155 bytes took 1ms
+03:02:06.320 200 GET /api/note-map/Loey0RPEdKxB/backlink-count with 11 bytes took 1ms
+03:02:06.335 204 PUT /api/options with 0 bytes took 2ms
+03:02:07.972 200 GET /api/search-templates with 16 bytes took 8ms
+03:02:08.022 200 GET /api/search-templates with 16 bytes took 2ms
+03:02:08.863 200 POST /api/delete-notes-preview with 60 bytes took 2ms
+03:02:11.415 Sending message to all clients: {"type":"taskProgressCount","taskId":"xLTPeWEpfp","taskType":"deleteNotes","data":null,"progressCount":0}
+03:02:11.416 Marking branches root_Loey0RPEdKxB as deleted
+03:02:11.416 Deleting note 'Loey0RPEdKxB'
+03:02:11.418 Marking notes Loey0RPEdKxB as deleted
+03:02:11.420 Erased branches: ["root_Loey0RPEdKxB"]
+03:02:11.420 Erased notes: ["Loey0RPEdKxB"]
+03:02:11.421 Sending message to all clients: {"type":"taskSucceeded","taskId":"xLTPeWEpfp","taskType":"deleteNotes","data":null}
+03:02:11.428 Slow 200 DELETE /api/branches/root_Loey0RPEdKxB?taskId=xLTPeWEpfp&eraseNotes=true&last=true with 20 bytes took 14ms
+03:02:11.440 204 PUT /api/options with 0 bytes took 7ms
+03:02:11.441 200 GET /api/notes/root/blob with 155 bytes took 1ms
+03:02:11.443 200 GET /api/note-map/root/backlink-count with 11 bytes took 1ms
+03:02:11.473 JS Info: Frontend app reload: notes 'Loey0RPEdKxB' is erased, need to do complete reload.
+03:02:11.474 JS Info: Frontend app reload: branches 'root_Loey0RPEdKxB' is erased, need to do complete reload.
+03:02:11.488 JS Info: Frontend app reload: erasing notes requires reload
+03:02:11.492 Generated CSRF token dRaiLdok-xJCi_ksJl4lOJC-Hld5Q1RGlxjk with secret undefined
+03:02:11.505 Generated CSRF token Fy8h8K6N-5BFXRtX59_68821pRDjzVooLhOk with secret undefined
+03:02:11.637 200 GET /api/options with 6297 bytes took 1ms
+03:02:11.640 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+03:02:11.644 200 GET /api/tree with 31544 bytes took 4ms
+03:02:11.650 200 GET /api/script/widgets with 155155 bytes took 5ms
+03:02:11.717 200 POST /api/tree/load with 5886 bytes took 1ms
+03:02:11.782 200 POST /api/tree/load with 6050 bytes took 1ms
+03:02:12.010 200 POST /api/tree/load with 5441 bytes took 2ms
+03:02:12.087 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+03:02:12.160 200 GET /api/notes/root/blob with 155 bytes took 2ms
+03:02:12.162 200 GET /api/note-map/root/backlink-count with 11 bytes took 1ms
+03:02:12.221 200 GET /api/note-map/root/backlink-count with 11 bytes took 2ms
+03:02:12.403 200 GET /api/notes/Gtagls7IzDRK/blob with 155 bytes took 2ms
+03:02:12.468 200 POST /api/tree/load with 8909 bytes took 3ms
+03:02:12.540 200 GET /api/notes/lsgJRCHtTh9a/blob with 9422 bytes took 2ms
+03:02:12.603 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 2ms
+03:02:12.664 200 GET /api/notes/1g13lN5Vif5L/blob with 4471 bytes took 1ms
+03:02:12.971 200 GET /api/search-templates with 16 bytes took 2ms
+03:02:13.028 200 POST /api/tree/load with 6304 bytes took 2ms
+03:02:13.082 204 PUT /api/options with 0 bytes took 9ms
+03:02:14.085 200 GET /api/script/startup with 1804 bytes took 3ms
+03:02:14.146 200 POST /api/tree/load with 6013 bytes took 2ms
+03:02:14.205 200 POST /api/tree/load with 6167 bytes took 2ms
+03:02:24.653 Created new note 'F8GnPeOCpda7', branch 'root_F8GnPeOCpda7' of type 'book', mime ''
+03:02:24.658 Slow 200 POST /api/notes/root/children?target=into&targetBranchId= with 530 bytes took 10ms
+03:02:24.724 200 POST /api/tree/load with 1428 bytes took 1ms
+03:02:24.817 200 GET /api/note-map/F8GnPeOCpda7/backlink-count with 11 bytes took 2ms
+03:02:24.832 204 PUT /api/options with 0 bytes took 3ms
+03:02:27.398 200 PUT /api/notes/F8GnPeOCpda7/title with 311 bytes took 7ms
+03:02:28.571 200 PUT /api/notes/F8GnPeOCpda7/title with 312 bytes took 4ms
+03:02:29.572 200 PUT /api/notes/F8GnPeOCpda7/title with 316 bytes took 5ms
+03:02:30.568 200 PUT /api/notes/F8GnPeOCpda7/title with 316 bytes took 6ms
+03:02:31.926 200 PUT /api/notes/F8GnPeOCpda7/title with 317 bytes took 5ms
+03:02:32.929 200 PUT /api/notes/F8GnPeOCpda7/title with 319 bytes took 7ms
+03:02:33.943 200 PUT /api/notes/F8GnPeOCpda7/title with 319 bytes took 5ms
+03:02:39.188 200 GET /api/search-templates with 16 bytes took 2ms
+03:02:39.252 200 GET /api/search-templates with 16 bytes took 5ms
+03:02:45.850 Created new note 'wCz5NWb860os', branch 'F8GnPeOCpda7_wCz5NWb860os' of type 'text', mime 'text/html'
+03:02:45.855 Slow 200 POST /api/notes/F8GnPeOCpda7/children?target=into&targetBranchId= with 554 bytes took 10ms
+03:02:45.918 200 POST /api/tree/load with 1705 bytes took 1ms
+03:02:46.044 200 GET /api/notes/wCz5NWb860os/blob with 155 bytes took 4ms
+03:02:46.084 204 PUT /api/branches/root_F8GnPeOCpda7/expanded/1 with 0 bytes took 2ms
+03:02:46.088 204 PUT /api/options with 0 bytes took 4ms
+03:02:46.089 200 GET /api/note-map/wCz5NWb860os/backlink-count with 11 bytes took 1ms
+03:02:47.760 Slow 200 PUT /api/notes/wCz5NWb860os/title with 320 bytes took 11ms
+03:02:47.828 200 GET /api/notes/wCz5NWb860os/blob with 155 bytes took 1ms
+03:02:48.729 200 PUT /api/notes/wCz5NWb860os/title with 323 bytes took 4ms
+03:02:49.743 200 PUT /api/notes/wCz5NWb860os/title with 323 bytes took 6ms
+03:02:49.814 200 GET /api/notes/wCz5NWb860os/blob with 155 bytes took 2ms
+03:02:52.062 204 PUT /api/branches/root_F8GnPeOCpda7/expanded/0 with 0 bytes took 3ms
+03:02:56.683 200 GET /api/tree?subTreeNoteId=u2Ouc1086YFh with 2246 bytes took 4ms
+03:02:56.953 204 PUT /api/branches/root_u2Ouc1086YFh/expanded/1 with 0 bytes took 2ms
+03:02:58.254 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 3ms
+03:02:58.273 204 PUT /api/options with 0 bytes took 5ms
+03:02:58.275 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 1ms
+03:12:58.892 204 PUT /api/branches/_hidden__lbRoot/expanded/0 with 0 bytes took 4ms
+03:12:58.906 204 PUT /api/branches/_hidden__options/expanded/0 with 0 bytes took 2ms
+03:12:58.909 204 PUT /api/branches/_lbRoot__lbAvailableLaunchers/expanded/0 with 0 bytes took 2ms
+03:12:58.912 204 PUT /api/branches/_lbRoot__lbVisibleLaunchers/expanded/0 with 0 bytes took 2ms
+03:12:59.758 204 PUT /api/branches/root__hidden/expanded/0 with 0 bytes took 3ms
+03:15:50.998 204 PUT /api/options with 0 bytes took 6ms
+03:15:51.002 200 GET /api/notes/lsgJRCHtTh9a/blob with 9422 bytes took 3ms
+03:15:51.004 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+03:16:00.137 200 GET /api/notes/lsgJRCHtTh9a/blob with 9422 bytes took 2ms
+03:16:06.928 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 14ms
+03:16:07.001 200 GET /api/notes/lsgJRCHtTh9a/blob with 9419 bytes took 3ms
+03:16:08.106 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 10ms
+03:16:08.190 200 GET /api/notes/lsgJRCHtTh9a/blob with 9414 bytes took 2ms
+03:16:09.147 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 12ms
+03:16:09.225 200 GET /api/notes/lsgJRCHtTh9a/blob with 9419 bytes took 2ms
+03:16:10.147 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 12ms
+03:16:10.221 200 GET /api/notes/lsgJRCHtTh9a/blob with 9415 bytes took 2ms
+03:16:13.297 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 8ms
+03:16:13.365 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+03:16:17.088 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 7ms
+03:16:17.165 200 GET /api/notes/lsgJRCHtTh9a/blob with 9415 bytes took 2ms
+03:16:19.298 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 7ms
+03:16:19.381 200 GET /api/notes/lsgJRCHtTh9a/blob with 9402 bytes took 3ms
+03:16:21.888 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 9ms
+03:16:21.967 200 GET /api/notes/lsgJRCHtTh9a/blob with 9400 bytes took 3ms
+03:16:31.446 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 10ms
+03:16:31.514 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+03:16:41.722 200 GET /api/tree?subTreeNoteId=5gzhsgQzIUSZ with 1965 bytes took 2ms
+03:17:01.407 204 PUT /api/branches/root_5gzhsgQzIUSZ/expanded/1 with 0 bytes took 4ms
+03:17:01.412 204 PUT /api/options with 0 bytes took 4ms
+03:17:01.417 200 GET /api/notes/1g13lN5Vif5L/blob with 4471 bytes took 1ms
+03:17:01.420 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 2ms
+03:17:09.491 200 GET /api/notes/1g13lN5Vif5L/blob with 4471 bytes took 3ms
+03:17:16.194 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 9ms
+03:17:16.266 200 GET /api/notes/1g13lN5Vif5L/blob with 4469 bytes took 2ms
+03:17:20.573 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 7ms
+03:17:20.645 200 GET /api/notes/1g13lN5Vif5L/blob with 4471 bytes took 5ms
+03:17:24.848 200 GET /api/notes/1g13lN5Vif5L/blob with 4471 bytes took 1ms
+03:17:56.769 Slow 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 11ms
+03:17:56.867 200 GET /api/notes/1g13lN5Vif5L/blob with 4486 bytes took 2ms
+03:17:59.520 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 9ms
+03:17:59.591 200 GET /api/notes/1g13lN5Vif5L/blob with 4482 bytes took 5ms
+03:18:01.134 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 7ms
+03:18:01.206 200 GET /api/notes/1g13lN5Vif5L/blob with 4484 bytes took 3ms
+03:18:08.386 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 6ms
+03:18:08.463 200 GET /api/notes/1g13lN5Vif5L/blob with 4486 bytes took 2ms
+03:18:09.386 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 8ms
+03:18:09.459 200 GET /api/notes/1g13lN5Vif5L/blob with 4484 bytes took 5ms
+03:18:10.573 Slow 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 15ms
+03:18:10.649 200 GET /api/notes/1g13lN5Vif5L/blob with 4486 bytes took 1ms
+03:18:11.622 Slow 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 27ms
+03:18:11.687 200 GET /api/notes/1g13lN5Vif5L/blob with 4499 bytes took 2ms
+03:18:16.288 Slow 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 10ms
+03:18:16.369 200 GET /api/notes/1g13lN5Vif5L/blob with 4546 bytes took 4ms
+03:18:20.864 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 9ms
+03:18:20.941 200 GET /api/notes/1g13lN5Vif5L/blob with 4563 bytes took 1ms
+03:18:48.542 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 8ms
+03:18:48.606 200 GET /api/notes/1g13lN5Vif5L/blob with 4562 bytes took 2ms
+03:18:49.552 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 8ms
+03:18:49.633 200 GET /api/notes/1g13lN5Vif5L/blob with 4561 bytes took 2ms
+03:18:50.649 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 7ms
+03:18:50.725 200 GET /api/notes/1g13lN5Vif5L/blob with 4557 bytes took 5ms
+03:18:51.645 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 6ms
+03:18:51.719 200 GET /api/notes/1g13lN5Vif5L/blob with 4559 bytes took 3ms
+03:18:57.510 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 6ms
+03:18:57.579 200 GET /api/notes/1g13lN5Vif5L/blob with 4561 bytes took 2ms
+03:18:58.528 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 8ms
+03:18:58.601 200 GET /api/notes/1g13lN5Vif5L/blob with 4562 bytes took 4ms
+03:19:09.840 Slow 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 10ms
+03:19:09.908 200 GET /api/notes/1g13lN5Vif5L/blob with 4586 bytes took 2ms
+03:19:11.288 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 8ms
+03:19:11.354 200 GET /api/notes/1g13lN5Vif5L/blob with 4588 bytes took 2ms
+03:19:16.836 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 7ms
+03:19:16.904 200 GET /api/notes/1g13lN5Vif5L/blob with 4590 bytes took 2ms
+03:19:17.939 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 7ms
+03:19:18.016 200 GET /api/notes/1g13lN5Vif5L/blob with 4592 bytes took 8ms
+03:19:20.082 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 4ms
+03:19:20.160 200 GET /api/notes/1g13lN5Vif5L/blob with 4594 bytes took 2ms
+03:19:21.107 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 4ms
+03:19:21.178 200 GET /api/notes/1g13lN5Vif5L/blob with 4595 bytes took 3ms
+03:19:24.868 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 5ms
+03:19:24.936 200 GET /api/notes/1g13lN5Vif5L/blob with 4621 bytes took 2ms
+03:19:27.870 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 6ms
+03:19:27.936 200 GET /api/notes/1g13lN5Vif5L/blob with 4623 bytes took 1ms
+03:19:29.604 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 5ms
+03:19:29.676 200 GET /api/notes/1g13lN5Vif5L/blob with 4625 bytes took 3ms
+03:19:31.508 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 4ms
+03:19:31.578 200 GET /api/notes/1g13lN5Vif5L/blob with 4627 bytes took 3ms
+03:19:32.877 Slow 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 10ms
+03:19:32.943 200 GET /api/notes/1g13lN5Vif5L/blob with 4629 bytes took 4ms
+03:19:33.872 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 5ms
+03:19:33.944 200 GET /api/notes/1g13lN5Vif5L/blob with 4630 bytes took 2ms
+03:19:34.896 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 7ms
+03:19:34.953 200 GET /api/notes/1g13lN5Vif5L/blob with 4627 bytes took 2ms
+03:19:35.905 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 4ms
+03:19:35.983 200 GET /api/notes/1g13lN5Vif5L/blob with 4629 bytes took 5ms
+03:19:36.920 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 5ms
+03:19:36.992 200 GET /api/notes/1g13lN5Vif5L/blob with 4630 bytes took 2ms
+03:19:38.457 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 6ms
+03:19:38.533 200 GET /api/notes/1g13lN5Vif5L/blob with 4633 bytes took 2ms
+03:19:39.458 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 4ms
+03:19:39.537 200 GET /api/notes/1g13lN5Vif5L/blob with 4637 bytes took 4ms
+03:19:40.478 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 5ms
+03:19:40.552 200 GET /api/notes/1g13lN5Vif5L/blob with 4640 bytes took 2ms
+03:19:41.487 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 6ms
+03:19:41.561 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 3ms
+03:19:42.628 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 3ms
+03:19:42.701 200 GET /api/notes/1g13lN5Vif5L/blob with 4645 bytes took 4ms
+03:21:54.620 204 PUT /api/notes/1g13lN5Vif5L/data with 0 bytes took 5ms
+03:21:54.702 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 2ms
+03:22:01.069 Updating option 'leftPaneWidth' to '13'
+03:22:01.072 204 PUT /api/options with 0 bytes took 3ms
+03:22:02.798 Updating option 'hideArchivedNotes_main' to 'false'
+03:22:02.801 204 PUT /api/options with 0 bytes took 4ms
+03:22:02.862 Updating option 'autoCollapseNoteTree' to 'true'
+03:22:02.865 204 PUT /api/options with 0 bytes took 3ms
+03:22:05.692 Updating option 'hideArchivedNotes_main' to 'false'
+03:22:05.695 204 PUT /api/options with 0 bytes took 3ms
+03:22:05.753 Updating option 'autoCollapseNoteTree' to 'true'
+03:22:05.755 204 PUT /api/options with 0 bytes took 2ms
+03:27:11.959 Table counts: notes: 276, revisions: 8, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 214
+03:27:11.976 All consistency checks passed with no errors detected (took 17ms)
+03:32:06.176 204 PUT /api/branches/root_5gzhsgQzIUSZ/expanded/0 with 0 bytes took 4ms
+03:32:06.180 204 PUT /api/branches/root_u2Ouc1086YFh/expanded/0 with 0 bytes took 2ms
+03:34:12.968 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 9ms
+04:27:11.960 Table counts: notes: 276, revisions: 8, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 214
+04:27:11.974 All consistency checks passed with no errors detected (took 14ms)
+05:27:11.962 Table counts: notes: 276, revisions: 8, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 214
+05:27:11.981 All consistency checks passed with no errors detected (took 19ms)
+06:27:11.914 Optimizing database
+06:27:11.918 Optimization finished in 1ms.
+06:27:11.962 Table counts: notes: 276, revisions: 8, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 214
+06:27:11.976 All consistency checks passed with no errors detected (took 15ms)
+07:02:46.346 204 PUT /api/branches/root_5gzhsgQzIUSZ/expanded/1 with 0 bytes took 5ms
+07:02:46.349 204 PUT /api/branches/root_u2Ouc1086YFh/expanded/1 with 0 bytes took 2ms
+07:02:46.642 204 PUT /api/options with 0 bytes took 3ms
+07:02:46.646 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 3ms
+07:02:46.648 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 1ms
+07:04:16.118 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.120 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.120 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.120 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.120 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.120 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.120 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.121 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.121 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.121 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.121 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.121 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.121 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:04:16.121 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:05:32.346 JS Error: 0 PUT options - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:05:32.347 JS Error: 0 GET tree?subTreeNoteId=_hidden - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:05:32.347 JS Error: 0 GET special-notes/inbox/2025-01-03 - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:05:32.347 JS Error: 0 GET database/check-integrity - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:05:34.808 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 5ms
+07:05:34.929 204 PUT /api/options with 0 bytes took 4ms
+07:05:45.985 204 PUT /api/options with 0 bytes took 3ms
+07:05:45.987 200 GET /api/notes/nb4yx5qvVmy5/blob with 2590 bytes took 2ms
+07:05:45.989 200 GET /api/note-map/nb4yx5qvVmy5/backlink-count with 11 bytes took 1ms
+07:05:47.078 204 PUT /api/options with 0 bytes took 2ms
+07:05:47.080 200 GET /api/notes/9GGMzeoUQJJM/blob with 5170 bytes took 2ms
+07:05:47.081 200 GET /api/note-map/9GGMzeoUQJJM/backlink-count with 11 bytes took 1ms
+07:05:48.492 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 3ms
+07:05:48.493 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 1ms
+07:05:48.496 204 PUT /api/options with 0 bytes took 2ms
+07:05:59.374 Updating option 'hideArchivedNotes_main' to 'false'
+07:05:59.376 204 PUT /api/options with 0 bytes took 3ms
+07:05:59.449 Updating option 'autoCollapseNoteTree' to 'false'
+07:05:59.451 204 PUT /api/options with 0 bytes took 3ms
+07:06:03.858 204 PUT /api/options with 0 bytes took 3ms
+07:06:03.860 200 GET /api/note-map/_options/backlink-count with 11 bytes took 1ms
+07:06:03.862 200 GET /api/tree?subTreeNoteId=_hidden with 8837 bytes took 2ms
+07:06:03.975 204 PUT /api/branches/root__hidden/expanded/1 with 0 bytes took 2ms
+07:06:03.986 200 GET /api/tree?subTreeNoteId=_options with 8397 bytes took 2ms
+07:06:06.480 200 GET /api/options with 6522 bytes took 3ms
+07:06:06.482 200 GET /api/note-map/_optionsAdvanced/backlink-count with 11 bytes took 1ms
+07:06:06.558 204 PUT /api/options with 0 bytes took 2ms
+07:06:06.645 200 GET /api/options with 6539 bytes took 3ms
+07:06:06.720 200 GET /api/options with 6539 bytes took 2ms
+07:06:06.799 200 GET /api/options with 6539 bytes took 2ms
+07:06:06.802 200 GET /api/database/anonymized-databases with 2 bytes took 2ms
+07:06:06.890 200 GET /api/options with 6539 bytes took 1ms
+07:06:08.967 204 PUT /api/branches/_hidden__options/expanded/1 with 0 bytes took 4ms
+07:06:09.778 Slow query took 47ms: PRAGMA integrity_check
+07:06:09.779 Integrity check result: [{"integrity_check":"ok"}]
+07:06:09.780 Slow 200 GET /api/database/check-integrity with 38 bytes took 51ms
+07:06:12.960 204 POST /api/database/find-and-fix-consistency-issues with 0 bytes took 2ms
+07:06:12.960 Table counts: notes: 276, revisions: 8, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 214
+07:06:12.970 All consistency checks passed with no errors detected (took 10ms)
+07:06:15.768 Forcing full sync.
+07:06:15.771 204 POST /api/sync/force-full-sync with 0 bytes took 4ms
+07:06:15.839 200 GET /api/options with 6539 bytes took 2ms
+07:06:15.926 200 GET /api/options with 6539 bytes took 1ms
+07:06:16.005 200 GET /api/options with 6539 bytes took 2ms
+07:06:16.088 200 GET /api/options with 6539 bytes took 2ms
+07:06:16.090 200 GET /api/database/anonymized-databases with 2 bytes took 1ms
+07:06:16.158 200 GET /api/options with 6539 bytes took 2ms
+07:06:17.500 Slow query took 50ms: VACUUM
+07:06:17.501 Database has been vacuumed.
+07:06:17.502 Slow 204 POST /api/database/vacuum-database with 0 bytes took 55ms
+07:06:24.628 200 GET /api/note-map/_optionsOther/backlink-count with 11 bytes took 2ms
+07:06:24.646 200 GET /api/options with 6539 bytes took 2ms
+07:06:24.721 204 PUT /api/options with 0 bytes took 5ms
+07:06:24.794 200 GET /api/options with 6536 bytes took 1ms
+07:06:24.872 200 GET /api/options with 6536 bytes took 2ms
+07:06:24.950 200 GET /api/options with 6536 bytes took 3ms
+07:06:25.023 200 GET /api/options with 6536 bytes took 2ms
+07:06:27.274 204 POST /api/notes/erase-deleted-notes-now with 0 bytes took 3ms
+07:06:35.265 204 POST /api/notes/erase-unused-attachments-now with 0 bytes took 4ms
+07:06:43.152 200 GET /api/note-map/_optionsSync/backlink-count with 11 bytes took 2ms
+07:06:43.165 200 GET /api/options with 6536 bytes took 2ms
+07:06:43.252 204 PUT /api/options with 0 bytes took 3ms
+07:06:46.030 200 GET /api/note-map/_optionsBackup/backlink-count with 11 bytes took 2ms
+07:06:46.032 200 GET /api/options with 6535 bytes took 2ms
+07:06:46.107 204 PUT /api/options with 0 bytes took 2ms
+07:06:46.122 200 GET /api/database/backups with 131 bytes took 4ms
+07:06:47.734 200 GET /api/etapi-tokens with 2 bytes took 2ms
+07:06:47.736 200 GET /api/note-map/_optionsEtapi/backlink-count with 11 bytes took 1ms
+07:06:47.738 200 GET /api/options with 6537 bytes took 2ms
+07:06:47.810 204 PUT /api/options with 0 bytes took 2ms
+07:06:48.336 200 GET /api/note-map/_optionsPassword/backlink-count with 11 bytes took 2ms
+07:06:48.340 200 GET /api/options with 6536 bytes took 3ms
+07:06:48.734 204 PUT /api/options with 0 bytes took 4ms
+07:06:48.947 200 GET /api/note-map/_optionsSpellcheck/backlink-count with 11 bytes took 1ms
+07:06:48.949 200 GET /api/options with 6539 bytes took 1ms
+07:06:49.741 204 PUT /api/options with 0 bytes took 5ms
+07:06:51.340 200 GET /api/note-map/_optionsImages/backlink-count with 11 bytes took 2ms
+07:06:51.343 200 GET /api/options with 6541 bytes took 2ms
+07:06:51.424 204 PUT /api/options with 0 bytes took 3ms
+07:06:52.362 200 GET /api/note-map/_optionsCodeNotes/backlink-count with 11 bytes took 1ms
+07:06:52.365 200 GET /api/options with 6537 bytes took 2ms
+07:06:52.450 204 PUT /api/options with 0 bytes took 4ms
+07:06:52.532 200 GET /api/options with 6540 bytes took 4ms
+07:06:52.621 200 GET /api/options with 6540 bytes took 1ms
+07:06:52.698 200 GET /api/options with 6540 bytes took 2ms
+07:06:58.143 Updating option 'codeLineWrapEnabled' to 'false'
+07:06:58.146 204 PUT /api/options with 0 bytes took 3ms
+07:06:58.218 200 GET /api/options with 6541 bytes took 2ms
+07:06:58.295 200 GET /api/options with 6541 bytes took 2ms
+07:06:58.372 200 GET /api/options with 6541 bytes took 2ms
+07:06:58.448 200 GET /api/options with 6541 bytes took 1ms
+07:07:05.614 200 GET /api/note-map/_optionsTextNotes/backlink-count with 11 bytes took 2ms
+07:07:05.617 200 GET /api/options with 6541 bytes took 2ms
+07:07:05.686 204 PUT /api/options with 0 bytes took 3ms
+07:07:05.760 200 GET /api/options with 6541 bytes took 1ms
+07:07:05.843 200 GET /api/options with 6541 bytes took 7ms
+07:07:05.933 200 GET /api/options with 6541 bytes took 3ms
+07:07:08.754 200 GET /api/options with 6541 bytes took 4ms
+07:07:08.755 200 GET /api/note-map/_optionsShortcuts/backlink-count with 11 bytes took 1ms
+07:07:08.768 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+07:07:08.830 204 PUT /api/options with 0 bytes took 4ms
+07:07:11.210 200 GET /api/note-map/_optionsAppearance/backlink-count with 11 bytes took 1ms
+07:07:11.213 200 GET /api/options with 6541 bytes took 2ms
+07:07:11.293 204 PUT /api/options with 0 bytes took 2ms
+07:07:11.306 200 GET /api/options/user-themes with 139 bytes took 5ms
+07:07:11.381 200 GET /api/options with 6542 bytes took 1ms
+07:07:11.455 200 GET /api/options with 6542 bytes took 1ms
+07:07:11.531 200 GET /api/options with 6542 bytes took 2ms
+07:07:11.611 200 GET /api/options with 6542 bytes took 4ms
+07:07:18.344 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 3ms
+07:07:18.499 204 PUT /api/options with 0 bytes took 2ms
+07:08:09.952 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.955 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.955 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.956 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.956 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.967 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.968 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.968 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.968 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.968 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.969 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.969 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.969 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:08:09.969 JS Error: 0 PUT options - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:13:31.980 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:13:31.983 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:13:31.983 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:13:31.983 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:14:27.984 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:14:27.985 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:14:27.985 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:18:41.395 204 PUT /api/options with 0 bytes took 3ms
+07:18:41.398 200 GET /api/notes/9GGMzeoUQJJM/blob with 5170 bytes took 2ms
+07:18:41.399 200 GET /api/note-map/9GGMzeoUQJJM/backlink-count with 11 bytes took 1ms
+07:19:41.491 200 GET /api/note-map/nb4yx5qvVmy5/backlink-count with 11 bytes took 2ms
+07:19:41.493 200 GET /api/notes/nb4yx5qvVmy5/blob with 2590 bytes took 1ms
+07:19:41.500 204 PUT /api/options with 0 bytes took 2ms
+07:19:58.654 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 2ms
+07:19:58.659 204 PUT /api/options with 0 bytes took 4ms
+07:19:58.661 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 1ms
+07:20:50.814 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.825 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.825 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.825 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.826 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.826 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.826 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.826 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.826 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.842 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.842 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.842 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:20:50.843 JS Error: 0 PUT notes/0ocRr86nF47u/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:27:11.963 Table counts: notes: 276, revisions: 8, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 214
+07:27:11.981 All consistency checks passed with no errors detected (took 19ms)
+07:27:12.212 200 GET /api/tree?subTreeNoteId=_lbRoot with 22356 bytes took 4ms
+07:58:28.216 200 GET /api/notes/nb4yx5qvVmy5/blob with 2590 bytes took 3ms
+07:58:28.222 204 PUT /api/options with 0 bytes took 3ms
+07:58:28.225 200 GET /api/note-map/nb4yx5qvVmy5/backlink-count with 11 bytes took 1ms
+08:00:14.098 204 PUT /api/options with 0 bytes took 5ms
+08:00:14.103 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 4ms
+08:00:14.105 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 1ms
+08:00:15.490 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 3ms
+08:00:49.282 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 16ms
+08:00:49.284 Updating option 'hideArchivedNotes_main' to 'false'
+08:00:49.287 204 PUT /api/options with 0 bytes took 3ms
+08:00:49.427 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 4ms
+08:00:49.582 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 5ms
+08:00:49.643 200 GET /api/notes/nb4yx5qvVmy5/blob with 2590 bytes took 2ms
+08:00:49.647 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 3ms
+08:00:49.670 204 PUT /api/options with 0 bytes took 2ms
+08:00:49.672 200 GET /api/note-map/nb4yx5qvVmy5/backlink-count with 11 bytes took 1ms
+08:00:49.675 200 GET /api/options with 6325 bytes took 2ms
+08:00:49.776 200 GET /api/options with 6325 bytes took 3ms
+08:00:49.852 200 GET /api/options with 6325 bytes took 3ms
+08:00:49.883 200 GET /api/options/user-themes with 139 bytes took 4ms
+08:00:49.936 Slow 200 GET /api/options with 6325 bytes took 10ms
+08:00:50.068 200 GET /api/options with 6325 bytes took 2ms
+08:00:50.145 Updating option 'autoCollapseNoteTree' to 'false'
+08:00:50.146 204 PUT /api/options with 0 bytes took 2ms
+08:00:50.234 200 GET /api/options with 6325 bytes took 2ms
+08:00:50.312 200 GET /api/options/user-themes with 139 bytes took 5ms
+08:00:50.314 200 GET /api/options with 6325 bytes took 2ms
+08:00:50.400 200 GET /api/options with 6325 bytes took 2ms
+08:00:50.475 200 GET /api/options with 6325 bytes took 1ms
+08:00:50.552 200 GET /api/options with 6325 bytes took 2ms
+08:01:13.009 200 GET /api/note-map/_options/backlink-count with 11 bytes took 2ms
+08:01:13.038 204 PUT /api/options with 0 bytes took 6ms
+08:02:33.980 JS Error: 0 GET note-map/_optionsTextNotes/backlink-count - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:34.418 JS Error: 0 PUT options - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:34.571 JS Error: 0 GET note-map/_optionsCodeNotes/backlink-count - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:35.273 JS Error: 0 GET note-map/_optionsImages/backlink-count - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:35.396 JS Error: 0 PUT options - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:35.770 JS Error: 0 GET note-map/_optionsSpellcheck/backlink-count - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:36.218 JS Error: 0 GET note-map/_optionsPassword/backlink-count - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:36.405 JS Error: 0 PUT options - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:36.463 JS Error: 0 GET note-map/_optionsEtapi/backlink-count - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+08:02:36.649 204 PUT /api/options with 0 bytes took 5ms
+08:02:36.654 204 PUT /api/options with 0 bytes took 3ms
+08:02:36.661 204 PUT /api/options with 0 bytes took 3ms
+08:02:36.664 204 PUT /api/options with 0 bytes took 2ms
+08:02:36.666 204 PUT /api/options with 0 bytes took 2ms
+08:02:36.668 204 PUT /api/options with 0 bytes took 1ms
+08:02:36.671 200 GET /api/notes/nb4yx5qvVmy5/blob with 2590 bytes took 2ms
+08:02:36.675 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 4ms
+08:02:36.678 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+08:02:36.680 200 GET /api/note-map/_optionsBackup/backlink-count with 11 bytes took 1ms
+08:02:36.682 200 GET /api/note-map/_optionsAdvanced/backlink-count with 11 bytes took 1ms
+08:02:36.684 200 GET /api/options with 6538 bytes took 2ms
+08:02:36.685 200 GET /api/note-map/_options/backlink-count with 11 bytes took 1ms
+08:02:36.687 200 GET /api/note-map/_optionsSync/backlink-count with 11 bytes took 1ms
+08:02:36.689 200 GET /api/note-map/_optionsOther/backlink-count with 11 bytes took 2ms
+08:02:36.690 200 GET /api/note-map/_optionsOther/backlink-count with 11 bytes took 1ms
+08:02:36.767 204 PUT /api/options with 0 bytes took 3ms
+08:02:36.916 204 PUT /api/options with 0 bytes took 4ms
+08:02:37.006 200 GET /api/options with 6340 bytes took 2ms
+08:02:37.125 200 GET /api/options with 6340 bytes took 1ms
+08:02:37.206 200 GET /api/options with 6340 bytes took 2ms
+08:02:37.283 200 GET /api/options with 6340 bytes took 3ms
+08:02:41.574 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+08:03:34.977 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 3ms
+08:03:34.979 200 GET /api/notes/0ocRr86nF47u/blob with 14337 bytes took 2ms
+08:03:34.992 204 PUT /api/options with 0 bytes took 5ms
+08:03:38.935 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:03:39.018 200 GET /api/notes/0ocRr86nF47u/blob with 14341 bytes took 3ms
+08:03:41.044 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 11ms
+08:03:41.122 200 GET /api/notes/0ocRr86nF47u/blob with 14343 bytes took 2ms
+08:03:42.227 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:03:42.305 200 GET /api/notes/0ocRr86nF47u/blob with 14347 bytes took 2ms
+08:03:46.928 Updating option 'hideArchivedNotes_main' to 'false'
+08:03:46.933 204 PUT /api/options with 0 bytes took 6ms
+08:03:47.004 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.080 200 GET /api/options with 6325 bytes took 1ms
+08:03:47.085 200 GET /api/options/user-themes with 139 bytes took 4ms
+08:03:47.165 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.240 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.311 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.385 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.461 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.545 200 GET /api/options with 6325 bytes took 3ms
+08:03:47.619 200 GET /api/options with 6325 bytes took 5ms
+08:03:47.691 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.772 Updating option 'autoCollapseNoteTree' to 'false'
+08:03:47.775 204 PUT /api/options with 0 bytes took 4ms
+08:03:47.860 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.942 200 GET /api/options with 6325 bytes took 2ms
+08:03:47.946 200 GET /api/options/user-themes with 139 bytes took 3ms
+08:03:48.031 200 GET /api/options with 6325 bytes took 3ms
+08:03:48.102 200 GET /api/options with 6325 bytes took 2ms
+08:03:48.183 200 GET /api/options with 6325 bytes took 2ms
+08:03:48.257 200 GET /api/options with 6325 bytes took 2ms
+08:03:48.334 200 GET /api/options with 6325 bytes took 2ms
+08:03:48.413 200 GET /api/options with 6325 bytes took 2ms
+08:03:48.488 200 GET /api/options with 6325 bytes took 2ms
+08:03:48.564 200 GET /api/options with 6325 bytes took 2ms
+08:03:49.035 200 GET /api/note-map/_options/backlink-count with 11 bytes took 1ms
+08:03:49.053 204 PUT /api/options with 0 bytes took 4ms
+08:03:50.545 200 GET /api/note-map/_optionsAdvanced/backlink-count with 11 bytes took 1ms
+08:03:50.547 200 GET /api/options with 6523 bytes took 1ms
+08:03:50.621 204 PUT /api/options with 0 bytes took 4ms
+08:03:50.699 200 GET /api/options with 6540 bytes took 2ms
+08:03:50.784 200 GET /api/options with 6540 bytes took 1ms
+08:03:50.881 200 GET /api/database/anonymized-databases with 2 bytes took 2ms
+08:03:50.883 200 GET /api/options with 6540 bytes took 2ms
+08:03:50.963 200 GET /api/options with 6540 bytes took 2ms
+08:03:52.228 Integrity check result: [{"integrity_check":"ok"}]
+08:03:52.229 200 GET /api/database/check-integrity with 38 bytes took 7ms
+08:03:55.036 204 POST /api/database/find-and-fix-consistency-issues with 0 bytes took 1ms
+08:03:55.036 Table counts: notes: 276, revisions: 9, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 215
+08:03:55.048 All consistency checks passed with no errors detected (took 12ms)
+08:03:57.543 200 GET /api/note-map/_optionsSync/backlink-count with 11 bytes took 2ms
+08:03:57.546 200 GET /api/options with 6540 bytes took 2ms
+08:03:57.632 204 PUT /api/options with 0 bytes took 3ms
+08:03:58.971 200 GET /api/note-map/_optionsBackup/backlink-count with 11 bytes took 1ms
+08:03:58.976 200 GET /api/options with 6536 bytes took 4ms
+08:03:59.052 204 PUT /api/options with 0 bytes took 4ms
+08:03:59.092 200 GET /api/database/backups with 131 bytes took 3ms
+08:04:00.174 200 GET /api/note-map/_optionsEtapi/backlink-count with 11 bytes took 2ms
+08:04:00.176 200 GET /api/etapi-tokens with 2 bytes took 1ms
+08:04:00.179 200 GET /api/options with 6538 bytes took 2ms
+08:04:00.255 204 PUT /api/options with 0 bytes took 5ms
+08:04:01.541 200 GET /api/note-map/_optionsPassword/backlink-count with 11 bytes took 2ms
+08:04:01.544 200 GET /api/options with 6537 bytes took 2ms
+08:04:01.625 204 PUT /api/options with 0 bytes took 3ms
+08:04:02.408 200 GET /api/note-map/_optionsSpellcheck/backlink-count with 11 bytes took 1ms
+08:04:02.418 200 GET /api/options with 6540 bytes took 1ms
+08:04:02.567 Slow 204 PUT /api/options with 0 bytes took 11ms
+08:04:03.291 200 GET /api/options with 6542 bytes took 2ms
+08:04:03.292 200 GET /api/note-map/_optionsImages/backlink-count with 11 bytes took 1ms
+08:04:03.552 204 PUT /api/options with 0 bytes took 4ms
+08:04:05.345 200 GET /api/note-map/_optionsCodeNotes/backlink-count with 11 bytes took 2ms
+08:04:05.348 200 GET /api/options with 6538 bytes took 2ms
+08:04:05.426 204 PUT /api/options with 0 bytes took 3ms
+08:04:05.514 200 GET /api/options with 6541 bytes took 4ms
+08:04:05.603 200 GET /api/options with 6541 bytes took 2ms
+08:04:05.695 200 GET /api/options with 6541 bytes took 2ms
+08:04:07.512 200 GET /api/note-map/_optionsTextNotes/backlink-count with 11 bytes took 1ms
+08:04:07.514 200 GET /api/options with 6541 bytes took 1ms
+08:04:07.590 204 PUT /api/options with 0 bytes took 3ms
+08:04:07.678 200 GET /api/options with 6541 bytes took 2ms
+08:04:07.753 200 GET /api/options with 6541 bytes took 2ms
+08:04:07.833 200 GET /api/options with 6541 bytes took 2ms
+08:04:09.704 200 GET /api/note-map/_optionsAppearance/backlink-count with 11 bytes took 1ms
+08:04:09.707 200 GET /api/options with 6541 bytes took 1ms
+08:04:09.789 204 PUT /api/options with 0 bytes took 4ms
+08:04:09.793 200 GET /api/options/user-themes with 139 bytes took 3ms
+08:04:09.877 200 GET /api/options with 6542 bytes took 2ms
+08:04:09.969 200 GET /api/options with 6542 bytes took 2ms
+08:04:10.062 200 GET /api/options with 6542 bytes took 3ms
+08:04:10.140 200 GET /api/options with 6542 bytes took 2ms
+08:04:13.687 200 GET /api/notes/0ocRr86nF47u/blob with 14347 bytes took 2ms
+08:04:13.847 204 PUT /api/options with 0 bytes took 8ms
+08:04:16.561 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+08:04:16.563 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+08:04:16.570 204 PUT /api/options with 0 bytes took 3ms
+08:04:18.041 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+08:19:59.845 Updating option 'hideArchivedNotes_main' to 'false'
+08:19:59.851 Slow 204 PUT /api/options with 0 bytes took 12ms
+08:19:59.934 200 GET /api/options with 6312 bytes took 3ms
+08:20:00.022 200 GET /api/options with 6312 bytes took 1ms
+08:20:00.026 200 GET /api/options/user-themes with 139 bytes took 3ms
+08:20:00.106 200 GET /api/options with 6312 bytes took 3ms
+08:20:00.181 200 GET /api/options with 6312 bytes took 2ms
+08:20:00.248 200 GET /api/options with 6312 bytes took 3ms
+08:20:00.323 200 GET /api/options with 6312 bytes took 2ms
+08:20:00.394 200 GET /api/options with 6312 bytes took 1ms
+08:20:00.472 200 GET /api/options with 6312 bytes took 3ms
+08:20:00.550 200 GET /api/options with 6312 bytes took 2ms
+08:20:00.627 200 GET /api/options with 6312 bytes took 2ms
+08:20:00.708 200 GET /api/options with 6312 bytes took 1ms
+08:20:00.783 200 GET /api/options with 6312 bytes took 3ms
+08:20:00.786 200 GET /api/options/user-themes with 139 bytes took 2ms
+08:20:00.857 200 GET /api/options with 6312 bytes took 2ms
+08:20:00.935 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.010 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.155 Updating option 'autoCollapseNoteTree' to 'false'
+08:20:01.160 204 PUT /api/options with 0 bytes took 6ms
+08:20:01.231 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.355 200 GET /api/options with 6312 bytes took 3ms
+08:20:01.360 200 GET /api/options/user-themes with 139 bytes took 4ms
+08:20:01.442 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.517 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.592 200 GET /api/options with 6312 bytes took 3ms
+08:20:01.670 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.733 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.798 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.870 200 GET /api/options with 6312 bytes took 2ms
+08:20:01.950 200 GET /api/options with 6312 bytes took 6ms
+08:20:02.023 200 GET /api/options with 6312 bytes took 2ms
+08:20:02.101 200 GET /api/options with 6312 bytes took 2ms
+08:20:02.108 200 GET /api/options/user-themes with 139 bytes took 6ms
+08:20:02.181 200 GET /api/options with 6312 bytes took 2ms
+08:20:02.250 200 GET /api/options with 6312 bytes took 2ms
+08:20:02.330 200 GET /api/options with 6312 bytes took 5ms
+08:20:02.791 200 GET /api/notes/0ocRr86nF47u/blob with 14347 bytes took 2ms
+08:20:02.792 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 0ms
+08:20:02.796 204 PUT /api/options with 0 bytes took 3ms
+08:20:06.914 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 12ms
+08:20:06.989 200 GET /api/notes/0ocRr86nF47u/blob with 14351 bytes took 2ms
+08:20:26.964 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 15ms
+08:20:27.037 200 GET /api/notes/0ocRr86nF47u/blob with 14357 bytes took 2ms
+08:20:28.688 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 10ms
+08:20:28.772 200 GET /api/notes/0ocRr86nF47u/blob with 14358 bytes took 3ms
+08:20:30.170 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 9ms
+08:20:30.251 200 GET /api/notes/0ocRr86nF47u/blob with 14359 bytes took 2ms
+08:20:31.194 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:20:31.265 200 GET /api/notes/0ocRr86nF47u/blob with 14363 bytes took 2ms
+08:20:32.212 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 9ms
+08:20:32.291 200 GET /api/notes/0ocRr86nF47u/blob with 14364 bytes took 4ms
+08:20:33.230 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 10ms
+08:20:33.297 200 GET /api/notes/0ocRr86nF47u/blob with 14372 bytes took 2ms
+08:20:34.234 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:20:34.315 200 GET /api/notes/0ocRr86nF47u/blob with 14375 bytes took 3ms
+08:20:35.249 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 9ms
+08:20:35.327 200 GET /api/notes/0ocRr86nF47u/blob with 14379 bytes took 2ms
+08:20:36.266 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 6ms
+08:20:36.332 200 GET /api/notes/0ocRr86nF47u/blob with 14380 bytes took 1ms
+08:20:37.282 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 8ms
+08:20:37.365 200 GET /api/notes/0ocRr86nF47u/blob with 14384 bytes took 4ms
+08:20:38.295 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:20:38.361 200 GET /api/notes/0ocRr86nF47u/blob with 14387 bytes took 2ms
+08:20:39.295 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 6ms
+08:20:39.400 200 GET /api/notes/0ocRr86nF47u/blob with 14390 bytes took 3ms
+08:20:40.325 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 17ms
+08:20:40.390 200 GET /api/notes/0ocRr86nF47u/blob with 14393 bytes took 2ms
+08:20:43.366 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 13ms
+08:20:43.439 200 GET /api/notes/0ocRr86nF47u/blob with 14394 bytes took 2ms
+08:20:44.370 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 8ms
+08:20:44.453 200 GET /api/notes/0ocRr86nF47u/blob with 14398 bytes took 3ms
+08:20:45.370 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 9ms
+08:20:45.450 200 GET /api/notes/0ocRr86nF47u/blob with 14400 bytes took 3ms
+08:20:46.537 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:20:46.617 200 GET /api/notes/0ocRr86nF47u/blob with 14401 bytes took 2ms
+08:20:47.569 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 10ms
+08:20:47.644 200 GET /api/notes/0ocRr86nF47u/blob with 14406 bytes took 3ms
+08:20:48.581 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 6ms
+08:20:48.661 200 GET /api/notes/0ocRr86nF47u/blob with 14410 bytes took 2ms
+08:20:49.595 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 11ms
+08:20:49.677 200 GET /api/notes/0ocRr86nF47u/blob with 14411 bytes took 2ms
+08:20:50.900 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 5ms
+08:20:50.983 200 GET /api/notes/0ocRr86nF47u/blob with 14415 bytes took 2ms
+08:20:53.851 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 9ms
+08:20:53.929 200 GET /api/notes/0ocRr86nF47u/blob with 14416 bytes took 3ms
+08:20:54.874 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 14ms
+08:20:54.950 200 GET /api/notes/0ocRr86nF47u/blob with 14422 bytes took 4ms
+08:20:55.915 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 8ms
+08:20:55.995 200 GET /api/notes/0ocRr86nF47u/blob with 14424 bytes took 6ms
+08:20:57.198 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 11ms
+08:20:57.272 200 GET /api/notes/0ocRr86nF47u/blob with 14425 bytes took 2ms
+08:20:58.225 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:20:58.297 200 GET /api/notes/0ocRr86nF47u/blob with 14429 bytes took 2ms
+08:20:59.226 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 9ms
+08:20:59.285 200 GET /api/notes/0ocRr86nF47u/blob with 14432 bytes took 3ms
+08:21:00.276 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 8ms
+08:21:00.358 200 GET /api/notes/0ocRr86nF47u/blob with 14433 bytes took 4ms
+08:21:01.285 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 8ms
+08:21:01.367 200 GET /api/notes/0ocRr86nF47u/blob with 14433 bytes took 4ms
+08:21:02.317 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:21:02.399 200 GET /api/notes/0ocRr86nF47u/blob with 14435 bytes took 3ms
+08:21:03.313 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 7ms
+08:21:03.436 200 GET /api/notes/0ocRr86nF47u/blob with 14440 bytes took 1ms
+08:21:04.339 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 9ms
+08:21:04.418 200 GET /api/notes/0ocRr86nF47u/blob with 14442 bytes took 2ms
+08:21:06.884 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 10ms
+08:21:06.964 200 GET /api/notes/0ocRr86nF47u/blob with 14446 bytes took 3ms
+08:21:07.901 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 11ms
+08:21:07.983 200 GET /api/notes/0ocRr86nF47u/blob with 14451 bytes took 3ms
+08:21:08.921 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 8ms
+08:21:08.999 200 GET /api/notes/0ocRr86nF47u/blob with 14453 bytes took 7ms
+08:21:09.925 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 4ms
+08:21:09.997 200 GET /api/notes/0ocRr86nF47u/blob with 14454 bytes took 2ms
+08:21:25.900 Updating option 'hideArchivedNotes_main' to 'false'
+08:21:25.903 204 PUT /api/options with 0 bytes took 3ms
+08:21:25.976 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.041 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.071 200 GET /api/options/user-themes with 139 bytes took 4ms
+08:21:26.114 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.193 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.267 200 GET /api/options with 6325 bytes took 1ms
+08:21:26.344 200 GET /api/options with 6325 bytes took 3ms
+08:21:26.420 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.497 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.572 200 GET /api/options with 6325 bytes took 1ms
+08:21:26.651 200 GET /api/options with 6325 bytes took 3ms
+08:21:26.726 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.805 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.808 200 GET /api/options/user-themes with 139 bytes took 2ms
+08:21:26.879 200 GET /api/options with 6325 bytes took 2ms
+08:21:26.954 200 GET /api/options with 6325 bytes took 2ms
+08:21:27.029 200 GET /api/options with 6325 bytes took 2ms
+08:21:27.105 Updating option 'autoCollapseNoteTree' to 'false'
+08:21:27.106 204 PUT /api/options with 0 bytes took 2ms
+08:21:27.183 200 GET /api/options with 6325 bytes took 2ms
+08:21:27.249 200 GET /api/options with 6325 bytes took 2ms
+08:21:27.261 200 GET /api/options/user-themes with 139 bytes took 2ms
+08:21:27.319 200 GET /api/options with 6325 bytes took 2ms
+08:21:27.394 200 GET /api/options with 6325 bytes took 3ms
+08:21:27.471 200 GET /api/options with 6325 bytes took 3ms
+08:21:27.548 200 GET /api/options with 6325 bytes took 2ms
+08:21:27.623 200 GET /api/options with 6325 bytes took 1ms
+08:21:27.702 200 GET /api/options with 6325 bytes took 4ms
+08:21:27.775 200 GET /api/options with 6325 bytes took 2ms
+08:21:27.838 200 GET /api/options with 6325 bytes took 2ms
+08:21:27.901 200 GET /api/options with 6325 bytes took 4ms
+08:21:27.978 200 GET /api/options with 6325 bytes took 3ms
+08:21:27.980 200 GET /api/options/user-themes with 139 bytes took 2ms
+08:21:28.054 200 GET /api/options with 6325 bytes took 3ms
+08:21:28.127 200 GET /api/options with 6325 bytes took 2ms
+08:21:28.204 200 GET /api/options with 6325 bytes took 2ms
+08:21:41.361 200 GET /api/note-map/_options/backlink-count with 11 bytes took 1ms
+08:21:41.388 204 PUT /api/options with 0 bytes took 2ms
+08:21:42.618 200 GET /api/note-map/_optionsAdvanced/backlink-count with 11 bytes took 1ms
+08:21:42.620 200 GET /api/options with 6523 bytes took 1ms
+08:21:42.688 204 PUT /api/options with 0 bytes took 2ms
+08:21:42.767 200 GET /api/options with 6540 bytes took 5ms
+08:21:42.841 200 GET /api/options with 6540 bytes took 2ms
+08:21:42.918 200 GET /api/database/anonymized-databases with 2 bytes took 2ms
+08:21:42.922 200 GET /api/options with 6540 bytes took 3ms
+08:21:43.007 200 GET /api/options with 6540 bytes took 2ms
+08:21:43.870 Integrity check result: [{"integrity_check":"ok"}]
+08:21:43.871 200 GET /api/database/check-integrity with 38 bytes took 9ms
+08:21:47.311 204 POST /api/database/find-and-fix-consistency-issues with 0 bytes took 1ms
+08:21:47.312 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+08:21:47.326 All consistency checks passed with no errors detected (took 14ms)
+08:21:49.192 Slow 200 POST /api/database/anonymize/full with 122 bytes took 66ms
+08:21:49.277 200 GET /api/options with 6540 bytes took 2ms
+08:21:49.344 200 GET /api/database/anonymized-databases with 149 bytes took 2ms
+08:21:55.290 Slow 200 POST /api/database/anonymize/light with 123 bytes took 36ms
+08:21:55.381 200 GET /api/options with 6540 bytes took 2ms
+08:21:55.456 200 GET /api/database/anonymized-databases with 299 bytes took 2ms
+08:22:00.286 Forcing full sync.
+08:22:00.289 204 POST /api/sync/force-full-sync with 0 bytes took 5ms
+08:22:00.364 200 GET /api/options with 6540 bytes took 2ms
+08:22:00.440 200 GET /api/options with 6540 bytes took 2ms
+08:22:00.444 200 GET /api/options/user-themes with 139 bytes took 4ms
+08:22:00.516 200 GET /api/options with 6540 bytes took 2ms
+08:22:00.591 200 GET /api/options with 6540 bytes took 2ms
+08:22:00.668 200 GET /api/options with 6540 bytes took 2ms
+08:22:00.746 200 GET /api/options with 6540 bytes took 2ms
+08:22:00.819 200 GET /api/options with 6540 bytes took 2ms
+08:22:00.900 200 GET /api/options with 6540 bytes took 2ms
+08:22:00.978 200 GET /api/options with 6540 bytes took 4ms
+08:22:01.052 200 GET /api/options with 6540 bytes took 3ms
+08:22:01.128 200 GET /api/options with 6540 bytes took 2ms
+08:22:01.210 200 GET /api/options with 6540 bytes took 2ms
+08:22:01.213 200 GET /api/options/user-themes with 139 bytes took 2ms
+08:22:01.273 200 GET /api/options with 6540 bytes took 2ms
+08:22:01.336 Created 276 missing entity changes for entity 'notes'.
+08:22:01.384 Created 279 missing entity changes for entity 'branches'.
+08:22:01.387 Created 10 missing entity changes for entity 'revisions'.
+08:22:01.396 Created 29 missing entity changes for entity 'attachments'.
+08:22:01.494 Created 216 missing entity changes for entity 'blobs'.
+08:22:01.560 Created 426 missing entity changes for entity 'attributes'.
+08:22:01.565 Created 22 missing entity changes for entity 'options'.
+08:22:01.565 Sync rows have been filled.
+08:22:01.617 Slow 204 POST /api/sync/fill-entity-changes with 0 bytes took 323ms
+08:22:01.630 200 GET /api/options with 6540 bytes took 1ms
+08:22:01.708 200 GET /api/options with 6540 bytes took 3ms
+08:22:01.781 200 GET /api/options with 6540 bytes took 2ms
+08:22:01.859 200 GET /api/options with 6540 bytes took 1ms
+08:22:01.939 200 GET /api/options with 6540 bytes took 1ms
+08:22:02.013 200 GET /api/options with 6540 bytes took 2ms
+08:22:02.015 200 GET /api/database/anonymized-databases with 299 bytes took 1ms
+08:22:02.090 200 GET /api/options with 6540 bytes took 2ms
+08:22:02.156 200 POST /api/tree/load with 56933 bytes took 4ms
+08:22:02.276 200 GET /api/notes/0ocRr86nF47u/blob with 14454 bytes took 2ms
+08:22:02.278 200 GET /api/options with 6540 bytes took 2ms
+08:22:02.288 200 GET /api/tree?subTreeNoteId=_lbBackInHistory with 7484 bytes took 2ms
+08:22:02.351 200 GET /api/options with 6540 bytes took 2ms
+08:22:02.355 200 GET /api/options/user-themes with 139 bytes took 3ms
+08:22:02.379 200 GET /api/tree?subTreeNoteId=_lbBackendLog with 7987 bytes took 2ms
+08:22:02.426 200 GET /api/options with 6540 bytes took 1ms
+08:22:02.460 200 GET /api/tree?subTreeNoteId=_lbBookmarks with 8640 bytes took 2ms
+08:22:02.506 200 GET /api/options with 6540 bytes took 2ms
+08:22:02.535 200 GET /api/tree?subTreeNoteId=_lbCalendar with 8632 bytes took 2ms
+08:22:02.582 200 GET /api/options with 6540 bytes took 1ms
+08:22:02.614 200 GET /api/tree?subTreeNoteId=_lbForwardInHistory with 7515 bytes took 2ms
+08:22:02.664 200 GET /api/options with 6540 bytes took 2ms
+08:22:02.691 200 GET /api/tree?subTreeNoteId=_lbJumpTo with 8946 bytes took 2ms
+08:22:02.740 200 GET /api/options with 6540 bytes took 3ms
+08:22:02.779 200 GET /api/tree?subTreeNoteId=_lbNewNote with 8821 bytes took 1ms
+08:22:02.814 200 GET /api/options with 6540 bytes took 3ms
+08:22:02.877 200 GET /api/tree?subTreeNoteId=_lbNoteMap with 9351 bytes took 2ms
+08:22:02.893 200 GET /api/options with 6540 bytes took 1ms
+08:22:03.076 Slow query took 114ms: VACUUM
+08:22:03.077 Database has been vacuumed.
+08:22:03.078 Slow 204 POST /api/database/vacuum-database with 0 bytes took 116ms
+08:22:03.081 200 GET /api/options with 6540 bytes took 2ms
+08:22:03.084 200 GET /api/tree?subTreeNoteId=_lbProtectedSession with 8707 bytes took 1ms
+08:22:03.163 200 GET /api/options with 6540 bytes took 2ms
+08:22:03.178 200 GET /api/tree?subTreeNoteId=_lbRecentChanges with 9018 bytes took 2ms
+08:22:03.234 200 GET /api/options with 6540 bytes took 1ms
+08:22:03.236 200 GET /api/options/user-themes with 139 bytes took 2ms
+08:22:03.256 200 GET /api/tree?subTreeNoteId=_lbSearch with 8948 bytes took 2ms
+08:22:03.317 200 GET /api/options with 6540 bytes took 2ms
+08:22:03.349 200 GET /api/tree?subTreeNoteId=_lbSpacer1 with 9869 bytes took 2ms
+08:22:03.395 200 GET /api/options with 6540 bytes took 2ms
+08:22:03.441 200 GET /api/tree?subTreeNoteId=_lbSpacer2 with 9868 bytes took 2ms
+08:22:03.473 200 GET /api/options with 6540 bytes took 3ms
+08:22:03.523 200 GET /api/tree?subTreeNoteId=_lbSyncStatus with 8646 bytes took 2ms
+08:22:03.553 200 GET /api/options with 6540 bytes took 3ms
+08:22:03.608 200 GET /api/tree?subTreeNoteId=_lbToday with 8622 bytes took 2ms
+08:22:03.624 200 GET /api/options with 6540 bytes took 1ms
+08:22:03.700 200 GET /api/options with 6540 bytes took 2ms
+08:22:03.778 200 GET /api/options with 6540 bytes took 1ms
+08:22:03.779 200 GET /api/database/anonymized-databases with 299 bytes took 1ms
+08:22:03.854 200 GET /api/options with 6540 bytes took 4ms
+08:22:06.987 200 GET /api/note-map/_optionsOther/backlink-count with 11 bytes took 1ms
+08:22:07.003 200 GET /api/options with 6540 bytes took 2ms
+08:22:07.080 204 PUT /api/options with 0 bytes took 5ms
+08:22:07.210 200 GET /api/options with 6537 bytes took 1ms
+08:22:07.295 200 GET /api/options with 6537 bytes took 2ms
+08:22:07.381 200 GET /api/options with 6537 bytes took 1ms
+08:22:07.458 200 GET /api/options with 6537 bytes took 1ms
+08:22:10.190 Updating option 'disableTray' to 'true'
+08:22:10.192 204 PUT /api/options with 0 bytes took 2ms
+08:22:10.265 200 GET /api/options with 6536 bytes took 2ms
+08:22:10.342 200 GET /api/options with 6536 bytes took 1ms
+08:22:10.346 200 GET /api/options/user-themes with 139 bytes took 3ms
+08:22:10.419 200 GET /api/options with 6536 bytes took 2ms
+08:22:10.496 200 GET /api/options with 6536 bytes took 1ms
+08:22:10.568 200 GET /api/options with 6536 bytes took 1ms
+08:22:10.648 200 GET /api/options with 6536 bytes took 2ms
+08:22:10.721 200 GET /api/options with 6536 bytes took 1ms
+08:22:10.803 200 GET /api/options with 6536 bytes took 2ms
+08:22:10.878 200 GET /api/options with 6536 bytes took 2ms
+08:22:10.954 200 GET /api/options with 6536 bytes took 2ms
+08:22:11.017 200 GET /api/options with 6536 bytes took 2ms
+08:22:11.094 200 GET /api/options with 6536 bytes took 1ms
+08:22:11.096 200 GET /api/options/user-themes with 139 bytes took 1ms
+08:22:11.169 200 GET /api/options with 6536 bytes took 2ms
+08:22:11.248 200 GET /api/options with 6536 bytes took 1ms
+08:22:11.320 200 GET /api/options with 6536 bytes took 2ms
+08:22:11.399 200 GET /api/options with 6536 bytes took 1ms
+08:22:11.474 200 GET /api/options with 6536 bytes took 3ms
+08:22:11.550 200 GET /api/options with 6536 bytes took 2ms
+08:22:11.639 200 GET /api/options with 6536 bytes took 1ms
+08:22:11.717 200 GET /api/options with 6536 bytes took 2ms
+08:22:15.241 204 POST /api/notes/erase-deleted-notes-now with 0 bytes took 4ms
+08:22:17.568 200 GET /api/note-map/_optionsCodeNotes/backlink-count with 11 bytes took 1ms
+08:22:17.586 200 GET /api/options with 6536 bytes took 1ms
+08:22:17.664 204 PUT /api/options with 0 bytes took 3ms
+08:22:17.753 200 GET /api/options with 6540 bytes took 3ms
+08:22:17.842 200 GET /api/options with 6540 bytes took 2ms
+08:22:17.933 200 GET /api/options with 6540 bytes took 2ms
+08:23:45.787 Generated CSRF token 66yRx5ck-T8lCDOqaP0n09OU0E4I_XLudSoM with secret undefined
+08:23:45.978 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+08:23:45.979 200 GET /api/options with 6540 bytes took 1ms
+08:23:45.982 200 GET /api/tree with 32572 bytes took 3ms
+08:23:45.988 200 GET /api/script/widgets with 155155 bytes took 6ms
+08:23:46.098 200 POST /api/tree/load with 6015 bytes took 2ms
+08:23:46.188 200 POST /api/tree/load with 6179 bytes took 2ms
+08:23:46.428 200 POST /api/tree/load with 5570 bytes took 2ms
+08:23:46.521 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+08:23:46.629 200 GET /api/note-map/_optionsCodeNotes/backlink-count with 11 bytes took 1ms
+08:23:46.631 200 GET /api/options with 6540 bytes took 2ms
+08:23:46.708 200 GET /api/options with 6540 bytes took 2ms
+08:23:46.788 200 GET /api/options with 6540 bytes took 2ms
+08:23:46.861 200 GET /api/options with 6540 bytes took 2ms
+08:23:48.552 200 GET /api/script/startup with 1804 bytes took 7ms
+08:23:48.635 200 POST /api/tree/load with 6142 bytes took 2ms
+08:23:48.715 200 POST /api/tree/load with 6296 bytes took 2ms
+08:23:53.113 200 GET /api/notes/0ocRr86nF47u/blob with 14454 bytes took 3ms
+08:23:53.115 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 1ms
+08:23:53.390 204 PUT /api/options with 0 bytes took 4ms
+08:23:58.518 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 11ms
+08:23:58.592 200 GET /api/notes/0ocRr86nF47u/blob with 14452 bytes took 2ms
+08:23:59.540 Slow 204 PUT /api/notes/0ocRr86nF47u/data with 0 bytes took 10ms
+08:23:59.617 200 GET /api/notes/0ocRr86nF47u/blob with 14450 bytes took 1ms
+08:24:06.712 Generated CSRF token d0x8uUZp-UzbKzxXcY_HmzM87RVGrrUpV-k4 with secret undefined
+08:24:06.881 200 GET /api/options with 6352 bytes took 1ms
+08:24:06.886 200 GET /api/keyboard-actions with 12407 bytes took 5ms
+08:24:06.891 200 GET /api/script/widgets with 155155 bytes took 5ms
+08:24:06.896 200 GET /api/tree with 32572 bytes took 3ms
+08:24:06.987 200 POST /api/tree/load with 6015 bytes took 2ms
+08:24:07.063 200 POST /api/tree/load with 6179 bytes took 2ms
+08:24:07.308 200 POST /api/tree/load with 5570 bytes took 2ms
+08:24:07.399 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+08:24:07.511 200 GET /api/notes/0ocRr86nF47u/blob with 14450 bytes took 4ms
+08:24:07.513 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 2ms
+08:24:07.587 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 2ms
+08:24:08.378 204 PUT /api/options with 0 bytes took 3ms
+08:24:09.404 200 GET /api/script/startup with 1804 bytes took 4ms
+08:24:09.476 200 POST /api/tree/load with 6142 bytes took 2ms
+08:24:09.556 200 POST /api/tree/load with 6296 bytes took 2ms
+08:27:11.963 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+08:27:11.970 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'autoFixConsistencyIssues'
+08:27:11.972 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'autoReadonlySizeCode'
+08:27:11.974 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'autoReadonlySizeText'
+08:27:11.977 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'codeLineWrapEnabled'
+08:27:11.979 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'dailyBackupEnabled'
+08:27:11.980 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'dbVersion'
+08:27:11.982 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'debugModeEnabled'
+08:27:11.983 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'detailFontFamily'
+08:27:11.985 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'detailFontSize'
+08:27:11.986 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'documentId'
+08:27:11.988 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'documentSecret'
+08:27:11.989 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'hideArchivedNotes_main'
+08:27:11.991 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'initialized'
+08:27:11.993 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsActivateNextTab'
+08:27:11.995 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsActivatePreviousTab'
+08:27:11.997 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsAddIncludeNoteToText'
+08:27:12.000 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsAddLinkToText'
+08:27:12.001 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsAddNewLabel'
+08:27:12.003 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsAddNewRelation'
+08:27:12.006 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsAddNoteAboveToSelection'
+08:27:12.009 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsAddNoteBelowToSelection'
+08:27:12.011 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsBackInNoteHistory'
+08:27:12.012 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCloneNotesTo'
+08:27:12.014 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCloseActiveTab'
+08:27:12.015 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCollapseSubtree'
+08:27:12.017 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCollapseTree'
+08:27:12.019 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCopyNotesToClipboard'
+08:27:12.020 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCopyWithoutFormatting'
+08:27:12.021 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCreateNoteAfter'
+08:27:12.022 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCreateNoteInto'
+08:27:12.024 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCreateNoteIntoInbox'
+08:27:12.025 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCutIntoNote'
+08:27:12.027 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsCutNotesToClipboard'
+08:27:12.028 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsDeleteNotes'
+08:27:12.030 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsDuplicateSubtree'
+08:27:12.032 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsEditBranchPrefix'
+08:27:12.033 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsEditNoteTitle'
+08:27:12.034 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsEditReadOnlyNote'
+08:27:12.035 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsEigthTab'
+08:27:12.036 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsExpandSubtree'
+08:27:12.037 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsFifthTab'
+08:27:12.038 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsFindInText'
+08:27:12.039 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsFirstTab'
+08:27:12.040 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsFollowLinkUnderCursor'
+08:27:12.042 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsForceSaveRevision'
+08:27:12.043 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsForwardInNoteHistory'
+08:27:12.044 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsFourthTab'
+08:27:12.045 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsInsertDateTimeToText'
+08:27:12.046 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsJumpToNote'
+08:27:12.048 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsLastTab'
+08:27:12.053 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsMoveNoteDown'
+08:27:12.055 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsMoveNoteDownInHierarchy'
+08:27:12.057 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsMoveNoteUp'
+08:27:12.058 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsMoveNoteUpInHierarchy'
+08:27:12.060 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsMoveNotesTo'
+08:27:12.062 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsNinthTab'
+08:27:12.064 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsOpenDevTools'
+08:27:12.066 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsOpenNewTab'
+08:27:12.067 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsOpenNewWindow'
+08:27:12.069 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsOpenNoteExternally'
+08:27:12.070 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsPasteMarkdownIntoText'
+08:27:12.071 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsPasteNotesFromClipboard'
+08:27:12.072 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsPrintActiveNote'
+08:27:12.073 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsQuickSearch'
+08:27:12.075 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsReloadFrontendApp'
+08:27:12.076 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsRenderActiveNote'
+08:27:12.077 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsReopenLastTab'
+08:27:12.078 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsRunActiveNote'
+08:27:12.080 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsScrollToActiveNote'
+08:27:12.081 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsSearchInSubtree'
+08:27:12.083 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsSecondTab'
+08:27:12.084 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsSelectAllNotesInParent'
+08:27:12.086 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsSeventhTab'
+08:27:12.087 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsShowBackendLog'
+08:27:12.088 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsShowHelp'
+08:27:12.090 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsShowNoteSource'
+08:27:12.092 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsShowOptions'
+08:27:12.093 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsShowRecentChanges'
+08:27:12.095 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsShowRevisions'
+08:27:12.096 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsShowSQLConsole'
+08:27:12.098 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsSixthTab'
+08:27:12.100 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsSortChildNotes'
+08:27:12.101 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsThirdTab'
+08:27:12.103 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleFullscreen'
+08:27:12.105 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleLeftPane'
+08:27:12.106 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleNoteHoisting'
+08:27:12.108 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabBasicProperties'
+08:27:12.109 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabBookProperties'
+08:27:12.110 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabFileProperties'
+08:27:12.112 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabImageProperties'
+08:27:12.114 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabInheritedAttributes'
+08:27:12.116 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabNoteInfo'
+08:27:12.117 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabNoteMap'
+08:27:12.119 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabNotePaths'
+08:27:12.120 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabOwnedAttributes'
+08:27:12.121 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabPromotedAttributes'
+08:27:12.123 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRibbonTabSimilarNotes'
+08:27:12.124 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleRightPane'
+08:27:12.126 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsToggleTray'
+08:27:12.127 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsUnhoist'
+08:27:12.128 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsZoomIn'
+08:27:12.129 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsZoomOut'
+08:27:12.131 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'keyboardShortcutsZoomReset'
+08:27:12.132 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'lastDailyBackupDate'
+08:27:12.135 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'lastMonthlyBackupDate'
+08:27:12.136 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'lastSyncedPull'
+08:27:12.137 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'lastSyncedPush'
+08:27:12.138 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'lastWeeklyBackupDate'
+08:27:12.139 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'leftPaneVisible'
+08:27:12.140 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'leftPaneWidth'
+08:27:12.142 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'mainFontFamily'
+08:27:12.143 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'mainFontSize'
+08:27:12.143 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'maxContentWidth'
+08:27:12.145 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'monospaceFontFamily'
+08:27:12.147 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'monospaceFontSize'
+08:27:12.148 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'monthlyBackupEnabled'
+08:27:12.150 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'nativeTitleBarVisible'
+08:27:12.152 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'overrideThemeFonts'
+08:27:12.153 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'rightPaneVisible'
+08:27:12.154 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'rightPaneWidth'
+08:27:12.156 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'spellCheckEnabled'
+08:27:12.157 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'spellCheckLanguageCode'
+08:27:12.158 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'syncProxy'
+08:27:12.160 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'syncServerHost'
+08:27:12.161 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'syncServerTimeout'
+08:27:12.163 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'theme'
+08:27:12.164 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'treeFontFamily'
+08:27:12.166 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'treeFontSize'
+08:27:12.168 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'vimKeymapEnabled'
+08:27:12.170 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'weeklyBackupEnabled'
+08:27:12.171 Consistency issue fixed: Created missing entity change for entityName 'options', entityId 'zoomFactor'
+08:27:12.184 All consistency checks passed after some fixes (took 221ms)
+08:34:35.217 204 PUT /api/options with 0 bytes took 5ms
+08:34:35.224 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 6ms
+08:34:35.226 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+08:34:37.138 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+09:27:11.964 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+09:27:11.983 All consistency checks passed with no errors detected (took 19ms)
+09:53:11.552 204 PUT /api/options with 0 bytes took 7ms
+09:53:11.555 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 1ms
+09:53:11.559 200 GET /api/notes/0ocRr86nF47u/blob with 14450 bytes took 4ms
+09:53:13.175 200 GET /api/notes/0ocRr86nF47u/blob with 14450 bytes took 5ms
+10:27:11.964 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+10:27:11.982 All consistency checks passed with no errors detected (took 17ms)
+11:27:11.964 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+11:27:11.978 All consistency checks passed with no errors detected (took 14ms)
+12:27:11.966 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+12:27:11.979 All consistency checks passed with no errors detected (took 14ms)
+13:27:11.968 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+13:27:11.985 All consistency checks passed with no errors detected (took 18ms)
+14:27:11.967 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+14:27:11.978 All consistency checks passed with no errors detected (took 11ms)
+15:27:11.969 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+15:27:11.981 All consistency checks passed with no errors detected (took 13ms)
+16:13:37.219 Error: Router not found for request GET /.env
+16:13:38.368 Error: Router not found for request POST /
+16:27:11.917 Optimizing database
+16:27:11.918 Optimization finished in 1ms.
+16:27:11.969 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+16:27:11.984 All consistency checks passed with no errors detected (took 16ms)
+17:27:11.970 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+17:27:11.983 All consistency checks passed with no errors detected (took 13ms)
+18:27:11.970 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+18:27:11.980 All consistency checks passed with no errors detected (took 10ms)
+19:27:11.972 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+19:27:11.986 All consistency checks passed with no errors detected (took 15ms)
+20:27:11.973 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+20:27:11.983 All consistency checks passed with no errors detected (took 10ms)
+21:27:11.974 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+21:27:11.983 All consistency checks passed with no errors detected (took 10ms)
+22:27:11.973 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+22:27:11.984 All consistency checks passed with no errors detected (took 11ms)
+23:27:11.975 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+23:27:11.985 All consistency checks passed with no errors detected (took 10ms)
