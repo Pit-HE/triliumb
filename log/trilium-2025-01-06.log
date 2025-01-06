@@ -1,0 +1,75 @@
+00:06:34.476 Error: Router not found for request GET /.well-known/security.txt
+00:19:23.916 Error: Router not found for request GET /.env
+00:19:24.478 Error: Router not found for request POST /
+00:27:12.015 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+00:27:12.035 All consistency checks passed with no errors detected (took 21ms)
+00:42:25.092 Error: Router not found for request GET /.git/config
+01:07:55.465 Generated CSRF token y15CVuc1-EJZP46lN6uL8lwtYlWd5WsgKVmA with secret _csrf=dBXDUCvbgXeL8ZGRelSoRlkf; Path=/
+01:07:55.682 200 GET /api/options with 6324 bytes took 2ms
+01:07:55.687 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+01:07:55.699 Slow 200 GET /api/script/widgets with 155155 bytes took 11ms
+01:07:55.702 200 GET /api/tree with 32572 bytes took 3ms
+01:07:55.774 200 POST /api/tree/load with 6015 bytes took 2ms
+01:07:55.855 200 POST /api/tree/load with 6179 bytes took 2ms
+01:07:56.090 200 POST /api/tree/load with 5570 bytes took 3ms
+01:07:56.183 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+01:07:56.271 200 GET /api/notes/0ocRr86nF47u/blob with 14450 bytes took 2ms
+01:07:56.274 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 2ms
+01:07:56.343 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 3ms
+01:07:56.347 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+01:07:57.165 204 PUT /api/options with 0 bytes took 4ms
+01:07:58.186 200 GET /api/script/startup with 1804 bytes took 5ms
+01:07:58.241 200 POST /api/tree/load with 6142 bytes took 2ms
+01:07:58.315 200 POST /api/tree/load with 6296 bytes took 2ms
+01:08:02.646 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 3ms
+01:08:06.990 200 GET /api/tree?subTreeNoteId=F8GnPeOCpda7 with 1699 bytes took 2ms
+01:08:07.271 204 PUT /api/branches/root_F8GnPeOCpda7/expanded/1 with 0 bytes took 7ms
+01:08:08.415 204 PUT /api/options with 0 bytes took 2ms
+01:08:08.417 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 2ms
+01:08:08.419 200 GET /api/note-map/QHp8TIFYUsiT/backlink-count with 11 bytes took 1ms
+01:08:10.321 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 4ms
+01:08:12.821 204 PUT /api/options with 0 bytes took 3ms
+01:08:12.826 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 4ms
+01:08:12.832 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 4ms
+01:08:15.142 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 2ms
+01:08:20.631 200 GET /api/notes/0ocRr86nF47u/blob with 14450 bytes took 6ms
+01:08:20.634 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 2ms
+01:08:20.647 204 PUT /api/options with 0 bytes took 4ms
+01:08:21.914 200 GET /api/notes/0ocRr86nF47u/blob with 14450 bytes took 2ms
+01:08:24.687 200 GET /api/notes/nb4yx5qvVmy5/blob with 2590 bytes took 3ms
+01:08:24.704 204 PUT /api/options with 0 bytes took 3ms
+01:08:24.706 200 GET /api/note-map/nb4yx5qvVmy5/backlink-count with 11 bytes took 2ms
+01:08:26.624 200 GET /api/notes/nb4yx5qvVmy5/blob with 2590 bytes took 2ms
+01:27:12.016 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+01:27:12.038 All consistency checks passed with no errors detected (took 23ms)
+02:00:00.972 204 PUT /api/options with 0 bytes took 5ms
+02:00:00.975 200 GET /api/notes/9GGMzeoUQJJM/blob with 5170 bytes took 2ms
+02:00:00.978 200 GET /api/note-map/9GGMzeoUQJJM/backlink-count with 11 bytes took 2ms
+02:00:02.386 200 GET /api/notes/9GGMzeoUQJJM/blob with 5170 bytes took 4ms
+02:00:03.820 200 GET /api/notes/0HiYJ6hXXgwX/blob with 1346 bytes took 3ms
+02:00:03.822 200 GET /api/note-map/0HiYJ6hXXgwX/backlink-count with 11 bytes took 1ms
+02:00:03.825 204 PUT /api/options with 0 bytes took 2ms
+02:00:06.497 200 GET /api/notes/AiM3rUCwSi7m/blob with 15670 bytes took 6ms
+02:00:06.501 200 GET /api/note-map/AiM3rUCwSi7m/backlink-count with 11 bytes took 2ms
+02:00:06.505 204 PUT /api/options with 0 bytes took 3ms
+02:00:11.119 204 PUT /api/options with 0 bytes took 5ms
+02:00:11.121 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+02:00:11.122 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+02:00:13.244 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+02:00:21.973 Slow 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 11ms
+02:00:28.109 200 GET /api/note-map/_options/backlink-count with 11 bytes took 2ms
+02:00:28.135 204 PUT /api/options with 0 bytes took 5ms
+02:00:30.176 200 GET /api/options with 6509 bytes took 2ms
+02:00:30.178 200 GET /api/note-map/_optionsAdvanced/backlink-count with 11 bytes took 1ms
+02:00:30.468 204 PUT /api/options with 0 bytes took 2ms
+02:00:30.585 200 GET /api/options with 6526 bytes took 2ms
+02:00:30.658 200 GET /api/options with 6526 bytes took 2ms
+02:00:30.746 200 GET /api/database/anonymized-databases with 299 bytes took 3ms
+02:00:30.748 200 GET /api/options with 6526 bytes took 1ms
+02:00:30.800 200 GET /api/options with 6526 bytes took 2ms
+02:00:31.376 Integrity check result: [{"integrity_check":"ok"}]
+02:00:31.381 Slow 200 GET /api/database/check-integrity with 38 bytes took 14ms
+02:27:12.017 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+02:27:12.035 All consistency checks passed with no errors detected (took 19ms)
+03:27:12.018 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+03:27:12.038 All consistency checks passed with no errors detected (took 20ms)
