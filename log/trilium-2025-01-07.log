@@ -1,0 +1,6 @@
+00:27:11.925 Optimizing database
+00:27:11.928 Optimization finished in 0ms.
+00:27:12.034 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+00:27:12.046 All consistency checks passed with no errors detected (took 13ms)
+01:27:12.035 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+01:27:12.046 All consistency checks passed with no errors detected (took 12ms)

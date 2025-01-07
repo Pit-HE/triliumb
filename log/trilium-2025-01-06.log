@@ -73,3 +73,48 @@
 02:27:12.035 All consistency checks passed with no errors detected (took 19ms)
 03:27:12.018 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
 03:27:12.038 All consistency checks passed with no errors detected (took 20ms)
+04:27:11.924 Optimizing database
+04:27:11.927 Optimization finished in 2ms.
+04:27:12.018 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+04:27:12.041 All consistency checks passed with no errors detected (took 22ms)
+05:27:12.019 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+05:27:12.032 All consistency checks passed with no errors detected (took 14ms)
+05:45:37.249 Error: Router not found for request GET /.git/config
+06:27:12.019 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+06:27:12.029 All consistency checks passed with no errors detected (took 9ms)
+07:27:12.020 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+07:27:12.033 All consistency checks passed with no errors detected (took 13ms)
+08:27:12.021 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+08:27:12.034 All consistency checks passed with no errors detected (took 14ms)
+09:27:12.021 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+09:27:12.032 All consistency checks passed with no errors detected (took 11ms)
+10:27:12.022 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+10:27:12.034 All consistency checks passed with no errors detected (took 13ms)
+11:27:12.023 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+11:27:12.033 All consistency checks passed with no errors detected (took 10ms)
+12:27:12.024 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+12:27:12.037 All consistency checks passed with no errors detected (took 13ms)
+13:27:12.026 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+13:27:12.041 All consistency checks passed with no errors detected (took 16ms)
+14:27:11.925 Optimizing database
+14:27:11.927 Optimization finished in 1ms.
+14:27:12.026 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+14:27:12.037 All consistency checks passed with no errors detected (took 12ms)
+15:27:12.029 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+15:27:12.043 All consistency checks passed with no errors detected (took 15ms)
+16:27:12.029 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+16:27:12.042 All consistency checks passed with no errors detected (took 14ms)
+17:27:12.029 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+17:27:12.046 All consistency checks passed with no errors detected (took 17ms)
+18:27:12.029 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+18:27:12.043 All consistency checks passed with no errors detected (took 15ms)
+19:27:12.030 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+19:27:12.045 All consistency checks passed with no errors detected (took 16ms)
+20:27:12.032 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+20:27:12.045 All consistency checks passed with no errors detected (took 14ms)
+21:27:12.033 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+21:27:12.042 All consistency checks passed with no errors detected (took 10ms)
+22:27:12.033 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+22:27:12.043 All consistency checks passed with no errors detected (took 11ms)
+23:27:12.034 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+23:27:12.045 All consistency checks passed with no errors detected (took 10ms)
