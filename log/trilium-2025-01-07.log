@@ -4,3 +4,127 @@
 00:27:12.046 All consistency checks passed with no errors detected (took 13ms)
 01:27:12.035 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
 01:27:12.046 All consistency checks passed with no errors detected (took 12ms)
+02:27:12.035 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+02:27:12.052 All consistency checks passed with no errors detected (took 18ms)
+03:27:12.035 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+03:27:12.047 All consistency checks passed with no errors detected (took 12ms)
+04:27:12.036 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+04:27:12.048 All consistency checks passed with no errors detected (took 13ms)
+05:27:12.037 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+05:27:12.058 All consistency checks passed with no errors detected (took 21ms)
+06:27:12.037 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+06:27:12.049 All consistency checks passed with no errors detected (took 11ms)
+06:40:29.334 Generated CSRF token HDEXEXDV-9nxGY6FDHZS_wI31DQf45UiZ22M with secret _csrf=YCoUAz-fpW4ge2x8MGrCTekK; Path=/
+06:40:29.558 Slow 200 GET /api/options with 6526 bytes took 10ms
+06:40:29.562 200 GET /api/tree with 32697 bytes took 3ms
+06:40:29.566 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+06:40:29.578 Slow 200 GET /api/script/widgets with 155155 bytes took 12ms
+06:40:29.953 200 POST /api/tree/load with 6014 bytes took 3ms
+06:40:30.329 200 POST /api/tree/load with 6178 bytes took 1ms
+06:40:30.873 200 POST /api/tree/load with 5569 bytes took 3ms
+06:40:30.970 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+06:40:31.108 200 GET /api/options with 6526 bytes took 1ms
+06:40:31.109 200 GET /api/note-map/_optionsAdvanced/backlink-count with 11 bytes took 1ms
+06:40:31.119 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+06:40:31.120 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+06:40:31.199 200 GET /api/options with 6526 bytes took 3ms
+06:40:31.362 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+06:40:31.902 Slow 200 GET /api/options with 6526 bytes took 12ms
+06:40:31.993 204 PUT /api/options with 0 bytes took 3ms
+06:40:31.995 200 GET /api/database/anonymized-databases with 299 bytes took 1ms
+06:40:32.082 200 GET /api/options with 6526 bytes took 2ms
+06:40:32.445 200 GET /api/options with 6526 bytes took 2ms
+06:40:32.922 200 GET /api/notes/AiM3rUCwSi7m/blob with 15670 bytes took 3ms
+06:40:32.924 200 GET /api/note-map/AiM3rUCwSi7m/backlink-count with 11 bytes took 1ms
+06:40:33.019 204 PUT /api/options with 0 bytes took 3ms
+06:40:33.023 200 GET /api/script/startup with 1804 bytes took 3ms
+06:40:33.351 200 POST /api/tree/load with 6141 bytes took 3ms
+06:40:33.642 200 POST /api/tree/load with 6295 bytes took 2ms
+07:27:12.038 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+07:27:12.050 All consistency checks passed with no errors detected (took 13ms)
+08:27:12.039 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+08:27:12.057 All consistency checks passed with no errors detected (took 19ms)
+09:27:12.039 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+09:27:12.060 All consistency checks passed with no errors detected (took 21ms)
+09:59:24.351 Generated CSRF token 7E3Y7dQ6-GKbGdgFaaanlzPPHNdDK2Hk_cEY with secret _csrf=PcT3jg1dyWhxa8mHRRhG0Iko; Path=/
+09:59:24.535 200 GET /api/options with 6511 bytes took 2ms
+09:59:24.538 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+09:59:24.542 200 GET /api/tree with 32697 bytes took 2ms
+09:59:24.552 200 GET /api/script/widgets with 155155 bytes took 9ms
+09:59:24.625 200 POST /api/tree/load with 6014 bytes took 1ms
+09:59:24.687 200 POST /api/tree/load with 6178 bytes took 2ms
+09:59:24.921 200 POST /api/tree/load with 5569 bytes took 2ms
+09:59:25.012 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+09:59:25.128 200 GET /api/notes/AiM3rUCwSi7m/blob with 15670 bytes took 2ms
+09:59:25.129 200 GET /api/note-map/AiM3rUCwSi7m/backlink-count with 11 bytes took 1ms
+09:59:25.491 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+09:59:25.493 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+09:59:26.003 204 PUT /api/options with 0 bytes took 4ms
+09:59:27.021 200 GET /api/script/startup with 1804 bytes took 4ms
+09:59:27.075 200 POST /api/tree/load with 6141 bytes took 2ms
+09:59:27.143 200 POST /api/tree/load with 6295 bytes took 2ms
+09:59:30.099 200 GET /api/notes/AiM3rUCwSi7m/blob with 15670 bytes took 5ms
+09:59:30.101 200 GET /api/note-map/AiM3rUCwSi7m/backlink-count with 11 bytes took 1ms
+09:59:30.107 204 PUT /api/options with 0 bytes took 2ms
+09:59:39.244 200 GET /api/note-map/QHp8TIFYUsiT/backlink-count with 11 bytes took 1ms
+09:59:39.247 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 2ms
+09:59:39.257 204 PUT /api/options with 0 bytes took 2ms
+09:59:40.711 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+09:59:40.712 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+09:59:40.714 204 PUT /api/options with 0 bytes took 1ms
+09:59:42.323 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+10:05:31.904 Generated CSRF token 0mFzUtlw-sQwn_rOjSN0Za6xKwULTASmfmPk with secret undefined
+10:05:32.076 200 GET /api/options with 6498 bytes took 2ms
+10:05:32.079 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+10:05:32.084 200 GET /api/tree with 32697 bytes took 4ms
+10:05:32.091 200 GET /api/script/widgets with 155155 bytes took 7ms
+10:05:32.163 200 POST /api/tree/load with 6014 bytes took 2ms
+10:05:32.234 200 POST /api/tree/load with 6178 bytes took 2ms
+10:05:32.475 200 POST /api/tree/load with 5569 bytes took 2ms
+10:05:32.573 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+10:05:32.677 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+10:05:32.682 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 3ms
+10:05:33.008 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 4ms
+10:05:33.547 204 PUT /api/options with 0 bytes took 3ms
+10:05:34.580 200 GET /api/script/startup with 1804 bytes took 5ms
+10:05:34.647 200 POST /api/tree/load with 6141 bytes took 6ms
+10:05:34.740 200 POST /api/tree/load with 6295 bytes took 3ms
+10:05:35.595 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 3ms
+10:05:40.352 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 6ms
+10:05:40.358 200 GET /api/note-map/QHp8TIFYUsiT/backlink-count with 11 bytes took 5ms
+10:05:40.368 204 PUT /api/options with 0 bytes took 4ms
+10:05:43.391 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 5ms
+10:05:43.396 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 3ms
+10:05:43.404 204 PUT /api/options with 0 bytes took 4ms
+10:27:11.926 Optimizing database
+10:27:11.928 Optimization finished in 2ms.
+10:27:12.039 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+10:27:12.055 All consistency checks passed with no errors detected (took 17ms)
+11:27:12.041 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+11:27:12.056 All consistency checks passed with no errors detected (took 16ms)
+12:27:12.045 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+12:27:12.069 All consistency checks passed with no errors detected (took 24ms)
+13:27:12.046 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+13:27:12.060 All consistency checks passed with no errors detected (took 14ms)
+14:27:12.046 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+14:27:12.061 All consistency checks passed with no errors detected (took 15ms)
+15:27:12.047 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+15:27:12.061 All consistency checks passed with no errors detected (took 15ms)
+16:27:12.049 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+16:27:12.061 All consistency checks passed with no errors detected (took 12ms)
+17:27:12.050 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+17:27:12.064 All consistency checks passed with no errors detected (took 15ms)
+18:27:12.049 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+18:27:12.060 All consistency checks passed with no errors detected (took 12ms)
+19:27:12.049 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+19:27:12.061 All consistency checks passed with no errors detected (took 12ms)
+20:27:11.932 Optimizing database
+20:27:11.934 Optimization finished in 1ms.
+20:27:12.049 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+20:27:12.060 All consistency checks passed with no errors detected (took 12ms)
+21:27:12.049 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+21:27:12.060 All consistency checks passed with no errors detected (took 12ms)
+22:27:12.048 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+22:27:12.062 All consistency checks passed with no errors detected (took 14ms)
+23:27:12.048 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+23:27:12.060 All consistency checks passed with no errors detected (took 12ms)
