@@ -1,0 +1,109 @@
+01:57:29.540 DB size: 2953 KB
+01:57:31.144 {
+  "appVersion": "0.63.7",
+  "dbVersion": 228,
+  "nodeVersion": "v18.18.2",
+  "syncVersion": 32,
+  "buildDate": "2024-05-30T06:59:06+02:00",
+  "buildRevision": "95d46b7ce7e0036eeb72b43e1815cc5c00dc214c",
+  "dataDirectory": "/root/.local/share/trilium-data",
+  "clipperProtocolVersion": "1.0",
+  "utcDateTime": "2025-02-17T01:57:29.061Z"
+}
+01:57:31.145 CPU model: Intel(R) Xeon(R) CPU E5-2699 v4 @ 2.20GHz, logical cores: 4 freq: 2199 Mhz
+01:57:31.145 Trusted reverse proxy: false
+01:57:31.147 App HTTP server starting up at port 9898
+01:57:31.154 Listening on port 9898
+01:57:31.174 Becca (note cache) load took 18ms
+01:57:35.186 Table counts: notes: 276, revisions: 10, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 216
+01:57:35.216 All consistency checks passed with no errors detected (took 32ms)
+02:02:31.206 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+02:07:34.981 Generated CSRF token NN0GuX7F-twNGnOMlYITOYNEHT-EWsIALEmA with secret _csrf=RMxbP4uh0tzguSSJaMmXJ8Y9; Path=/
+02:07:35.476 200 GET /api/tree with 32697 bytes took 4ms
+02:07:35.481 200 GET /api/options with 6534 bytes took 2ms
+02:07:35.490 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+02:07:35.507 Slow 200 GET /api/script/widgets with 155155 bytes took 16ms
+02:07:35.650 200 POST /api/tree/load with 6014 bytes took 2ms
+02:07:35.712 200 POST /api/tree/load with 6178 bytes took 3ms
+02:07:36.285 200 POST /api/tree/load with 5569 bytes took 3ms
+02:07:36.486 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+02:07:36.516 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+02:07:36.633 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+02:07:38.406 200 GET /api/script/startup with 1804 bytes took 5ms
+02:07:38.463 200 POST /api/tree/load with 6141 bytes took 1ms
+02:07:38.522 200 POST /api/tree/load with 6295 bytes took 1ms
+02:09:43.139 Generated CSRF token mr8QeHD7-O7WeqGIqg680tnkYEyagko3s_wY with secret _csrf=vfMwITHFUBjKiMAm4vKuNjgm; Path=/
+02:09:43.978 200 GET /api/options with 6534 bytes took 1ms
+02:09:43.980 200 GET /api/tree with 32697 bytes took 1ms
+02:09:43.984 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+02:09:43.989 200 GET /api/script/widgets with 155155 bytes took 5ms
+02:09:44.186 200 POST /api/tree/load with 6014 bytes took 2ms
+02:09:44.333 200 POST /api/tree/load with 6178 bytes took 2ms
+02:09:45.071 200 POST /api/tree/load with 5569 bytes took 2ms
+02:09:45.236 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 4ms
+02:09:45.338 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+02:09:45.351 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+02:09:47.243 200 GET /api/script/startup with 1804 bytes took 4ms
+02:09:47.384 200 POST /api/tree/load with 6141 bytes took 2ms
+02:09:47.539 200 POST /api/tree/load with 6295 bytes took 2ms
+02:36:01.870 Generated CSRF token 9Cj683SV-EtJdEFj7bIRaFZCJuNUKBc6VtTA with secret undefined
+02:36:02.621 200 GET /api/options with 6534 bytes took 5ms
+02:36:02.655 Slow 200 GET /api/tree with 32697 bytes took 32ms
+02:36:02.693 Slow 200 GET /api/keyboard-actions with 12407 bytes took 37ms
+02:36:02.731 Slow 200 GET /api/script/widgets with 155155 bytes took 36ms
+02:36:02.884 Slow 200 POST /api/tree/load with 6014 bytes took 13ms
+02:36:02.971 200 POST /api/tree/load with 6178 bytes took 4ms
+02:36:03.581 200 POST /api/tree/load with 5569 bytes took 3ms
+02:36:03.676 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+02:36:03.800 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 7ms
+02:36:03.805 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 4ms
+02:36:04.212 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+02:36:04.697 Slow 204 PUT /api/options with 0 bytes took 30ms
+02:36:05.706 200 GET /api/script/startup with 1804 bytes took 9ms
+02:36:05.796 200 POST /api/tree/load with 6141 bytes took 3ms
+02:36:05.891 200 POST /api/tree/load with 6295 bytes took 2ms
+02:36:16.249 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 4ms
+02:36:18.876 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 4ms
+02:36:22.284 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 65ms
+02:36:22.354 200 GET /api/notes/lsgJRCHtTh9a/blob with 9105 bytes took 3ms
+02:36:23.948 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 30ms
+02:36:24.025 200 GET /api/notes/lsgJRCHtTh9a/blob with 9092 bytes took 3ms
+02:36:24.952 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 10ms
+02:36:25.023 200 GET /api/notes/lsgJRCHtTh9a/blob with 9077 bytes took 3ms
+02:36:29.312 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 11ms
+02:36:29.388 200 GET /api/notes/lsgJRCHtTh9a/blob with 9090 bytes took 2ms
+02:36:30.349 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 11ms
+02:36:30.447 200 GET /api/notes/lsgJRCHtTh9a/blob with 9103 bytes took 3ms
+02:36:31.338 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 9ms
+02:36:31.416 200 GET /api/notes/lsgJRCHtTh9a/blob with 9430 bytes took 3ms
+02:36:33.054 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 14ms
+02:36:33.119 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 3ms
+02:57:31.157 Optimizing database
+02:57:31.167 Optimization finished in 9ms.
+02:57:31.183 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+02:57:31.238 All consistency checks passed with no errors detected (took 58ms)
+03:46:17.044 Generated CSRF token T9Px8CrR-FJQ72c83X7aqnQnQalYwN_l1ErU with secret undefined
+03:46:17.252 200 GET /api/options with 6534 bytes took 3ms
+03:46:17.274 200 GET /api/tree with 32697 bytes took 3ms
+03:46:17.278 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+03:46:17.291 Slow 200 GET /api/script/widgets with 155155 bytes took 13ms
+03:46:17.374 200 POST /api/tree/load with 6014 bytes took 2ms
+03:46:17.440 200 POST /api/tree/load with 6178 bytes took 3ms
+03:46:17.688 200 POST /api/tree/load with 5569 bytes took 4ms
+03:46:17.775 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+03:46:17.883 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 4ms
+03:46:17.885 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+03:46:18.187 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+03:46:18.931 Slow 204 PUT /api/options with 0 bytes took 12ms
+03:46:19.805 200 GET /api/script/startup with 1804 bytes took 8ms
+03:46:19.887 200 POST /api/tree/load with 6141 bytes took 2ms
+03:46:19.966 200 POST /api/tree/load with 6295 bytes took 2ms
+03:46:44.027 204 PUT /api/options with 0 bytes took 6ms
+03:46:44.032 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 4ms
+03:46:44.035 200 GET /api/note-map/QHp8TIFYUsiT/backlink-count with 11 bytes took 2ms
+03:46:46.193 200 GET /api/notes/QHp8TIFYUsiT/blob with 22637 bytes took 3ms
+03:46:54.652 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 2ms
+03:46:54.654 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 1ms
+03:46:54.658 204 PUT /api/options with 0 bytes took 3ms
+03:57:31.179 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+03:57:31.191 All consistency checks passed with no errors detected (took 12ms)
