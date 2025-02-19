@@ -1,0 +1,55 @@
+00:57:31.212 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+00:57:31.230 All consistency checks passed with no errors detected (took 18ms)
+01:57:31.212 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+01:57:31.224 All consistency checks passed with no errors detected (took 12ms)
+02:57:31.214 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+02:57:31.230 All consistency checks passed with no errors detected (took 16ms)
+03:57:31.216 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+03:57:31.229 All consistency checks passed with no errors detected (took 13ms)
+04:57:31.220 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+04:57:31.237 All consistency checks passed with no errors detected (took 18ms)
+05:57:31.220 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+05:57:31.232 All consistency checks passed with no errors detected (took 13ms)
+06:57:31.222 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+06:57:31.237 All consistency checks passed with no errors detected (took 16ms)
+07:57:31.163 Optimizing database
+07:57:31.165 Optimization finished in 1ms.
+07:57:31.223 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+07:57:31.240 All consistency checks passed with no errors detected (took 18ms)
+08:57:31.225 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+08:57:31.239 All consistency checks passed with no errors detected (took 14ms)
+09:25:11.737 Error: Router not found for request GET /login/ads.txt
+09:25:12.529 Error: Router not found for request GET /login/app-ads.txt
+09:25:13.530 Error: Router not found for request GET /login/sellers.json
+09:57:31.227 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+09:57:31.239 All consistency checks passed with no errors detected (took 13ms)
+10:57:31.228 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+10:57:31.242 All consistency checks passed with no errors detected (took 14ms)
+11:57:31.230 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+11:57:31.241 All consistency checks passed with no errors detected (took 11ms)
+12:57:31.230 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+12:57:31.238 All consistency checks passed with no errors detected (took 9ms)
+13:57:31.230 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+13:57:31.239 All consistency checks passed with no errors detected (took 9ms)
+14:57:31.232 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+14:57:31.241 All consistency checks passed with no errors detected (took 9ms)
+15:57:31.235 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+15:57:31.245 All consistency checks passed with no errors detected (took 10ms)
+16:57:31.237 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+16:57:31.247 All consistency checks passed with no errors detected (took 10ms)
+17:57:31.165 Optimizing database
+17:57:31.167 Optimization finished in 1ms.
+17:57:31.237 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+17:57:31.251 All consistency checks passed with no errors detected (took 14ms)
+18:57:31.239 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+18:57:31.248 All consistency checks passed with no errors detected (took 9ms)
+19:57:31.240 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+19:57:31.252 All consistency checks passed with no errors detected (took 13ms)
+20:57:31.242 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+20:57:31.254 All consistency checks passed with no errors detected (took 13ms)
+21:57:31.242 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+21:57:31.256 All consistency checks passed with no errors detected (took 13ms)
+22:57:31.245 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+22:57:31.255 All consistency checks passed with no errors detected (took 11ms)
+23:57:31.247 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+23:57:31.258 All consistency checks passed with no errors detected (took 11ms)
