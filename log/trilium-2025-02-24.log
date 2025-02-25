@@ -8,3 +8,34 @@
 03:57:31.186 Optimization finished in 1ms.
 03:57:31.372 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
 03:57:31.386 All consistency checks passed with no errors detected (took 15ms)
+04:57:31.372 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+04:57:31.380 All consistency checks passed with no errors detected (took 8ms)
+05:57:31.376 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+05:57:31.376 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+05:57:31.385 All consistency checks passed with no errors detected (took 9ms)
+06:57:31.378 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+06:57:31.388 All consistency checks passed with no errors detected (took 10ms)
+07:57:31.379 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+07:57:31.390 All consistency checks passed with no errors detected (took 11ms)
+08:57:31.380 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+08:57:31.392 All consistency checks passed with no errors detected (took 12ms)
+09:57:31.380 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+09:57:31.391 All consistency checks passed with no errors detected (took 11ms)
+10:57:31.381 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+10:57:31.392 All consistency checks passed with no errors detected (took 11ms)
+11:57:31.382 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+11:57:31.392 All consistency checks passed with no errors detected (took 11ms)
+12:57:31.383 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+12:57:31.393 All consistency checks passed with no errors detected (took 11ms)
+13:57:31.185 Optimizing database
+13:57:31.187 Optimization finished in 1ms.
+13:57:31.382 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+13:57:31.394 All consistency checks passed with no errors detected (took 12ms)
+14:57:31.384 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+14:57:31.395 All consistency checks passed with no errors detected (took 12ms)
+15:57:31.383 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+15:57:31.394 All consistency checks passed with no errors detected (took 11ms)
+16:54:02.715 Error: Router not found for request GET /.well-known/security.txt
+16:57:31.384 Table counts: notes: 276, revisions: 11, attachments: 29, branches: 279, attributes: 426, etapi_tokens: 0, blobs: 217
+16:57:31.392 All consistency checks passed with no errors detected (took 8ms)
+17:38:39.297 Error: Router not found for request GET /.svn
