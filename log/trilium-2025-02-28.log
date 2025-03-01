@@ -2,3 +2,354 @@
 00:21:58.844 All consistency checks passed with no errors detected (took 10ms)
 01:21:58.834 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
 01:21:58.844 All consistency checks passed with no errors detected (took 9ms)
+02:21:58.835 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+02:21:58.846 All consistency checks passed with no errors detected (took 12ms)
+03:21:58.739 Optimizing database
+03:21:58.740 Optimization finished in 1ms.
+03:21:58.835 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+03:21:58.851 All consistency checks passed with no errors detected (took 17ms)
+03:22:44.226 Generated CSRF token Gr0qI6Ap-EQOSSdsJZWVU6l5XQrBAyEqV0HI with secret _csrf=-PUJw5Wqp1eKdBqE6Od6p59Y; Path=/
+03:22:44.463 200 GET /api/options with 6534 bytes took 1ms
+03:22:44.466 200 GET /api/tree with 32475 bytes took 2ms
+03:22:44.472 200 GET /api/keyboard-actions with 12407 bytes took 5ms
+03:22:44.479 200 GET /api/script/widgets with 155155 bytes took 7ms
+03:22:44.570 200 POST /api/tree/load with 6147 bytes took 1ms
+03:22:44.706 200 POST /api/tree/load with 6311 bytes took 2ms
+03:22:44.964 200 POST /api/tree/load with 5702 bytes took 1ms
+03:22:45.070 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+03:22:45.188 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 4ms
+03:22:45.190 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+03:22:45.809 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+03:22:47.034 204 PUT /api/options with 0 bytes took 3ms
+03:22:48.035 200 GET /api/script/startup with 1804 bytes took 3ms
+03:22:48.126 200 POST /api/tree/load with 6274 bytes took 1ms
+03:22:48.223 200 POST /api/tree/load with 6428 bytes took 2ms
+04:21:58.836 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+04:21:58.849 All consistency checks passed with no errors detected (took 14ms)
+05:21:58.835 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+05:21:58.846 All consistency checks passed with no errors detected (took 11ms)
+05:33:31.783 Generated CSRF token Cvd1Y4oh-ZhJId25OuW-2aS1oqLLxPYzqZ5o with secret _csrf=YOsLbzTauxAiCGNpmZ9iUt0C; Path=/
+05:33:32.190 200 GET /api/options with 6534 bytes took 1ms
+05:33:32.195 200 GET /api/tree with 32475 bytes took 5ms
+05:33:32.205 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+05:33:32.212 200 GET /api/script/widgets with 155155 bytes took 6ms
+05:33:32.619 200 POST /api/tree/load with 6147 bytes took 2ms
+05:33:32.811 200 POST /api/tree/load with 6311 bytes took 2ms
+05:33:33.255 200 POST /api/tree/load with 5702 bytes took 2ms
+05:33:33.489 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+05:33:33.682 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+05:33:33.683 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 0ms
+05:33:34.339 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+05:33:34.508 204 PUT /api/options with 0 bytes took 3ms
+05:33:36.015 200 GET /api/script/startup with 1804 bytes took 3ms
+05:33:36.201 200 POST /api/tree/load with 6274 bytes took 2ms
+05:33:36.418 200 POST /api/tree/load with 6428 bytes took 4ms
+05:50:12.568 204 PUT /api/options with 0 bytes took 3ms
+05:50:12.570 204 PUT /api/options with 0 bytes took 1ms
+05:50:12.571 200 GET /api/notes/LWNpKJZXcaAL/blob with 155 bytes took 1ms
+05:50:12.575 200 GET /api/notes/16ewVYb5lycl/blob with 155 bytes took 3ms
+05:50:12.576 200 GET /api/note-map/LWNpKJZXcaAL/backlink-count with 11 bytes took 0ms
+05:50:12.578 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 1ms
+06:21:58.838 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+06:21:58.849 All consistency checks passed with no errors detected (took 12ms)
+06:34:52.260 Generated CSRF token L0iGQhkc-uEVNCZIkEZ_Qd_TPtAnjHXamjok with secret _csrf=KkgQDAsHNxGRO7Q-1Mj5rRz_; Path=/
+06:34:52.677 200 GET /api/options with 6519 bytes took 1ms
+06:34:52.681 200 GET /api/tree with 32475 bytes took 3ms
+06:34:52.684 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+06:34:52.692 200 GET /api/script/widgets with 155155 bytes took 8ms
+06:34:52.884 200 POST /api/tree/load with 6147 bytes took 3ms
+06:34:53.083 200 POST /api/tree/load with 6311 bytes took 3ms
+06:34:53.520 200 POST /api/tree/load with 5702 bytes took 2ms
+06:34:53.752 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+06:34:53.944 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 1ms
+06:34:53.947 200 GET /api/notes/16ewVYb5lycl/blob with 155 bytes took 2ms
+06:34:54.397 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+06:34:54.402 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+06:34:55.247 204 PUT /api/options with 0 bytes took 3ms
+06:34:56.047 200 GET /api/script/startup with 1804 bytes took 3ms
+06:34:56.242 200 POST /api/tree/load with 6274 bytes took 1ms
+06:34:56.442 200 POST /api/tree/load with 6428 bytes took 2ms
+07:21:58.840 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+07:21:58.850 All consistency checks passed with no errors detected (took 11ms)
+08:21:58.842 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+08:21:58.855 All consistency checks passed with no errors detected (took 13ms)
+09:01:50.157 Error: Router not found for request GET /mysql.initial.sql
+09:01:55.053 Error: Router not found for request GET /install/froxlor.sql
+09:21:58.842 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+09:21:58.861 All consistency checks passed with no errors detected (took 19ms)
+10:21:58.846 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+10:21:58.860 All consistency checks passed with no errors detected (took 15ms)
+11:21:58.848 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+11:21:58.857 All consistency checks passed with no errors detected (took 10ms)
+12:21:58.850 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+12:21:58.861 All consistency checks passed with no errors detected (took 11ms)
+13:21:58.741 Optimizing database
+13:21:58.743 Optimization finished in 1ms.
+13:21:58.851 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+13:21:58.868 All consistency checks passed with no errors detected (took 18ms)
+14:21:58.852 Table counts: notes: 278, revisions: 11, attachments: 29, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 217
+14:21:58.864 All consistency checks passed with no errors detected (took 13ms)
+14:45:45.718 Generated CSRF token RsuLfb1c-XyqiqswkrCYrifkqQNkFjvaddTE with secret _csrf=d5vniuzmvgMmE1AFKZTryenB; Path=/
+14:45:46.434 200 GET /api/options with 6534 bytes took 2ms
+14:45:46.437 200 GET /api/tree with 32475 bytes took 3ms
+14:45:46.442 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+14:45:46.450 200 GET /api/script/widgets with 155155 bytes took 7ms
+14:45:46.659 200 POST /api/tree/load with 6147 bytes took 2ms
+14:45:46.880 200 POST /api/tree/load with 6311 bytes took 2ms
+14:45:47.270 200 POST /api/tree/load with 5702 bytes took 2ms
+14:45:47.497 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+14:45:47.592 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+14:45:47.594 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 1ms
+14:45:48.024 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+14:45:48.488 204 PUT /api/options with 0 bytes took 2ms
+14:45:49.115 200 GET /api/notes/16ewVYb5lycl/blob with 155 bytes took 1ms
+14:45:49.116 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 1ms
+14:45:49.503 204 PUT /api/options with 0 bytes took 2ms
+14:45:49.509 200 GET /api/script/startup with 1804 bytes took 3ms
+14:45:49.714 200 POST /api/tree/load with 6274 bytes took 2ms
+14:45:49.932 200 POST /api/tree/load with 6428 bytes took 2ms
+14:45:50.557 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 22ms
+14:45:50.593 Saving image 'image.gif' as attachment into note '16ewVYb5lycl'
+14:45:50.600 200 POST /api/notes/16ewVYb5lycl/attachments/upload with 70 bytes took 7ms
+14:45:50.608 Saving image 'image.gif' as attachment into note '16ewVYb5lycl'
+14:45:50.612 200 POST /api/notes/16ewVYb5lycl/attachments/upload with 70 bytes took 4ms
+14:45:51.025 200 GET /api/notes/16ewVYb5lycl/blob with 1079 bytes took 2ms
+14:45:51.547 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 7ms
+14:45:52.001 200 GET /api/notes/16ewVYb5lycl/blob with 1167 bytes took 1ms
+14:48:54.078 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 6ms
+14:48:54.292 200 GET /api/notes/16ewVYb5lycl/blob with 1224 bytes took 2ms
+14:48:57.907 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 5ms
+14:48:58.126 200 GET /api/notes/16ewVYb5lycl/blob with 1278 bytes took 1ms
+14:49:12.401 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 8ms
+14:49:12.606 200 GET /api/notes/16ewVYb5lycl/blob with 1318 bytes took 2ms
+14:49:17.707 200 GET /api/notes/16ewVYb5lycl/blob with 1318 bytes took 2ms
+14:49:18.623 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 8ms
+14:49:18.813 200 GET /api/notes/16ewVYb5lycl/blob with 1331 bytes took 2ms
+14:49:19.641 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 7ms
+14:49:19.846 200 GET /api/notes/16ewVYb5lycl/blob with 1513 bytes took 3ms
+14:49:21.325 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 5ms
+14:49:21.530 200 GET /api/notes/16ewVYb5lycl/blob with 1554 bytes took 2ms
+14:49:31.396 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 4ms
+14:49:31.606 200 GET /api/notes/16ewVYb5lycl/blob with 1618 bytes took 2ms
+14:49:38.459 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 5ms
+14:49:38.650 200 GET /api/notes/16ewVYb5lycl/blob with 1671 bytes took 2ms
+14:49:47.213 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 13ms
+14:49:47.410 200 GET /api/notes/16ewVYb5lycl/blob with 1715 bytes took 2ms
+14:49:58.129 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 7ms
+14:49:58.324 200 GET /api/notes/16ewVYb5lycl/blob with 1827 bytes took 2ms
+14:49:59.146 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 4ms
+14:49:59.336 200 GET /api/notes/16ewVYb5lycl/blob with 1715 bytes took 2ms
+14:50:05.038 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 5ms
+14:50:05.244 200 GET /api/notes/16ewVYb5lycl/blob with 1768 bytes took 1ms
+14:50:13.883 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 3ms
+14:50:14.084 200 GET /api/notes/16ewVYb5lycl/blob with 1822 bytes took 1ms
+14:50:22.354 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 4ms
+14:50:22.552 200 GET /api/notes/16ewVYb5lycl/blob with 1868 bytes took 2ms
+14:50:29.056 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 6ms
+14:50:29.247 200 GET /api/notes/16ewVYb5lycl/blob with 1918 bytes took 2ms
+14:50:34.781 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 4ms
+14:50:35.074 200 GET /api/notes/16ewVYb5lycl/blob with 2014 bytes took 2ms
+14:50:37.686 Updating option 'hideArchivedNotes_main' to 'false'
+14:50:37.689 204 PUT /api/options with 0 bytes took 4ms
+14:50:38.452 Updating option 'autoCollapseNoteTree' to 'false'
+14:50:38.460 204 PUT /api/options with 0 bytes took 8ms
+14:50:44.302 Updating option 'hideArchivedNotes_main' to 'false'
+14:50:44.305 204 PUT /api/options with 0 bytes took 3ms
+14:50:44.507 Updating option 'autoCollapseNoteTree' to 'false'
+14:50:44.508 204 PUT /api/options with 0 bytes took 2ms
+14:51:15.947 Generated CSRF token PSDqmPVX-PEHH34XkyhIS2gMBhLeTdPvKGRQ with secret undefined
+14:51:16.423 200 GET /api/options with 6548 bytes took 2ms
+14:51:16.425 200 GET /api/tree with 32475 bytes took 2ms
+14:51:16.428 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+14:51:16.434 200 GET /api/script/widgets with 155155 bytes took 6ms
+14:51:16.806 200 POST /api/tree/load with 6147 bytes took 2ms
+14:51:17.198 200 POST /api/tree/load with 6311 bytes took 2ms
+14:51:17.554 200 POST /api/tree/load with 5702 bytes took 1ms
+14:51:18.007 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 4ms
+14:51:18.113 200 GET /api/notes/16ewVYb5lycl/blob with 2014 bytes took 2ms
+14:51:18.115 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 1ms
+14:51:18.478 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+14:51:18.495 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+14:51:18.994 204 PUT /api/options with 0 bytes took 5ms
+14:51:19.418 200 GET /api/notes/16ewVYb5lycl/blob with 2014 bytes took 1ms
+14:51:19.420 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 1ms
+14:51:20.001 204 PUT /api/options with 0 bytes took 4ms
+14:51:20.036 200 GET /api/script/startup with 1804 bytes took 3ms
+14:51:20.232 200 POST /api/tree/load with 6274 bytes took 2ms
+14:51:20.680 200 POST /api/tree/load with 6428 bytes took 2ms
+15:21:58.855 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+15:21:58.871 All consistency checks passed with no errors detected (took 16ms)
+16:20:20.504 Error: Router not found for request GET /phpinfo
+16:20:20.751 Error: Router not found for request GET /phpinfo.php
+16:20:20.993 Error: Router not found for request GET /portal/.env
+16:20:21.238 Error: Router not found for request GET /env/.env
+16:20:21.479 Error: Router not found for request GET /api/.env
+16:20:21.720 Error: Router not found for request GET /app/.env
+16:20:21.960 Error: Router not found for request GET /dev/.env
+16:20:22.203 Error: Router not found for request GET /new/.env
+16:20:22.444 Error: Router not found for request GET /new/.env.local
+16:20:22.684 Error: Router not found for request GET /new/.env.production
+16:20:22.924 Error: Router not found for request GET /new/.env.staging
+16:20:23.167 Error: Router not found for request GET /_phpinfo.php
+16:20:23.407 Error: Router not found for request GET /_profiler/phpinfo
+16:20:23.649 Error: Router not found for request GET /_profiler/phpinfo/info.php
+16:20:23.889 Error: Router not found for request GET /_profiler/phpinfo/phpinfo.php
+16:20:24.134 Error: Router not found for request GET /wp-config
+16:20:24.375 Error: Router not found for request GET /aws-secret.yaml
+16:20:24.616 Error: Router not found for request GET /awstats/.env
+16:20:24.857 Error: Router not found for request GET /conf/.env
+16:20:25.098 Error: Router not found for request GET /cron/.env
+16:20:25.338 Error: Router not found for request GET /www/.env
+16:20:25.579 Error: Router not found for request GET /docker/.env
+16:20:25.836 Error: Router not found for request GET /docker/app/.env
+16:20:26.077 Error: Router not found for request GET /env.backup
+16:20:26.318 Error: Router not found for request GET /xampp/phpinfo.php
+16:20:26.559 Error: Router not found for request GET /lara/info.php
+16:20:26.805 Error: Router not found for request GET /lara/phpinfo.php
+16:20:27.046 Error: Router not found for request GET /laravel/info.php
+16:20:27.290 Error: Router not found for request GET /.vscode/.env
+16:20:27.557 Error: Router not found for request GET /js/.env
+16:20:27.832 Error: Router not found for request GET /laravel/.env
+16:20:28.073 Error: Router not found for request GET /laravel/core/.env
+16:20:28.315 Error: Router not found for request GET /mail/.env
+16:20:28.556 Error: Router not found for request GET /mailer/.env
+16:20:28.797 Error: Router not found for request GET /nginx/.env
+16:20:29.038 Error: Router not found for request GET /public/.env
+16:20:29.298 Error: Router not found for request GET /site/.env
+16:20:29.549 Error: Router not found for request GET /xampp/.env
+16:20:29.789 Error: Router not found for request GET /main/.env
+16:20:30.035 Error: Router not found for request GET /node_modules/.env
+16:20:30.278 Error: Router not found for request GET /kyc/.env
+16:20:30.520 Error: Router not found for request GET /admin/.env
+16:20:30.762 Error: Router not found for request GET /prod/.env
+16:20:31.004 Error: Router not found for request GET /.env.bak
+16:20:31.244 Error: Router not found for request GET /api/shared/config/config.env
+16:20:31.484 Error: Router not found for request GET /api/shared/config.env
+16:20:31.728 Error: Router not found for request GET /config.env
+16:20:31.968 Error: Router not found for request GET /website/.env
+16:20:32.215 Error: Router not found for request GET /development/.env
+16:20:32.455 Error: Router not found for request GET /backend/.env
+16:20:32.699 Error: Router not found for request GET /api/shared/config/.env
+16:20:32.943 Error: Router not found for request GET /api/shared/.env
+16:20:33.184 Error: Router not found for request GET /api/config.env
+16:20:33.430 Error: Router not found for request GET /service/email_service.py
+16:20:33.673 Error: Router not found for request GET /node/.env_example
+16:20:33.914 Error: Router not found for request GET /.env.production.local
+16:20:34.154 Error: Router not found for request GET /.env.local
+16:20:34.395 Error: Router not found for request GET /.env.example
+16:20:34.662 Error: Router not found for request GET /.env.stage
+16:20:34.911 Error: Router not found for request GET /server/config/database.js
+16:20:35.151 Error: Router not found for request GET /.env.old
+16:20:35.391 Error: Router not found for request GET /.env_sample
+16:20:35.635 Error: Router not found for request GET /scripts/nodemailer.js
+16:20:35.878 Error: Router not found for request GET /.env.prod
+16:20:36.121 Error: Router not found for request GET /crm/.env
+16:20:36.361 Error: Router not found for request GET /local/.env
+16:20:36.617 Error: Router not found for request GET /core/.env
+16:20:36.858 Error: Router not found for request GET /apps/.env
+16:20:37.107 Error: Router not found for request GET /application/.env
+16:20:37.350 Error: Router not found for request GET /web/.env
+16:20:37.594 Error: Router not found for request GET /.aws/credentials
+16:20:37.835 Error: Router not found for request GET /wp-config.php.bak
+16:20:38.077 Error: Router not found for request GET /info.php
+16:20:38.330 Error: Router not found for request GET /dashboard/phpinfo.php
+16:20:38.572 Error: Router not found for request GET /static/js/main.141b0494.js
+16:20:38.814 Error: Router not found for request GET /static/js/2.ca066a4b.chunk.js
+16:20:39.062 Error: Router not found for request GET /static/js/main.e85f7a37.js
+16:20:39.302 Error: Router not found for request GET /admin/server_info.php
+16:20:39.545 Error: Router not found for request GET /server_info.php
+16:20:39.787 Error: Router not found for request GET /app_dev.php/_profiler/phpinfo
+16:20:40.027 Error: Router not found for request GET /test.php
+16:20:40.270 Error: Router not found for request GET /server-info
+16:20:40.511 Error: Router not found for request GET /server-info.php
+16:20:40.753 Error: Router not found for request GET /secured/phpinfo.php
+16:20:40.994 Error: Router not found for request GET /config.js
+16:20:41.241 Error: Router not found for request GET /server.js
+16:20:41.486 Error: Router not found for request GET /appsettings.json
+16:20:41.728 Error: Router not found for request GET /shared/config/config.js
+16:20:41.977 Error: Router not found for request GET /config/aws.yml
+16:20:42.219 Error: Router not found for request GET /settings.py
+16:20:42.462 Error: Router not found for request GET /config.json
+16:20:42.703 Error: Router not found for request GET /main.js
+16:20:42.946 Error: Router not found for request GET /config/constants.js
+16:20:43.187 Error: Router not found for request GET /application.properties
+16:20:43.429 Error: Router not found for request GET /public/js/main.js
+16:20:43.670 Error: Router not found for request GET /js/main.js
+16:20:45.562 Error: Router not found for request GET /karma.conf.json
+16:20:45.863 Error: Router not found for request GET /swagger.json
+16:20:46.197 Error: Router not found for request GET /swagger.js
+16:20:46.552 Error: Router not found for request GET /gatsby-config.js
+16:20:46.905 Error: Router not found for request GET /backend/config/default.yml
+16:20:47.254 Error: Router not found for request GET /app.py
+16:20:47.603 Error: Router not found for request GET /admin/controllers/merchant.js
+16:20:47.948 Error: Router not found for request GET /admin/controllers/partner.js
+16:20:48.278 Error: Router not found for request GET /api/config.js
+16:20:48.610 Error: Router not found for request GET /api/objects/codes.php.save
+16:20:48.965 Error: Router not found for request GET /apis/config/config.js
+16:20:49.303 Error: Router not found for request GET /apis/controllers/users.js
+16:20:49.606 Error: Router not found for request GET /app.js
+16:20:49.896 Error: Router not found for request GET /backend/config/development.yml
+16:20:50.183 Error: Router not found for request GET /cloud/Scraper.js
+16:20:50.472 Error: Router not found for request GET /config/application.yml
+16:20:50.775 Error: Router not found for request GET /config/storage.yml
+16:20:51.079 Error: Router not found for request GET /configs/routes-4aug.js
+16:20:51.397 Error: Router not found for request GET /configs/routes.js
+16:20:51.688 Error: Router not found for request GET /configs/s3_config.json
+16:20:51.990 Error: Router not found for request GET /controller/admin/post.js
+16:20:52.281 Error: Router not found for request GET /controller/api/post.js
+16:20:52.730 Error: Router not found for request GET /controllers/settings.js
+16:20:53.046 Error: Router not found for request GET /getcpuutil.php-bakworking
+16:20:53.374 Error: Router not found for request GET /helper.js
+16:20:53.692 Error: Router not found for request GET /helper/EmailHelper.js
+16:20:54.007 Error: Router not found for request GET /index.js
+16:20:54.289 Error: Router not found for request GET /index.html
+16:20:54.614 Error: Router not found for request GET /my_env/chakaash.py
+16:20:54.947 Error: Router not found for request GET /my_env/newsletter.py
+16:20:55.261 Error: Router not found for request GET /my_env/palash.py
+16:20:55.575 Error: Router not found for request GET /mytest/astech_robot.js
+16:20:55.873 Error: Router not found for request GET /partner/config/config.js
+16:20:56.200 Error: Router not found for request GET /config/settings.json
+16:20:56.520 Error: Router not found for request GET /config/settings.local
+16:20:56.838 Error: Router not found for request GET /.circleci/configs/development.yml
+16:20:57.148 Error: Router not found for request GET /config/settings.prod
+16:20:57.462 Error: Router not found for request GET /app/config/parameters.yml
+16:20:57.780 Error: Router not found for request GET /config/parameters.yml
+16:20:58.118 Error: Router not found for request GET /user/config/config.js
+16:20:58.435 Error: Router not found for request GET /user/controllers/index.js
+16:20:58.754 Error: Router not found for request GET /.AWS_/credentials
+16:20:59.079 Error: Router not found for request GET /config/local.yml
+16:20:59.406 Error: Router not found for request GET /backend/config/settings.yml
+16:20:59.734 Error: Router not found for request GET /api/config/config.yml
+16:21:00.065 Error: Router not found for request GET /admin/config
+16:21:00.366 Error: Router not found for request GET /appsettings.json
+16:21:00.680 Error: Router not found for request GET /.travis.yml
+16:21:01.014 Error: Router not found for request GET /aws.yml
+16:21:01.375 Error: Router not found for request GET /sms.py
+16:21:01.733 Error: Router not found for request GET /config/config.json
+16:21:02.062 Error: Router not found for request GET /main.yml
+16:21:02.356 Error: Router not found for request GET /helpers/utility.js
+16:21:02.645 Error: Router not found for request GET /server/s3.js
+16:21:02.952 Error: Router not found for request GET /s3.js
+16:21:03.267 Error: Router not found for request GET /debug/default/view
+16:21:03.585 Error: Router not found for request GET /aws/credentials
+16:21:03.896 Error: Router not found for request GET /.aws/config
+16:21:58.855 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+16:21:58.867 All consistency checks passed with no errors detected (took 12ms)
+17:21:58.860 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+17:21:58.873 All consistency checks passed with no errors detected (took 18ms)
+18:21:58.857 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+18:21:58.866 All consistency checks passed with no errors detected (took 10ms)
+19:21:58.864 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+19:21:58.877 All consistency checks passed with no errors detected (took 13ms)
+20:21:58.864 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+20:21:58.877 All consistency checks passed with no errors detected (took 14ms)
+21:21:58.864 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+21:21:58.876 All consistency checks passed with no errors detected (took 12ms)
+22:21:58.864 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+22:21:58.878 All consistency checks passed with no errors detected (took 14ms)
+22:46:09.508 Error: Router not found for request GET /backup/
+22:46:10.133 Error: Router not found for request GET /php/backup/
+23:21:58.742 Optimizing database
+23:21:58.744 Optimization finished in 1ms.
+23:21:58.865 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+23:21:58.878 All consistency checks passed with no errors detected (took 14ms)
