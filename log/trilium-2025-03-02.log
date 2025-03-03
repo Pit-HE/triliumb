@@ -1,0 +1,166 @@
+00:21:58.896 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+00:21:58.905 All consistency checks passed with no errors detected (took 10ms)
+01:21:58.896 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+01:21:58.906 All consistency checks passed with no errors detected (took 11ms)
+02:21:58.898 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+02:21:58.909 All consistency checks passed with no errors detected (took 11ms)
+03:21:58.899 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+03:21:58.910 All consistency checks passed with no errors detected (took 12ms)
+04:21:58.900 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+04:21:58.912 All consistency checks passed with no errors detected (took 13ms)
+05:21:58.749 Optimizing database
+05:21:58.750 Optimization finished in 1ms.
+05:21:58.900 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+05:21:58.914 All consistency checks passed with no errors detected (took 15ms)
+06:21:58.902 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+06:21:58.916 All consistency checks passed with no errors detected (took 15ms)
+07:21:58.903 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+07:21:58.913 All consistency checks passed with no errors detected (took 11ms)
+08:21:58.904 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+08:21:58.921 All consistency checks passed with no errors detected (took 17ms)
+09:21:58.905 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+09:21:58.916 All consistency checks passed with no errors detected (took 12ms)
+10:21:58.906 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+10:21:58.917 All consistency checks passed with no errors detected (took 12ms)
+10:37:28.731 Error: Router not found for request GET /ads.txt
+11:09:07.289 Error: Router not found for request GET /site.sql
+11:09:07.332 Error: Router not found for request GET /mysqldump.sql
+11:09:07.338 Error: Router not found for request GET /translate.sql
+11:09:07.407 Error: Router not found for request GET /localhost.sql
+11:09:07.430 Error: Router not found for request GET /wp-content/mysql.sql
+11:09:07.437 Error: Router not found for request GET /dump.sql
+11:09:07.506 Error: Router not found for request GET /db_backup.sql
+11:09:07.524 Error: Router not found for request GET /www.sql
+11:09:07.531 Error: Router not found for request GET /1.sql
+11:09:07.590 Error: Router not found for request GET /sql.sql
+11:09:07.623 Error: Router not found for request GET /database.sql
+11:09:07.638 Error: Router not found for request GET /xsunix.cn_db.sql
+11:09:07.642 Error: Router not found for request GET /temp.sql
+11:09:07.825 Error: Router not found for request GET /wp-content/uploads/dump.sql
+11:09:07.870 Error: Router not found for request GET /mysql.sql
+11:09:07.889 Error: Router not found for request GET /xsunix.cn.sql
+11:09:07.942 Error: Router not found for request GET /dbdump.sql
+11:09:07.965 Error: Router not found for request GET /db.sql
+11:09:08.048 Error: Router not found for request GET /backup.sql
+11:09:15.013 Error: Router not found for request GET /data.sql
+11:21:58.908 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+11:21:58.918 All consistency checks passed with no errors detected (took 10ms)
+12:21:58.910 Table counts: notes: 278, revisions: 12, attachments: 31, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 219
+12:21:58.921 All consistency checks passed with no errors detected (took 11ms)
+12:59:40.326 Generated CSRF token xj7Us120-qhLpadZ-As9FCd4n87wAID_Snd4 with secret _csrf=PA8vVL9VtvE9daEqGdnJ1lFp; Path=/
+12:59:40.625 200 GET /api/options with 6519 bytes took 2ms
+12:59:40.628 200 GET /api/tree with 32475 bytes took 3ms
+12:59:40.630 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+12:59:40.638 200 GET /api/script/widgets with 155155 bytes took 7ms
+12:59:40.735 200 POST /api/tree/load with 6147 bytes took 2ms
+12:59:40.801 200 POST /api/tree/load with 6311 bytes took 3ms
+12:59:41.123 200 POST /api/tree/load with 5702 bytes took 5ms
+12:59:41.200 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+12:59:41.299 200 GET /api/notes/16ewVYb5lycl/blob with 2014 bytes took 2ms
+12:59:41.301 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 1ms
+12:59:43.245 200 GET /api/script/startup with 1804 bytes took 9ms
+12:59:43.299 200 POST /api/tree/load with 6274 bytes took 1ms
+12:59:43.360 200 POST /api/tree/load with 6428 bytes took 2ms
+12:59:44.020 200 GET /api/notes/16ewVYb5lycl/blob with 2014 bytes took 2ms
+12:59:44.026 204 PUT /api/options with 0 bytes took 5ms
+12:59:44.028 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 0ms
+12:59:46.204 200 GET /api/note-map/_optionsAdvanced/backlink-count with 11 bytes took 2ms
+12:59:46.206 200 GET /api/options with 6519 bytes took 1ms
+12:59:46.283 200 GET /api/options with 6519 bytes took 1ms
+12:59:46.325 200 GET /api/options with 6519 bytes took 3ms
+12:59:46.391 200 GET /api/options with 6519 bytes took 2ms
+12:59:46.395 200 GET /api/database/anonymized-databases with 299 bytes took 3ms
+12:59:46.453 200 GET /api/options with 6519 bytes took 2ms
+12:59:46.521 Slow 204 PUT /api/options with 0 bytes took 10ms
+12:59:46.998 200 GET /api/notes/16ewVYb5lycl/blob with 2014 bytes took 2ms
+12:59:47.525 204 PUT /api/options with 0 bytes took 3ms
+13:00:49.841 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 18ms
+13:00:49.888 200 GET /api/notes/16ewVYb5lycl/blob with 1979 bytes took 2ms
+13:00:50.763 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 8ms
+13:00:50.814 200 GET /api/notes/16ewVYb5lycl/blob with 1966 bytes took 2ms
+13:05:34.872 Generated CSRF token zIr7Nkmd-_XttpJP88oqgtN63w4RAphVNxl8 with secret undefined
+13:05:35.223 200 GET /api/options with 6548 bytes took 1ms
+13:05:35.227 200 GET /api/tree with 32475 bytes took 4ms
+13:05:35.231 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+13:05:35.237 200 GET /api/script/widgets with 155155 bytes took 5ms
+13:05:35.320 200 POST /api/tree/load with 6147 bytes took 2ms
+13:05:35.380 200 POST /api/tree/load with 6311 bytes took 2ms
+13:05:35.684 200 POST /api/tree/load with 5702 bytes took 2ms
+13:05:35.759 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+13:05:35.867 200 GET /api/notes/16ewVYb5lycl/blob with 1966 bytes took 1ms
+13:05:35.868 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 1ms
+13:05:37.808 200 GET /api/script/startup with 1804 bytes took 3ms
+13:05:37.864 200 POST /api/tree/load with 6274 bytes took 2ms
+13:05:37.924 200 POST /api/tree/load with 6428 bytes took 2ms
+13:06:32.223 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 10ms
+13:06:32.269 200 GET /api/notes/16ewVYb5lycl/blob with 1902 bytes took 2ms
+13:06:33.542 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 7ms
+13:06:33.590 200 GET /api/notes/16ewVYb5lycl/blob with 1966 bytes took 1ms
+13:06:34.581 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 12ms
+13:06:34.640 200 GET /api/notes/16ewVYb5lycl/blob with 1953 bytes took 2ms
+13:06:57.161 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 9ms
+13:06:57.208 200 GET /api/notes/16ewVYb5lycl/blob with 1900 bytes took 3ms
+13:06:58.177 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 9ms
+13:06:58.235 200 GET /api/notes/16ewVYb5lycl/blob with 1953 bytes took 2ms
+13:06:59.805 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 11ms
+13:06:59.860 200 GET /api/notes/16ewVYb5lycl/blob with 1940 bytes took 2ms
+13:07:00.938 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 9ms
+13:07:00.998 200 GET /api/notes/16ewVYb5lycl/blob with 1953 bytes took 4ms
+13:07:01.939 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 9ms
+13:07:02.004 200 GET /api/notes/16ewVYb5lycl/blob with 1979 bytes took 1ms
+13:07:29.262 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 8ms
+13:07:29.324 200 GET /api/notes/16ewVYb5lycl/blob with 1935 bytes took 1ms
+13:07:30.455 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 7ms
+13:07:30.515 200 GET /api/notes/16ewVYb5lycl/blob with 1979 bytes took 2ms
+13:07:31.740 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 8ms
+13:07:31.803 200 GET /api/notes/16ewVYb5lycl/blob with 1966 bytes took 2ms
+13:07:55.764 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 9ms
+13:07:55.816 200 GET /api/notes/16ewVYb5lycl/blob with 1913 bytes took 2ms
+13:07:56.766 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 7ms
+13:07:56.817 200 GET /api/notes/16ewVYb5lycl/blob with 1900 bytes took 2ms
+13:13:20.158 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 16ms
+13:13:20.227 200 GET /api/notes/16ewVYb5lycl/blob with 1850 bytes took 2ms
+13:13:21.139 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 10ms
+13:13:21.181 200 GET /api/notes/16ewVYb5lycl/blob with 1837 bytes took 2ms
+13:13:59.218 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 8ms
+13:13:59.261 200 GET /api/notes/16ewVYb5lycl/blob with 1650 bytes took 2ms
+13:14:01.144 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 14ms
+13:14:01.207 200 GET /api/notes/16ewVYb5lycl/blob with 1554 bytes took 2ms
+13:14:02.136 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 7ms
+13:14:02.183 200 GET /api/notes/16ewVYb5lycl/blob with 1541 bytes took 4ms
+13:14:16.580 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 9ms
+13:14:16.627 200 GET /api/notes/16ewVYb5lycl/blob with 1551 bytes took 2ms
+13:14:18.099 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 7ms
+13:14:18.147 200 GET /api/notes/16ewVYb5lycl/blob with 1541 bytes took 1ms
+13:14:19.455 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 6ms
+13:14:19.510 200 GET /api/notes/16ewVYb5lycl/blob with 1500 bytes took 4ms
+13:14:20.502 Slow 204 PUT /api/notes/16ewVYb5lycl/data with 0 bytes took 12ms
+13:14:20.554 200 GET /api/notes/16ewVYb5lycl/blob with 1487 bytes took 1ms
+13:21:58.910 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+13:21:58.923 All consistency checks passed with no errors detected (took 13ms)
+13:43:34.471 Error: Router not found for request GET /sitemap.xml
+13:43:50.745 Error: Router not found for request GET /config.json
+14:21:58.911 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+14:21:58.926 All consistency checks passed with no errors detected (took 15ms)
+15:21:58.750 Optimizing database
+15:21:58.751 Optimization finished in 1ms.
+15:21:58.912 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+15:21:58.933 All consistency checks passed with no errors detected (took 21ms)
+16:21:58.914 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+16:21:58.930 All consistency checks passed with no errors detected (took 16ms)
+17:21:58.914 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+17:21:58.923 All consistency checks passed with no errors detected (took 9ms)
+18:21:58.917 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+18:21:58.931 All consistency checks passed with no errors detected (took 14ms)
+19:21:58.919 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+19:21:58.932 All consistency checks passed with no errors detected (took 14ms)
+19:46:43.752 Error: Router not found for request GET /wp-admin/setup-config.php?step=1
+19:46:43.888 Error: Router not found for request GET /wordpress/wp-admin/setup-config.php?step=1
+20:21:58.921 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+20:21:58.929 All consistency checks passed with no errors detected (took 8ms)
+21:21:58.921 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+21:21:58.933 All consistency checks passed with no errors detected (took 12ms)
+22:21:58.923 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+22:21:58.936 All consistency checks passed with no errors detected (took 14ms)
+23:21:58.924 Table counts: notes: 278, revisions: 14, attachments: 35, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 221
+23:21:58.936 All consistency checks passed with no errors detected (took 13ms)
