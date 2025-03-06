@@ -1,0 +1,72 @@
+00:21:58.961 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+00:21:58.972 All consistency checks passed with no errors detected (took 11ms)
+01:21:58.962 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+01:21:58.973 All consistency checks passed with no errors detected (took 12ms)
+02:21:58.962 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+02:21:58.976 All consistency checks passed with no errors detected (took 14ms)
+02:51:10.843 Generated CSRF token ifPCtPJu-D7pjXJlgvWdrfeH7x6zNkg5rLOk with secret _csrf=8V_6KFBmQ4vNHBj5qZ2KowK3; Path=/
+02:51:11.204 200 GET /api/options with 6519 bytes took 2ms
+02:51:11.209 200 GET /api/tree with 32475 bytes took 4ms
+02:51:11.215 200 GET /api/keyboard-actions with 12407 bytes took 5ms
+02:51:11.223 200 GET /api/script/widgets with 155155 bytes took 7ms
+02:51:11.385 200 POST /api/tree/load with 6147 bytes took 2ms
+02:51:11.533 200 POST /api/tree/load with 6311 bytes took 1ms
+02:51:11.848 200 POST /api/tree/load with 5702 bytes took 3ms
+02:51:12.021 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+02:51:12.128 200 GET /api/notes/16ewVYb5lycl/blob with 255 bytes took 2ms
+02:51:12.130 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 1ms
+02:51:12.404 200 GET /api/notes/lsgJRCHtTh9a/blob with 9417 bytes took 2ms
+02:51:12.405 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+02:51:13.005 204 PUT /api/options with 0 bytes took 4ms
+02:51:14.051 200 GET /api/script/startup with 1804 bytes took 3ms
+02:51:14.206 200 POST /api/tree/load with 6274 bytes took 2ms
+02:51:14.365 200 POST /api/tree/load with 6428 bytes took 1ms
+03:21:58.755 Optimizing database
+03:21:58.757 Optimization finished in 1ms.
+03:21:58.962 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+03:21:58.975 All consistency checks passed with no errors detected (took 13ms)
+04:21:58.963 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+04:21:58.971 All consistency checks passed with no errors detected (took 8ms)
+05:21:58.964 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+05:21:58.972 All consistency checks passed with no errors detected (took 8ms)
+06:21:58.965 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+06:21:58.974 All consistency checks passed with no errors detected (took 10ms)
+06:24:56.764 Error: Router not found for request GET /.well-known/security.txt
+07:21:58.966 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+07:21:58.979 All consistency checks passed with no errors detected (took 14ms)
+08:21:58.966 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+08:21:58.982 All consistency checks passed with no errors detected (took 17ms)
+09:21:58.966 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+09:21:58.979 All consistency checks passed with no errors detected (took 14ms)
+10:21:58.966 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+10:21:58.978 All consistency checks passed with no errors detected (took 12ms)
+11:21:58.966 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+11:21:58.974 All consistency checks passed with no errors detected (took 8ms)
+12:21:58.967 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+12:21:58.978 All consistency checks passed with no errors detected (took 12ms)
+13:21:58.756 Optimizing database
+13:21:58.757 Optimization finished in 1ms.
+13:21:58.968 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+13:21:58.987 All consistency checks passed with no errors detected (took 20ms)
+14:21:58.968 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+14:21:58.981 All consistency checks passed with no errors detected (took 14ms)
+15:21:58.968 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+15:21:58.985 All consistency checks passed with no errors detected (took 18ms)
+16:21:58.969 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+16:21:58.978 All consistency checks passed with no errors detected (took 10ms)
+17:21:58.969 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+17:21:58.977 All consistency checks passed with no errors detected (took 8ms)
+18:21:58.970 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+18:21:58.980 All consistency checks passed with no errors detected (took 11ms)
+19:21:58.971 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+19:21:58.981 All consistency checks passed with no errors detected (took 10ms)
+20:21:58.972 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+20:21:58.983 All consistency checks passed with no errors detected (took 11ms)
+21:21:58.973 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+21:21:58.981 All consistency checks passed with no errors detected (took 7ms)
+22:21:58.974 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+22:21:58.986 All consistency checks passed with no errors detected (took 12ms)
+23:21:58.756 Optimizing database
+23:21:58.757 Optimization finished in 1ms.
+23:21:58.975 Table counts: notes: 278, revisions: 15, attachments: 37, branches: 281, attributes: 426, etapi_tokens: 0, blobs: 222
+23:21:58.986 All consistency checks passed with no errors detected (took 12ms)
