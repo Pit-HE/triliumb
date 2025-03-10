@@ -2,3 +2,9 @@
 00:21:59.387 All consistency checks passed with no errors detected (took 10ms)
 01:21:59.391 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
 01:21:59.412 All consistency checks passed with no errors detected (took 22ms)
+02:21:59.399 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+02:21:59.409 All consistency checks passed with no errors detected (took 9ms)
+03:21:58.833 Optimizing database
+03:21:58.836 Optimization finished in 1ms.
+03:21:59.399 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+03:21:59.414 All consistency checks passed with no errors detected (took 15ms)
