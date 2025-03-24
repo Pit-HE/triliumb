@@ -1,0 +1,91 @@
+00:22:01.968 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+00:22:01.984 All consistency checks passed with no errors detected (took 17ms)
+01:21:59.177 Optimizing database
+01:21:59.179 Optimization finished in 1ms.
+01:22:01.968 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+01:22:01.984 All consistency checks passed with no errors detected (took 16ms)
+02:22:01.979 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+02:22:01.989 All consistency checks passed with no errors detected (took 10ms)
+03:22:01.982 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+03:22:01.995 All consistency checks passed with no errors detected (took 13ms)
+04:22:01.990 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+04:22:02.009 All consistency checks passed with no errors detected (took 20ms)
+05:22:01.992 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+05:22:02.006 All consistency checks passed with no errors detected (took 15ms)
+06:22:01.996 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+06:22:02.008 All consistency checks passed with no errors detected (took 12ms)
+06:46:15.572 Error: Router not found for request GET /www/.git/config
+06:46:15.576 Error: Router not found for request GET /backend/.git/config
+06:46:16.024 Error: Router not found for request GET /template/.git/config
+06:46:16.031 Error: Router not found for request GET /docs/.git/config
+06:46:16.033 Error: Router not found for request GET /static../.git/config
+06:46:16.039 Error: Router not found for request GET /app/.git/config
+06:46:16.041 Error: Router not found for request GET /panel/.git/config
+06:46:16.043 Error: Router not found for request GET /staging/.git/config
+06:46:16.075 Error: Router not found for request GET /dev/.git/config
+06:46:16.439 Error: Router not found for request GET /files/.git/config
+06:46:17.036 Error: Router not found for request GET /dist/.git/config
+06:46:17.090 Error: Router not found for request GET /logs/.git/config
+06:46:20.020 Error: Router not found for request GET /sandbox/.git/config
+06:46:20.122 Error: Router not found for request GET /scripts/.git/config
+06:46:20.137 Error: Router not found for request GET /src/.git/config
+06:46:20.169 Error: Router not found for request GET /wp-content/.git/config
+06:46:20.178 Error: Router not found for request GET /admin/.git/config
+06:46:20.793 Error: Router not found for request GET /assets/.git/config
+06:46:20.970 Error: Router not found for request GET /public/.git/config
+07:22:01.996 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+07:22:02.012 All consistency checks passed with no errors detected (took 16ms)
+08:22:01.998 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+08:22:02.008 All consistency checks passed with no errors detected (took 10ms)
+09:22:01.998 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+09:22:02.006 All consistency checks passed with no errors detected (took 8ms)
+10:22:02.001 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+10:22:02.014 All consistency checks passed with no errors detected (took 13ms)
+11:21:59.200 Optimizing database
+11:21:59.203 Optimization finished in 1ms.
+11:22:02.004 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+11:22:02.021 All consistency checks passed with no errors detected (took 17ms)
+12:22:02.030 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+12:22:02.044 All consistency checks passed with no errors detected (took 15ms)
+12:30:51.727 Error: Router not found for request GET //wp-includes/wlwmanifest.xml
+12:30:51.975 Error: Router not found for request GET //xmlrpc.php?rsd
+12:30:52.487 Error: Router not found for request GET //blog/wp-includes/wlwmanifest.xml
+12:30:52.735 Error: Router not found for request GET //web/wp-includes/wlwmanifest.xml
+12:30:52.979 Error: Router not found for request GET //wordpress/wp-includes/wlwmanifest.xml
+12:30:53.224 Error: Router not found for request GET //website/wp-includes/wlwmanifest.xml
+12:30:53.470 Error: Router not found for request GET //wp/wp-includes/wlwmanifest.xml
+12:30:53.714 Error: Router not found for request GET //news/wp-includes/wlwmanifest.xml
+12:30:53.985 Error: Router not found for request GET //2018/wp-includes/wlwmanifest.xml
+12:30:54.238 Error: Router not found for request GET //2019/wp-includes/wlwmanifest.xml
+12:30:54.483 Error: Router not found for request GET //shop/wp-includes/wlwmanifest.xml
+12:30:54.727 Error: Router not found for request GET //wp1/wp-includes/wlwmanifest.xml
+12:30:54.997 Error: Router not found for request GET //test/wp-includes/wlwmanifest.xml
+12:30:55.245 Error: Router not found for request GET //media/wp-includes/wlwmanifest.xml
+12:30:55.491 Error: Router not found for request GET //wp2/wp-includes/wlwmanifest.xml
+12:30:55.737 Error: Router not found for request GET //site/wp-includes/wlwmanifest.xml
+12:30:55.987 Error: Router not found for request GET //cms/wp-includes/wlwmanifest.xml
+12:30:56.231 Error: Router not found for request GET //sito/wp-includes/wlwmanifest.xml
+13:22:02.031 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+13:22:02.042 All consistency checks passed with no errors detected (took 10ms)
+14:22:02.047 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+14:22:02.059 All consistency checks passed with no errors detected (took 12ms)
+15:22:02.063 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+15:22:02.077 All consistency checks passed with no errors detected (took 14ms)
+16:22:02.081 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+16:22:02.092 All consistency checks passed with no errors detected (took 12ms)
+17:22:02.082 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+17:22:02.092 All consistency checks passed with no errors detected (took 10ms)
+18:22:02.085 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+18:22:02.099 All consistency checks passed with no errors detected (took 14ms)
+19:22:02.097 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+19:22:02.112 All consistency checks passed with no errors detected (took 16ms)
+20:22:02.108 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+20:22:02.125 All consistency checks passed with no errors detected (took 18ms)
+21:21:59.206 Optimizing database
+21:21:59.211 Optimization finished in 2ms.
+21:22:02.109 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+21:22:02.126 All consistency checks passed with no errors detected (took 17ms)
+22:22:02.117 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+22:22:02.131 All consistency checks passed with no errors detected (took 14ms)
+23:22:02.122 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+23:22:02.135 All consistency checks passed with no errors detected (took 13ms)
