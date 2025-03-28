@@ -1,0 +1,123 @@
+00:22:02.567 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+00:22:02.578 All consistency checks passed with no errors detected (took 11ms)
+00:29:29.758 Error: Router not found for request GET /_profiler/phpinfo
+00:29:29.917 Error: Router not found for request GET /_profiler/phpinfo
+00:29:30.073 Error: Router not found for request GET /phpinfo.php
+00:29:30.254 Error: Router not found for request GET /phpinfo.php
+00:29:30.459 Error: Router not found for request GET /phpinfo
+00:29:30.632 Error: Router not found for request GET /phpinfo
+00:29:30.788 Error: Router not found for request GET /info.php
+00:29:30.944 Error: Router not found for request GET /info.php
+00:29:31.103 Error: Router not found for request GET /php-info.php
+00:29:31.259 Error: Router not found for request GET /php-info.php
+00:29:31.414 Error: Router not found for request GET /karma.conf.json
+00:29:31.570 Error: Router not found for request GET /karma.conf.json
+00:29:31.752 Error: Router not found for request GET /.env
+00:29:31.914 Error: Router not found for request GET /.env
+00:29:32.070 Error: Router not found for request GET /api/.env
+00:29:32.225 Error: Router not found for request GET /api/.env
+00:29:32.386 Error: Router not found for request GET /.git/config
+00:29:32.543 Error: Router not found for request GET /.git/config
+00:29:32.699 Error: Router not found for request GET /.gitconfig
+00:29:32.856 Error: Router not found for request GET /.gitconfig
+00:29:33.051 Error: Router not found for request GET /config.js
+00:29:33.211 Error: Router not found for request GET /config.js
+00:29:33.368 Error: Router not found for request GET /.aws/credentials
+00:29:33.525 Error: Router not found for request GET /.aws/credentials
+00:29:33.682 Error: Router not found for request GET /docker-compose.yml
+00:29:33.838 Error: Router not found for request GET /docker-compose.yml
+00:29:33.994 Error: Router not found for request GET /docker-compose.yaml
+00:29:34.150 Error: Router not found for request GET /docker-compose.yaml
+00:29:34.312 Error: Router not found for request GET /index.js
+00:29:34.468 Error: Router not found for request GET /index.js
+00:29:34.627 Error: Router not found for request GET /.AWS_/credentials
+00:29:34.783 Error: Router not found for request GET /.AWS_/credentials
+00:29:34.943 Error: Router not found for request GET /settings.py
+00:29:35.100 Error: Router not found for request GET /settings.py
+00:29:35.257 Error: Router not found for request GET /server_info.php
+00:29:35.417 Error: Router not found for request GET /server_info.php
+00:29:35.573 Error: Router not found for request GET /wp-config.php
+00:29:35.729 Error: Router not found for request GET /wp-config.php
+00:29:35.887 Error: Router not found for request GET /symfony/.env
+00:29:36.044 Error: Router not found for request GET /symfony/.env
+00:29:36.200 Error: Router not found for request GET /django/.env
+00:29:36.356 Error: Router not found for request GET /django/.env
+00:29:36.550 Error: Router not found for request GET /flask/.env
+00:29:36.706 Error: Router not found for request GET /flask/.env
+00:29:36.862 Error: Router not found for request GET /next/.env
+00:29:37.018 Error: Router not found for request GET /next/.env
+00:29:37.177 Error: Router not found for request GET /nuxt/.env
+00:29:37.334 Error: Router not found for request GET /nuxt/.env
+00:29:37.492 Error: Router not found for request GET /react/.env
+00:29:37.647 Error: Router not found for request GET /react/.env
+00:29:37.803 Error: Router not found for request GET /vue/.env
+00:29:37.959 Error: Router not found for request GET /vue/.env
+01:22:02.563 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+01:22:02.575 All consistency checks passed with no errors detected (took 12ms)
+02:22:02.595 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+02:22:02.611 All consistency checks passed with no errors detected (took 17ms)
+03:22:02.624 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+03:22:02.640 All consistency checks passed with no errors detected (took 16ms)
+04:22:02.649 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+04:22:02.668 All consistency checks passed with no errors detected (took 20ms)
+05:22:02.654 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+05:22:02.678 All consistency checks passed with no errors detected (took 25ms)
+05:46:43.421 Generated CSRF token Q82wtzeI-WXk-m-87Uj7aqUNcW-vAfHU_h0g with secret _csrf=InNm7mxFZsE9qPDc0tLyEj3h; Path=/
+05:46:43.642 200 GET /api/options with 8648 bytes took 2ms
+05:46:43.647 200 GET /api/tree with 34300 bytes took 4ms
+05:46:43.656 200 GET /api/keyboard-actions with 12407 bytes took 8ms
+05:46:43.669 Slow 200 GET /api/script/widgets with 155155 bytes took 12ms
+05:46:43.727 200 POST /api/tree/load with 6399 bytes took 1ms
+05:46:43.788 200 POST /api/tree/load with 6563 bytes took 2ms
+05:46:44.107 200 POST /api/tree/load with 5954 bytes took 3ms
+05:46:44.212 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+05:46:46.814 200 GET /api/script/startup with 1804 bytes took 5ms
+05:46:46.870 200 POST /api/tree/load with 6525 bytes took 2ms
+05:46:46.934 200 POST /api/tree/load with 6679 bytes took 3ms
+05:46:52.862 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 1ms
+05:46:52.866 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 2ms
+05:46:53.303 200 GET /api/search/%23workspace%20%23!template with 2 bytes took 4ms
+05:46:53.364 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 3ms
+05:46:53.368 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+05:46:53.416 204 PUT /api/options with 0 bytes took 5ms
+05:47:33.922 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 3ms
+06:22:02.661 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+06:22:02.674 All consistency checks passed with no errors detected (took 14ms)
+07:22:02.682 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+07:22:02.703 All consistency checks passed with no errors detected (took 22ms)
+08:22:02.686 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+08:22:02.709 All consistency checks passed with no errors detected (took 23ms)
+09:21:59.278 Optimizing database
+09:21:59.282 Optimization finished in 2ms.
+09:22:02.686 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+09:22:02.711 All consistency checks passed with no errors detected (took 25ms)
+10:22:02.702 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+10:22:02.714 All consistency checks passed with no errors detected (took 13ms)
+11:22:02.717 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+11:22:02.756 All consistency checks passed with no errors detected (took 40ms)
+12:22:02.730 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+12:22:02.750 All consistency checks passed with no errors detected (took 21ms)
+13:22:02.734 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+13:22:02.755 All consistency checks passed with no errors detected (took 22ms)
+14:22:02.742 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+14:22:02.759 All consistency checks passed with no errors detected (took 17ms)
+15:22:02.746 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+15:22:02.767 All consistency checks passed with no errors detected (took 22ms)
+16:22:02.754 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+16:22:02.773 All consistency checks passed with no errors detected (took 20ms)
+17:22:02.757 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+17:22:02.774 All consistency checks passed with no errors detected (took 18ms)
+18:22:02.762 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+18:22:02.780 All consistency checks passed with no errors detected (took 19ms)
+19:21:59.308 Optimizing database
+19:21:59.311 Optimization finished in 1ms.
+19:22:02.765 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+19:22:02.788 All consistency checks passed with no errors detected (took 24ms)
+20:22:02.769 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+20:22:02.787 All consistency checks passed with no errors detected (took 19ms)
+21:22:02.769 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+21:22:02.783 All consistency checks passed with no errors detected (took 14ms)
+22:22:02.773 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+22:22:02.789 All consistency checks passed with no errors detected (took 17ms)
+23:22:02.800 Table counts: notes: 287, revisions: 18, attachments: 40, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+23:22:02.816 All consistency checks passed with no errors detected (took 15ms)
