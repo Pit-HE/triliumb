@@ -8,3 +8,48 @@
 02:22:05.068 All consistency checks passed with no errors detected (took 15ms)
 03:22:05.075 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
 03:22:05.085 All consistency checks passed with no errors detected (took 10ms)
+04:22:05.096 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+04:22:05.110 All consistency checks passed with no errors detected (took 15ms)
+05:22:05.100 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+05:22:05.118 All consistency checks passed with no errors detected (took 18ms)
+06:22:05.119 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+06:22:05.134 All consistency checks passed with no errors detected (took 16ms)
+07:22:05.125 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+07:22:05.135 All consistency checks passed with no errors detected (took 11ms)
+08:22:05.139 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+08:22:05.155 All consistency checks passed with no errors detected (took 17ms)
+09:22:00.137 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+09:22:05.142 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+09:22:05.151 All consistency checks passed with no errors detected (took 9ms)
+10:22:05.157 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+10:22:05.167 All consistency checks passed with no errors detected (took 11ms)
+11:21:59.623 Optimizing database
+11:21:59.626 Optimization finished in 1ms.
+11:22:05.161 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+11:22:05.172 All consistency checks passed with no errors detected (took 12ms)
+12:22:05.171 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+12:22:05.179 All consistency checks passed with no errors detected (took 9ms)
+13:22:05.176 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+13:22:05.185 All consistency checks passed with no errors detected (took 9ms)
+14:22:05.183 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+14:22:05.192 All consistency checks passed with no errors detected (took 10ms)
+15:22:05.188 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+15:22:05.197 All consistency checks passed with no errors detected (took 10ms)
+16:22:05.190 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+16:22:05.200 All consistency checks passed with no errors detected (took 10ms)
+17:22:05.190 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+17:22:05.202 All consistency checks passed with no errors detected (took 12ms)
+18:22:05.194 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+18:22:05.212 All consistency checks passed with no errors detected (took 19ms)
+19:22:05.222 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+19:22:05.235 All consistency checks passed with no errors detected (took 13ms)
+20:22:05.241 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+20:22:05.253 All consistency checks passed with no errors detected (took 12ms)
+21:21:59.632 Optimizing database
+21:21:59.635 Optimization finished in 0ms.
+21:22:05.246 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+21:22:05.264 All consistency checks passed with no errors detected (took 18ms)
+22:22:05.257 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+22:22:05.274 All consistency checks passed with no errors detected (took 17ms)
+23:22:05.278 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+23:22:05.290 All consistency checks passed with no errors detected (took 12ms)
