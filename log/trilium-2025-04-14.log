@@ -1,0 +1,10 @@
+00:22:06.758 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+00:22:06.775 All consistency checks passed with no errors detected (took 17ms)
+01:22:06.763 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+01:22:06.779 All consistency checks passed with no errors detected (took 16ms)
+02:22:06.772 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+02:22:06.786 All consistency checks passed with no errors detected (took 15ms)
+03:21:59.813 Optimizing database
+03:21:59.817 Optimization finished in 1ms.
+03:22:06.777 Table counts: notes: 287, revisions: 18, attachments: 38, branches: 290, attributes: 441, etapi_tokens: 0, blobs: 227
+03:22:06.792 All consistency checks passed with no errors detected (took 16ms)
