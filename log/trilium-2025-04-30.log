@@ -1,0 +1,55 @@
+00:22:10.827 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+00:22:10.863 All consistency checks passed with no errors detected (took 36ms)
+01:22:10.835 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+01:22:10.857 All consistency checks passed with no errors detected (took 23ms)
+02:22:10.851 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+02:22:10.877 All consistency checks passed with no errors detected (took 27ms)
+03:22:10.857 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+03:22:10.907 All consistency checks passed with no errors detected (took 51ms)
+04:22:10.863 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+04:22:10.895 All consistency checks passed with no errors detected (took 33ms)
+05:22:10.875 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+05:22:10.930 All consistency checks passed with no errors detected (took 56ms)
+06:22:10.876 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+06:22:10.912 All consistency checks passed with no errors detected (took 37ms)
+07:22:10.886 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+07:22:10.990 All consistency checks passed with no errors detected (took 105ms)
+08:22:10.883 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+08:22:10.917 All consistency checks passed with no errors detected (took 34ms)
+09:22:00.267 Optimizing database
+09:22:00.271 Optimization finished in 1ms.
+09:22:10.891 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+09:22:10.951 All consistency checks passed with no errors detected (took 62ms)
+10:22:10.909 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+10:22:10.951 All consistency checks passed with no errors detected (took 43ms)
+11:22:10.934 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+11:22:10.968 All consistency checks passed with no errors detected (took 35ms)
+12:22:10.957 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+12:22:10.995 All consistency checks passed with no errors detected (took 39ms)
+13:22:10.967 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+13:22:11.054 All consistency checks passed with no errors detected (took 88ms)
+14:22:11.034 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+14:22:11.076 Slow query took 38ms: SELECT id, entityId FROM entity_changes JOIN notes ON entityId = notes.noteId WHERE entity_changes.isErased = 1 AND entity_changes.entityName = 'notes'
+14:22:11.172 All consistency checks passed with no errors detected (took 142ms)
+15:22:11.029 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+15:22:11.081 Slow query took 23ms: SELECT noteId, parentNoteId FROM branches WHERE isDeleted = 0
+15:22:11.086 All consistency checks passed with no errors detected (took 58ms)
+16:22:11.029 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+16:22:11.091 All consistency checks passed with no errors detected (took 63ms)
+16:54:59.711 Error: Router not found for request GET /.git/
+17:22:11.033 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+17:22:11.064 All consistency checks passed with no errors detected (took 33ms)
+18:22:11.031 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+18:22:11.056 All consistency checks passed with no errors detected (took 26ms)
+19:22:00.288 Optimizing database
+19:22:00.293 Optimization finished in 3ms.
+19:22:11.033 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+19:22:11.063 All consistency checks passed with no errors detected (took 31ms)
+20:22:11.040 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+20:22:11.138 All consistency checks passed with no errors detected (took 99ms)
+21:22:11.040 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+21:22:11.089 All consistency checks passed with no errors detected (took 50ms)
+22:22:11.045 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+22:22:11.099 All consistency checks passed with no errors detected (took 55ms)
+23:22:11.074 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+23:22:11.150 All consistency checks passed with no errors detected (took 78ms)
