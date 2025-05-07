@@ -1,0 +1,580 @@
+00:22:12.488 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+00:22:12.529 All consistency checks passed with no errors detected (took 43ms)
+01:22:12.488 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+01:22:12.530 All consistency checks passed with no errors detected (took 42ms)
+02:22:12.512 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+02:22:12.540 All consistency checks passed with no errors detected (took 29ms)
+03:22:12.522 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+03:22:12.580 All consistency checks passed with no errors detected (took 59ms)
+04:22:12.532 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+04:22:12.569 All consistency checks passed with no errors detected (took 38ms)
+05:22:00.425 Optimizing database
+05:22:00.429 Optimization finished in 1ms.
+05:22:12.543 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+05:22:12.587 All consistency checks passed with no errors detected (took 45ms)
+06:22:12.562 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+06:22:12.581 All consistency checks passed with no errors detected (took 20ms)
+07:22:12.576 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+07:22:12.599 All consistency checks passed with no errors detected (took 24ms)
+08:22:12.584 Table counts: notes: 296, revisions: 51, attachments: 38, branches: 299, attributes: 443, etapi_tokens: 0, blobs: 262
+08:22:12.610 All consistency checks passed with no errors detected (took 27ms)
+09:08:38.809 Slow query took 27ms: SELECT name FROM sqlite_master WHERE type = 'table' AND name = 'options'
+09:19:38.586 Generated CSRF token VXxeHTI6-QUdY3RNBQ1tuy8v6l_JWpjFF7_M with secret undefined
+09:19:39.870 200 GET /api/options with 6380 bytes took 3ms
+09:19:40.741 Slow 200 GET /api/tree with 87388 bytes took 14ms
+09:19:40.746 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+09:19:40.754 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 7ms
+09:19:42.627 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5782 bytes took 2ms
+09:19:42.635 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8510 bytes took 6ms
+09:19:42.639 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 3ms
+09:19:45.244 200 GET /api/note-map/t6lslliU9n7a/backlink-count with 11 bytes took 4ms
+09:19:45.249 200 GET /api/notes/t6lslliU9n7a/blob with 927 bytes took 2ms
+09:19:45.606 200 GET /api/script/startup?mobile=true with 2 bytes took 7ms
+09:19:51.343 200 GET /api/notes/t6lslliU9n7a/blob with 927 bytes took 7ms
+09:20:29.288 Generated CSRF token aUt9izNn-HL11b5bK-YsC5uCK-6p_KoMawDk with secret undefined
+09:20:29.857 200 GET /api/options with 6380 bytes took 3ms
+09:20:29.915 Slow 200 GET /api/tree with 87388 bytes took 18ms
+09:20:29.919 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+09:20:29.925 200 GET /api/keyboard-actions with 12407 bytes took 5ms
+09:20:30.240 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8510 bytes took 7ms
+09:20:30.275 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5782 bytes took 3ms
+09:20:30.283 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 5ms
+09:20:30.348 200 GET /api/notes/t6lslliU9n7a/blob with 927 bytes took 4ms
+09:20:30.361 200 GET /api/note-map/t6lslliU9n7a/backlink-count with 11 bytes took 4ms
+09:20:31.733 Created new note 'olr16gY7QcM1', branch '68kzBIwTCVFG_olr16gY7QcM1' of type 'text', mime 'text/html'
+09:20:31.750 Created new note 'dkHKr7uVSjBa', branch 'olr16gY7QcM1_dkHKr7uVSjBa' of type 'text', mime 'text/html'
+09:20:31.789 Slow 200 GET /api/special-notes/inbox/2025-05-06 with 326 bytes took 105ms
+09:20:31.946 Slow 200 POST /api/tree/load with 7643 bytes took 10ms
+09:20:32.003 200 POST /api/tree/load with 8511 bytes took 2ms
+09:20:32.175 Created new note 'OTuP8UmempEx', branch 'dkHKr7uVSjBa_OTuP8UmempEx' of type 'text', mime 'text/html'
+09:20:32.187 Slow 200 POST /api/notes/dkHKr7uVSjBa/children?target=into with 554 bytes took 23ms
+09:20:32.241 200 GET /api/script/startup?mobile=true with 2 bytes took 2ms
+09:20:32.328 200 POST /api/tree/load with 8787 bytes took 2ms
+09:20:32.476 200 GET /api/notes/OTuP8UmempEx/blob with 155 bytes took 2ms
+09:20:32.511 200 GET /api/tree?subTreeNoteId=olr16gY7QcM1 with 8657 bytes took 8ms
+09:20:32.526 200 GET /api/note-map/OTuP8UmempEx/backlink-count with 11 bytes took 6ms
+09:20:32.781 200 GET /api/tree?subTreeNoteId=dkHKr7uVSjBa with 8787 bytes took 3ms
+09:20:33.014 204 PUT /api/branches/68kzBIwTCVFG_olr16gY7QcM1/expanded/1 with 0 bytes took 2ms
+09:20:33.309 204 PUT /api/branches/olr16gY7QcM1_dkHKr7uVSjBa/expanded/1 with 0 bytes took 6ms
+09:20:35.355 Generated CSRF token CTZV9qba-TAbsyeldFkZEIWRnVDvTqJ4jjMM with secret undefined
+09:20:35.608 Slow 200 GET /api/options with 6380 bytes took 15ms
+09:20:35.642 200 GET /api/tree with 88939 bytes took 8ms
+09:20:35.702 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+09:20:35.716 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+09:20:35.928 Slow 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8655 bytes took 11ms
+09:20:35.970 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5782 bytes took 3ms
+09:20:35.973 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 2ms
+09:20:36.039 Slow 200 GET /api/notes/t6lslliU9n7a/blob with 927 bytes took 10ms
+09:20:36.062 200 GET /api/note-map/t6lslliU9n7a/backlink-count with 11 bytes took 9ms
+09:20:37.918 200 GET /api/script/startup?mobile=true with 2 bytes took 3ms
+09:20:41.635 Generated CSRF token fh2NTwF9-UZ6yssxbEfIBxpbsIrHYhSieDs0 with secret undefined
+09:20:42.225 200 GET /api/options with 6380 bytes took 2ms
+09:20:42.251 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+09:20:42.279 Slow 200 GET /api/tree with 88939 bytes took 20ms
+09:20:42.322 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 6ms
+09:20:42.498 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8655 bytes took 4ms
+09:20:42.506 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5782 bytes took 2ms
+09:20:42.508 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 2ms
+09:20:42.586 200 GET /api/notes/t6lslliU9n7a/blob with 927 bytes took 2ms
+09:20:42.588 200 GET /api/note-map/t6lslliU9n7a/backlink-count with 11 bytes took 1ms
+09:20:44.527 Slow 200 GET /api/script/startup?mobile=true with 2 bytes took 11ms
+09:20:47.552 Slow 200 GET /api/notes/Y1ssLHdTfg74/blob with 13026 bytes took 11ms
+09:20:47.555 200 GET /api/note-map/Y1ssLHdTfg74/backlink-count with 11 bytes took 1ms
+09:20:47.655 Slow 204 PUT /api/options with 0 bytes took 10ms
+09:20:57.794 Slow 200 GET /api/special-notes/inbox/2025-05-06 with 326 bytes took 10ms
+09:20:58.031 Created new note 'XSyydIGGta6D', branch 'dkHKr7uVSjBa_XSyydIGGta6D' of type 'text', mime 'text/html'
+09:20:58.059 Slow 200 POST /api/notes/dkHKr7uVSjBa/children?target=into with 554 bytes took 35ms
+09:20:58.205 200 POST /api/tree/load with 8931 bytes took 4ms
+09:20:58.738 Slow 200 GET /api/notes/XSyydIGGta6D/blob with 155 bytes took 14ms
+09:20:58.825 200 GET /api/note-map/XSyydIGGta6D/backlink-count with 11 bytes took 2ms
+09:21:03.205 200 GET /api/notes/BLRIgPcJ2V2m/blob with 987 bytes took 7ms
+09:21:03.224 200 GET /api/note-map/BLRIgPcJ2V2m/backlink-count with 11 bytes took 9ms
+09:21:03.263 Slow 204 PUT /api/options with 0 bytes took 13ms
+09:21:04.878 204 PUT /api/branches/Gtagls7IzDRK_3xstx6i9T69z/expanded/0 with 0 bytes took 2ms
+09:21:10.042 Slow 200 GET /api/notes/Y1ssLHdTfg74/blob with 13026 bytes took 12ms
+09:21:10.044 200 GET /api/note-map/Y1ssLHdTfg74/backlink-count with 11 bytes took 1ms
+09:21:10.116 204 PUT /api/options with 0 bytes took 5ms
+09:21:11.951 Generated CSRF token IXAL7sOJ-GQXfjemuGzpq16DACBgwxKwVgNk with secret undefined
+09:21:12.349 200 GET /api/options with 6328 bytes took 3ms
+09:21:12.391 200 GET /api/tree with 83637 bytes took 9ms
+09:21:12.408 Slow 200 GET /api/keyboard-actions with 12407 bytes took 11ms
+09:21:12.410 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+09:21:12.676 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 3ms
+09:21:12.696 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 2ms
+09:21:12.701 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 4ms
+09:21:12.831 200 GET /api/notes/Y1ssLHdTfg74/blob with 13026 bytes took 6ms
+09:21:12.841 200 GET /api/note-map/Y1ssLHdTfg74/backlink-count with 11 bytes took 7ms
+09:21:14.684 Slow 200 GET /api/script/startup?mobile=true with 2 bytes took 16ms
+09:22:12.593 Table counts: notes: 300, revisions: 51, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 262
+09:22:12.609 All consistency checks passed with no errors detected (took 16ms)
+09:56:33.299 Generated CSRF token bzh17Uby-uGSbrm-8K0sqINipk27rM2IL-xA with secret undefined
+09:56:33.914 200 GET /api/options with 6328 bytes took 3ms
+09:56:33.948 Slow 200 GET /api/tree with 83637 bytes took 19ms
+09:56:33.957 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+09:56:33.995 Slow 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 23ms
+09:56:36.926 Generated CSRF token 4Jqgu7Ei-8cF_XMsEXVNHlmgYy8AuFMR08GU with secret undefined
+09:56:37.216 200 GET /api/options with 6328 bytes took 9ms
+09:56:37.234 200 GET /api/tree with 83637 bytes took 8ms
+09:56:37.258 Slow 200 GET /api/keyboard-actions with 12407 bytes took 13ms
+09:56:37.297 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+09:56:37.451 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 2ms
+09:56:37.472 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 2ms
+09:56:37.487 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 4ms
+09:56:37.521 200 GET /api/notes/Y1ssLHdTfg74/blob with 13026 bytes took 2ms
+09:56:37.525 200 GET /api/note-map/Y1ssLHdTfg74/backlink-count with 11 bytes took 2ms
+09:56:39.429 200 GET /api/script/startup?mobile=true with 2 bytes took 2ms
+09:56:43.021 200 GET /api/notes/5tuXRUjKpIvp/blob with 952 bytes took 2ms
+09:56:43.033 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 6ms
+09:56:43.128 204 PUT /api/options with 0 bytes took 6ms
+09:56:45.927 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 24ms
+10:22:12.607 Table counts: notes: 300, revisions: 52, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 263
+10:22:12.668 All consistency checks passed with no errors detected (took 61ms)
+10:26:46.751 Generated CSRF token RMYRCgLs-hQcEul8x5DCpaLWmJdsp03glMTQ with secret undefined
+10:26:47.459 Slow 200 GET /api/tree with 83637 bytes took 11ms
+10:26:47.479 200 GET /api/options with 6328 bytes took 7ms
+10:26:47.615 Slow 200 GET /api/keyboard-actions with 12407 bytes took 19ms
+10:26:47.658 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 4ms
+10:26:47.930 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 1ms
+10:26:47.934 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 3ms
+10:26:47.936 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 1ms
+10:26:48.010 200 GET /api/notes/5tuXRUjKpIvp/blob with 1058 bytes took 2ms
+10:26:48.023 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 7ms
+10:26:49.540 Generated CSRF token p5ymQ2f7-vZw-NMz68jHwG93UfW1fBcfmLA8 with secret undefined
+10:26:49.994 200 GET /api/options with 6328 bytes took 5ms
+10:26:50.002 200 GET /api/tree with 83637 bytes took 7ms
+10:26:50.006 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+10:26:50.115 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 4ms
+10:26:50.263 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 9ms
+10:26:50.296 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 7ms
+10:26:50.314 Slow 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 16ms
+10:26:50.348 200 GET /api/notes/5tuXRUjKpIvp/blob with 1058 bytes took 2ms
+10:26:50.351 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 1ms
+10:26:52.244 200 GET /api/script/startup?mobile=true with 2 bytes took 3ms
+10:26:57.635 200 GET /api/notes/f5JUlRvow6xl/blob with 343 bytes took 6ms
+10:26:57.663 Slow 200 GET /api/note-map/f5JUlRvow6xl/backlink-count with 11 bytes took 11ms
+10:26:57.709 204 PUT /api/options with 0 bytes took 9ms
+10:27:01.414 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 26ms
+10:27:05.591 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 18ms
+10:27:07.436 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 15ms
+10:27:09.239 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 13ms
+10:27:11.673 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 41ms
+10:27:12.653 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 16ms
+10:27:16.531 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 26ms
+10:27:18.285 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 18ms
+10:27:24.841 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 15ms
+10:27:25.823 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 32ms
+10:27:26.844 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 14ms
+10:27:27.816 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 22ms
+10:27:28.843 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 17ms
+10:27:30.681 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 14ms
+10:27:33.225 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 20ms
+10:27:46.641 200 GET /api/notes/eaxgg24od19f/blob with 7116 bytes took 3ms
+10:27:46.646 200 GET /api/note-map/eaxgg24od19f/backlink-count with 11 bytes took 4ms
+10:27:46.742 204 PUT /api/options with 0 bytes took 9ms
+10:27:52.604 Slow 204 PUT /api/notes/eaxgg24od19f/data with 0 bytes took 30ms
+10:27:53.632 Slow 204 PUT /api/notes/eaxgg24od19f/data with 0 bytes took 27ms
+10:27:54.739 Slow 204 PUT /api/notes/eaxgg24od19f/data with 0 bytes took 13ms
+10:27:55.793 Slow 204 PUT /api/notes/eaxgg24od19f/data with 0 bytes took 22ms
+10:27:56.850 Slow 204 PUT /api/notes/eaxgg24od19f/data with 0 bytes took 19ms
+10:28:03.363 Slow 204 PUT /api/notes/eaxgg24od19f/data with 0 bytes took 19ms
+10:33:06.537 Slow 204 PUT /api/options with 0 bytes took 10ms
+10:33:06.542 200 GET /api/notes/5tuXRUjKpIvp/blob with 1058 bytes took 4ms
+10:33:06.550 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 6ms
+10:33:12.050 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 24ms
+10:33:12.796 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 16ms
+10:33:14.231 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 13ms
+10:33:16.002 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 41ms
+10:33:16.802 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 16ms
+10:33:26.947 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 22ms
+10:33:27.431 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 11ms
+10:33:28.577 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 31ms
+10:33:31.446 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 10ms
+10:33:33.128 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 59ms
+10:33:34.431 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 24ms
+10:33:35.439 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 9ms
+10:33:36.481 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:33:37.439 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:33:38.510 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 17ms
+10:33:40.068 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 12ms
+10:33:40.752 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:33:42.103 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 19ms
+10:33:43.151 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 31ms
+10:33:52.830 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 18ms
+10:33:55.116 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:33:55.935 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 4ms
+10:33:57.140 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 13ms
+10:33:58.022 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:33:59.203 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:34:00.265 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:34:01.254 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:34:02.262 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 17ms
+10:34:06.235 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:34:07.756 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:34:08.887 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:34:09.946 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 35ms
+10:34:10.928 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 43ms
+10:34:11.936 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:34:14.809 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:34:16.055 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 9ms
+10:34:17.044 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:34:28.330 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 14ms
+10:34:35.687 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:34:36.638 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:34:38.824 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:34:40.008 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:34:42.650 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:34:43.696 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 16ms
+10:34:52.141 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 20ms
+10:34:54.365 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:34:55.520 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 4ms
+10:34:56.362 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:34:57.901 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 20ms
+10:34:58.426 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:34:59.643 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:35:02.032 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 23ms
+10:35:03.025 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 15ms
+10:35:12.298 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 14ms
+10:35:13.321 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:35:14.288 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:35:15.805 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:35:16.852 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:35:18.628 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 19ms
+10:35:19.566 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 22ms
+10:35:21.645 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:35:26.561 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:35:32.117 JS Error: 未捕获的错误: 信息: ResizeObserver loop limit exceeded, URL: https://xsunix.cn/#root/LWNpKJZXcaAL/5tuXRUjKpIvp?ntxId=sUJzdq, 行数: 0, 列数: 0, 错误对象: null, 堆栈: null
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/mobile.js:1:115527)
+    at window.onerror (https://xsunix.cn/assets/v0.63.7/app-dist/mobile.js:1:360371)
+10:35:42.839 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 38ms
+10:35:48.912 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 12ms
+10:35:49.916 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:36:02.915 Generated CSRF token UaccWpve-oKjbW2OnHmRmrZUTn_gAntdvxSE with secret undefined
+10:36:03.932 200 GET /api/options with 6328 bytes took 6ms
+10:36:03.956 Slow 200 GET /api/tree with 83637 bytes took 17ms
+10:36:03.965 200 GET /api/keyboard-actions with 12407 bytes took 8ms
+10:36:04.044 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+10:36:04.212 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 3ms
+10:36:04.214 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 2ms
+10:36:04.220 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 6ms
+10:36:04.319 200 GET /api/notes/5tuXRUjKpIvp/blob with 1204 bytes took 2ms
+10:36:04.321 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 1ms
+10:36:06.228 200 GET /api/script/startup?mobile=true with 2 bytes took 3ms
+10:36:07.513 JS Error: 未捕获的错误: 信息: Uncaught TypeError: $(...).autocomplete is not a function, URL: https://xsunix.cn/assets/v0.63.7/app-dist/mobile.js, 行数: 1, 列数: 105283, 错误对象: {}, 堆栈: TypeError: $(...).autocomplete is not a function
+    at HTMLDivElement.<anonymous> (https://xsunix.cn/assets/v0.63.7/app-dist/mobile.js:1:105283)
+    at HTMLDivElement.dispatch (https://xsunix.cn/assets/v0.63.7/node_modules/jquery/dist/jquery.min.js:2:40035)
+    at v.handle (https://xsunix.cn/assets/v0.63.7/node_modules/jquery/dist/jquery.min.js:2:38006)
+    at Object.trigger (https://xsunix.cn/assets/v0.63.7/node_modules/jquery/dist/jquery.min.js:2:70124)
+    at HTMLDivElement.<anonymous> (https://xsunix.cn/assets/v0.63.7/node_modules/jquery/dist/jquery.min.js:2:70726)
+    at Function.each (https://xsunix.cn/assets/v0.63.7/node_modules/jquery/dist/jquery.min.js:2:3129)
+    at ce.fn.init.each (https://xsunix.cn/assets/v0.63.7/node_modules/jquery/dist/jquery.min.js:2:1594)
+    at ce.fn.init.trigger (https://xsunix.cn/assets/v0.63.7/node_modules/jquery/dist/jquery.min.js:2:70701)
+    at https://xsunix.cn/assets/v0.63.7/libraries/bootstrap/js/bootstrap.bundle.min.js:6:53515
+    at e._showBackdrop (https://xsunix.cn/assets/v0.63.7/libraries/bootstrap/js/bootstrap.bundle.min.js:6:54678)
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/mobile.js:1:115527)
+    at window.onerror (https://xsunix.cn/assets/v0.63.7/app-dist/mobile.js:1:360371)
+10:36:19.334 JS Info: Frontend app reload: 正在切换到桌面版
+10:36:19.350 Generated CSRF token dk64jb2t-3xGKeNkx5fyMgnvSYbBuMGFWqSc with secret undefined
+10:36:20.079 200 GET /api/options with 6328 bytes took 9ms
+10:36:20.260 Slow 200 GET /api/tree with 83637 bytes took 19ms
+10:36:20.285 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+10:36:20.323 Slow 200 GET /api/script/widgets with 155155 bytes took 35ms
+10:36:20.707 200 POST /api/tree/load with 6402 bytes took 2ms
+10:36:21.028 200 POST /api/tree/load with 6566 bytes took 2ms
+10:36:22.305 200 POST /api/tree/load with 5957 bytes took 3ms
+10:36:22.556 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+10:36:22.702 Slow 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 24ms
+10:36:22.748 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 4ms
+10:36:22.751 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 2ms
+10:36:22.909 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 2ms
+10:36:22.922 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1204 bytes took 12ms
+10:36:22.991 Generated CSRF token TNAIePaV-pDTioYphqnfChOxdyM80kuaMuS4 with secret undefined
+10:36:23.127 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 2ms
+10:36:24.003 200 GET /api/options with 6328 bytes took 5ms
+10:36:24.043 Slow 200 GET /api/tree with 83637 bytes took 18ms
+10:36:24.063 200 GET /api/keyboard-actions with 12407 bytes took 3ms
+10:36:24.144 Slow 200 GET /api/script/widgets with 155155 bytes took 44ms
+10:36:24.508 200 POST /api/tree/load with 6402 bytes took 3ms
+10:36:24.646 200 POST /api/tree/load with 6566 bytes took 2ms
+10:36:25.679 200 POST /api/tree/load with 5957 bytes took 2ms
+10:36:25.917 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+10:36:26.083 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 2ms
+10:36:26.412 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 2ms
+10:36:26.415 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 2ms
+10:36:26.418 200 GET /api/notes/5tuXRUjKpIvp/blob with 1204 bytes took 3ms
+10:36:26.420 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 1ms
+10:36:26.644 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 2ms
+10:36:26.978 204 PUT /api/options with 0 bytes took 6ms
+10:36:27.990 200 GET /api/script/startup with 1804 bytes took 3ms
+10:36:28.239 200 POST /api/tree/load with 6528 bytes took 2ms
+10:36:28.390 200 POST /api/tree/load with 6682 bytes took 3ms
+10:36:31.729 200 GET /api/notes/WJIOuOn4LKC5/blob with 155 bytes took 1ms
+10:36:31.733 204 PUT /api/options with 0 bytes took 2ms
+10:36:31.735 200 GET /api/note-map/WJIOuOn4LKC5/backlink-count with 11 bytes took 1ms
+10:36:33.689 Updating option 'leftPaneWidth' to '18'
+10:36:33.701 Slow 204 PUT /api/options with 0 bytes took 13ms
+10:36:33.702 Updating option 'leftPaneWidth' to '18'
+10:36:33.705 204 PUT /api/options with 0 bytes took 3ms
+10:36:38.000 Updating option 'hideArchivedNotes_main' to 'false'
+10:36:38.004 204 PUT /api/options with 0 bytes took 4ms
+10:36:38.326 Updating option 'autoCollapseNoteTree' to 'false'
+10:36:38.329 204 PUT /api/options with 0 bytes took 3ms
+10:36:38.503 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 7ms
+10:36:38.982 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 5ms
+10:36:38.985 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 2ms
+10:36:41.837 Generated CSRF token MKctjKC6-l5EfnbHi9ilDKLhboVOfdvYrVNM with secret undefined
+10:36:42.458 200 GET /api/options with 6328 bytes took 5ms
+10:36:42.465 200 GET /api/tree with 83637 bytes took 7ms
+10:36:42.468 200 GET /api/keyboard-actions with 12407 bytes took 2ms
+10:36:42.594 Slow 200 GET /api/script/widgets with 155155 bytes took 24ms
+10:36:42.915 200 POST /api/tree/load with 6402 bytes took 1ms
+10:36:43.306 200 POST /api/tree/load with 6566 bytes took 4ms
+10:36:44.412 200 POST /api/tree/load with 5957 bytes took 4ms
+10:36:44.640 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 4ms
+10:36:44.798 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 3ms
+10:36:44.819 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 2ms
+10:36:44.822 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 2ms
+10:36:45.039 200 GET /api/notes/WJIOuOn4LKC5/blob with 155 bytes took 2ms
+10:36:45.132 200 GET /api/note-map/WJIOuOn4LKC5/backlink-count with 11 bytes took 2ms
+10:36:45.289 200 GET /api/note-map/WJIOuOn4LKC5/backlink-count with 11 bytes took 3ms
+10:36:45.688 204 PUT /api/options with 0 bytes took 3ms
+10:36:46.651 200 GET /api/script/startup with 1804 bytes took 3ms
+10:36:46.987 Slow 200 POST /api/tree/load with 6528 bytes took 18ms
+10:36:47.290 200 POST /api/tree/load with 6682 bytes took 2ms
+10:36:52.039 200 GET /api/notes/Y1ssLHdTfg74/blob with 13026 bytes took 7ms
+10:36:52.079 200 GET /api/note-map/Y1ssLHdTfg74/backlink-count with 11 bytes took 2ms
+10:36:52.224 Slow 204 PUT /api/options with 0 bytes took 16ms
+10:36:58.925 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 3ms
+10:36:58.934 200 GET /api/note-map/eaxgg24od19f/backlink-count with 11 bytes took 5ms
+10:36:59.083 204 PUT /api/options with 0 bytes took 2ms
+10:37:01.079 200 GET /api/notes/5tuXRUjKpIvp/blob with 1204 bytes took 1ms
+10:37:01.081 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 1ms
+10:37:01.312 204 PUT /api/options with 0 bytes took 2ms
+10:39:59.132 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 10ms
+10:39:59.325 200 GET /api/notes/5tuXRUjKpIvp/blob with 1217 bytes took 3ms
+10:40:02.338 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:40:02.499 200 GET /api/notes/5tuXRUjKpIvp/blob with 1213 bytes took 3ms
+10:40:04.200 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 20ms
+10:40:04.344 200 GET /api/notes/5tuXRUjKpIvp/blob with 1214 bytes took 3ms
+10:40:07.065 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 10ms
+10:40:07.220 200 GET /api/notes/5tuXRUjKpIvp/blob with 1217 bytes took 6ms
+10:40:08.910 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 9ms
+10:40:09.066 200 GET /api/notes/5tuXRUjKpIvp/blob with 1219 bytes took 9ms
+10:40:10.188 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 19ms
+10:40:10.326 200 GET /api/notes/5tuXRUjKpIvp/blob with 1220 bytes took 3ms
+10:40:14.682 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:40:14.824 200 GET /api/notes/5tuXRUjKpIvp/blob with 1222 bytes took 4ms
+10:40:15.664 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 30ms
+10:40:15.823 200 GET /api/notes/5tuXRUjKpIvp/blob with 1223 bytes took 6ms
+10:40:16.829 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:40:17.006 200 GET /api/notes/5tuXRUjKpIvp/blob with 1225 bytes took 5ms
+10:40:18.348 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:40:18.496 200 GET /api/notes/5tuXRUjKpIvp/blob with 1227 bytes took 2ms
+10:40:23.480 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 9ms
+10:40:23.613 200 GET /api/notes/5tuXRUjKpIvp/blob with 1228 bytes took 3ms
+10:40:29.334 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 16ms
+10:40:29.467 200 GET /api/notes/5tuXRUjKpIvp/blob with 1230 bytes took 8ms
+10:40:30.433 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 13ms
+10:40:30.604 200 GET /api/notes/5tuXRUjKpIvp/blob with 1232 bytes took 7ms
+10:40:31.710 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:40:31.856 200 GET /api/notes/5tuXRUjKpIvp/blob with 1234 bytes took 2ms
+10:40:33.947 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:40:34.092 200 GET /api/notes/5tuXRUjKpIvp/blob with 1235 bytes took 1ms
+10:40:34.989 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 11ms
+10:40:35.134 200 GET /api/notes/5tuXRUjKpIvp/blob with 1237 bytes took 2ms
+10:40:43.549 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:40:43.678 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1239 bytes took 11ms
+10:40:44.371 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:40:44.494 200 GET /api/notes/5tuXRUjKpIvp/blob with 1240 bytes took 2ms
+10:40:46.088 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:40:46.248 200 GET /api/notes/5tuXRUjKpIvp/blob with 1242 bytes took 2ms
+10:40:47.214 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 17ms
+10:40:47.356 200 GET /api/notes/5tuXRUjKpIvp/blob with 1243 bytes took 1ms
+10:40:49.202 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 16ms
+10:40:49.386 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1244 bytes took 24ms
+10:40:51.056 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:40:51.352 200 GET /api/notes/5tuXRUjKpIvp/blob with 1246 bytes took 3ms
+10:40:53.770 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:40:53.916 200 GET /api/notes/5tuXRUjKpIvp/blob with 1248 bytes took 4ms
+10:40:55.435 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:40:55.596 200 GET /api/notes/5tuXRUjKpIvp/blob with 1249 bytes took 2ms
+10:40:55.761 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:40:56.086 200 GET /api/notes/5tuXRUjKpIvp/blob with 1251 bytes took 2ms
+10:40:57.621 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 14ms
+10:40:57.756 200 GET /api/notes/5tuXRUjKpIvp/blob with 1252 bytes took 3ms
+10:40:59.429 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:40:59.609 200 GET /api/notes/5tuXRUjKpIvp/blob with 1253 bytes took 4ms
+10:41:00.411 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:41:00.566 200 GET /api/notes/5tuXRUjKpIvp/blob with 1255 bytes took 7ms
+10:41:01.770 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 9ms
+10:41:01.974 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1258 bytes took 11ms
+10:41:03.093 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 4ms
+10:41:03.212 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1261 bytes took 20ms
+10:41:04.226 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:41:04.393 200 GET /api/notes/5tuXRUjKpIvp/blob with 1262 bytes took 2ms
+10:41:05.702 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:41:05.844 200 GET /api/notes/5tuXRUjKpIvp/blob with 1265 bytes took 2ms
+10:41:06.641 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:41:06.802 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1266 bytes took 10ms
+10:41:10.816 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 9ms
+10:41:10.953 200 GET /api/notes/5tuXRUjKpIvp/blob with 1279 bytes took 2ms
+10:41:11.805 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:41:11.917 200 GET /api/notes/5tuXRUjKpIvp/blob with 1292 bytes took 1ms
+10:45:30.997 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 26ms
+10:45:31.164 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1289 bytes took 10ms
+10:45:36.689 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:45:36.844 200 GET /api/notes/5tuXRUjKpIvp/blob with 1291 bytes took 4ms
+10:45:38.056 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 17ms
+10:45:38.204 200 GET /api/notes/5tuXRUjKpIvp/blob with 1292 bytes took 3ms
+10:45:39.385 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 23ms
+10:45:39.562 200 GET /api/notes/5tuXRUjKpIvp/blob with 1294 bytes took 2ms
+10:45:40.305 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 10ms
+10:45:40.435 200 GET /api/notes/5tuXRUjKpIvp/blob with 1295 bytes took 2ms
+10:45:41.566 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:45:41.728 200 GET /api/notes/5tuXRUjKpIvp/blob with 1297 bytes took 7ms
+10:45:43.180 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 10ms
+10:45:43.317 200 GET /api/notes/5tuXRUjKpIvp/blob with 1299 bytes took 2ms
+10:45:45.366 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 11ms
+10:45:45.798 200 GET /api/notes/5tuXRUjKpIvp/blob with 1301 bytes took 3ms
+10:45:45.985 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 13ms
+10:45:46.120 200 GET /api/notes/5tuXRUjKpIvp/blob with 1302 bytes took 3ms
+10:45:49.506 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 24ms
+10:45:49.637 200 GET /api/notes/5tuXRUjKpIvp/blob with 1304 bytes took 2ms
+10:45:51.012 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 4ms
+10:45:51.329 200 GET /api/notes/5tuXRUjKpIvp/blob with 1306 bytes took 7ms
+10:45:52.186 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:45:52.361 200 GET /api/notes/5tuXRUjKpIvp/blob with 1308 bytes took 2ms
+10:45:53.263 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:45:53.403 200 GET /api/notes/5tuXRUjKpIvp/blob with 1310 bytes took 2ms
+10:45:54.220 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 19ms
+10:45:54.363 200 GET /api/notes/5tuXRUjKpIvp/blob with 1311 bytes took 3ms
+10:45:55.260 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 15ms
+10:45:55.411 200 GET /api/notes/5tuXRUjKpIvp/blob with 1312 bytes took 6ms
+10:46:00.693 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 11ms
+10:46:00.844 200 GET /api/notes/5tuXRUjKpIvp/blob with 1315 bytes took 3ms
+10:46:01.971 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:46:02.121 200 GET /api/notes/5tuXRUjKpIvp/blob with 1317 bytes took 2ms
+10:46:03.017 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:46:03.226 200 GET /api/notes/5tuXRUjKpIvp/blob with 1318 bytes took 2ms
+10:46:03.995 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:46:04.121 200 GET /api/notes/5tuXRUjKpIvp/blob with 1319 bytes took 2ms
+10:46:11.942 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:46:12.066 200 GET /api/notes/5tuXRUjKpIvp/blob with 1321 bytes took 2ms
+10:46:12.905 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:46:13.016 200 GET /api/notes/5tuXRUjKpIvp/blob with 1324 bytes took 5ms
+10:46:14.975 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:46:15.079 200 GET /api/notes/5tuXRUjKpIvp/blob with 1326 bytes took 4ms
+10:46:19.209 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 6ms
+10:46:19.369 200 GET /api/notes/5tuXRUjKpIvp/blob with 1328 bytes took 2ms
+10:46:28.623 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:46:28.732 200 GET /api/notes/5tuXRUjKpIvp/blob with 1332 bytes took 4ms
+10:46:29.359 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 9ms
+10:46:29.522 200 GET /api/notes/5tuXRUjKpIvp/blob with 1333 bytes took 3ms
+10:46:30.337 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:46:31.319 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 24ms
+10:46:31.455 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1335 bytes took 10ms
+10:46:48.357 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 10ms
+10:46:48.820 200 GET /api/notes/5tuXRUjKpIvp/blob with 1336 bytes took 2ms
+10:46:49.158 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:46:49.294 200 GET /api/notes/5tuXRUjKpIvp/blob with 1339 bytes took 2ms
+10:46:50.660 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:46:50.818 200 GET /api/notes/5tuXRUjKpIvp/blob with 1342 bytes took 4ms
+10:46:51.712 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:46:51.862 200 GET /api/notes/5tuXRUjKpIvp/blob with 1343 bytes took 3ms
+10:46:52.750 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 7ms
+10:46:52.892 200 GET /api/notes/5tuXRUjKpIvp/blob with 1345 bytes took 3ms
+10:46:59.169 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 19ms
+10:46:59.299 200 GET /api/notes/5tuXRUjKpIvp/blob with 1341 bytes took 3ms
+10:47:00.246 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 5ms
+10:47:00.419 200 GET /api/notes/5tuXRUjKpIvp/blob with 1345 bytes took 4ms
+10:47:03.790 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 11ms
+10:47:03.941 200 GET /api/notes/5tuXRUjKpIvp/blob with 1347 bytes took 8ms
+10:47:05.620 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 8ms
+10:47:05.778 200 GET /api/notes/5tuXRUjKpIvp/blob with 1349 bytes took 3ms
+10:47:06.516 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 11ms
+10:47:06.654 200 GET /api/notes/5tuXRUjKpIvp/blob with 1351 bytes took 4ms
+10:47:09.081 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 10ms
+10:47:09.225 200 GET /api/notes/5tuXRUjKpIvp/blob with 1364 bytes took 2ms
+10:47:10.048 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 14ms
+10:47:10.193 200 GET /api/notes/5tuXRUjKpIvp/blob with 1377 bytes took 5ms
+10:58:30.157 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 35ms
+10:58:30.276 200 GET /api/notes/5tuXRUjKpIvp/blob with 1390 bytes took 6ms
+10:58:31.379 Slow 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 14ms
+10:58:31.515 200 GET /api/notes/5tuXRUjKpIvp/blob with 1454 bytes took 4ms
+10:58:37.529 JS Error: 未捕获的错误: 信息: ResizeObserver loop limit exceeded, URL: https://xsunix.cn/#root/LWNpKJZXcaAL/5tuXRUjKpIvp?ntxId=sUJzdq, 行数: 0, 列数: 0, 错误对象: null, 堆栈: null
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Si.window.onerror (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:639310)
+10:58:43.479 200 GET /api/notes/WJIOuOn4LKC5/blob with 155 bytes took 3ms
+10:58:43.493 Slow 200 GET /api/note-map/WJIOuOn4LKC5/backlink-count with 11 bytes took 10ms
+10:58:43.570 204 PUT /api/options with 0 bytes took 5ms
+10:58:48.045 Updating option 'hideArchivedNotes_main' to 'false'
+10:58:48.048 204 PUT /api/options with 0 bytes took 4ms
+10:58:48.205 Updating option 'autoCollapseNoteTree' to 'false'
+10:58:48.211 204 PUT /api/options with 0 bytes took 6ms
+10:58:48.381 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 8ms
+10:58:48.385 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 3ms
+10:58:48.390 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 2ms
+10:58:51.377 200 GET /api/notes/5tuXRUjKpIvp/blob with 1454 bytes took 6ms
+10:58:51.386 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 1ms
+10:58:51.441 204 PUT /api/options with 0 bytes took 3ms
+11:01:46.806 Slow 204 PUT /api/options with 0 bytes took 11ms
+11:01:46.822 Slow 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 12ms
+11:01:46.826 200 GET /api/note-map/eaxgg24od19f/backlink-count with 11 bytes took 2ms
+11:01:48.633 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 7ms
+11:01:48.645 200 GET /api/notes/5tuXRUjKpIvp/blob with 1454 bytes took 5ms
+11:01:48.713 204 PUT /api/options with 0 bytes took 3ms
+11:01:53.194 204 PUT /api/notes/5tuXRUjKpIvp/data with 0 bytes took 9ms
+11:01:53.325 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1526 bytes took 11ms
+11:01:53.923 JS Error: 未捕获的错误: 信息: ResizeObserver loop limit exceeded, URL: https://xsunix.cn/#root/LWNpKJZXcaAL/5tuXRUjKpIvp?ntxId=sUJzdq, 行数: 0, 列数: 0, 错误对象: null, 堆栈: null
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Si.window.onerror (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:639310)
+11:22:12.619 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+11:22:12.640 All consistency checks passed with no errors detected (took 21ms)
+11:32:10.151 Error: Router not found for request GET //wp-includes/wlwmanifest.xml
+11:32:10.409 Error: Router not found for request GET //xmlrpc.php?rsd
+11:32:10.921 Error: Router not found for request GET //blog/wp-includes/wlwmanifest.xml
+11:32:11.176 Error: Router not found for request GET //web/wp-includes/wlwmanifest.xml
+11:32:11.432 Error: Router not found for request GET //wordpress/wp-includes/wlwmanifest.xml
+11:32:11.687 Error: Router not found for request GET //website/wp-includes/wlwmanifest.xml
+11:32:11.942 Error: Router not found for request GET //wp/wp-includes/wlwmanifest.xml
+11:32:12.202 Error: Router not found for request GET //news/wp-includes/wlwmanifest.xml
+11:32:12.457 Error: Router not found for request GET //2018/wp-includes/wlwmanifest.xml
+11:32:12.712 Error: Router not found for request GET //2019/wp-includes/wlwmanifest.xml
+11:32:12.974 Error: Router not found for request GET //shop/wp-includes/wlwmanifest.xml
+11:32:13.231 Error: Router not found for request GET //wp1/wp-includes/wlwmanifest.xml
+11:32:13.487 Error: Router not found for request GET //test/wp-includes/wlwmanifest.xml
+11:32:13.801 Error: Router not found for request GET //media/wp-includes/wlwmanifest.xml
+11:32:14.084 Error: Router not found for request GET //wp2/wp-includes/wlwmanifest.xml
+11:32:14.339 Error: Router not found for request GET //site/wp-includes/wlwmanifest.xml
+11:32:14.594 Error: Router not found for request GET //cms/wp-includes/wlwmanifest.xml
+11:32:14.851 Error: Router not found for request GET //sito/wp-includes/wlwmanifest.xml
+12:22:12.626 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+12:22:12.656 All consistency checks passed with no errors detected (took 31ms)
+13:22:12.634 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+13:22:12.669 All consistency checks passed with no errors detected (took 35ms)
+14:22:12.640 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+14:22:12.671 All consistency checks passed with no errors detected (took 32ms)
+15:22:00.446 Optimizing database
+15:22:00.456 Optimization finished in 2ms.
+15:22:12.643 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+15:22:12.684 All consistency checks passed with no errors detected (took 42ms)
+16:22:12.670 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+16:22:12.722 All consistency checks passed with no errors detected (took 54ms)
+17:22:12.680 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+17:22:12.725 All consistency checks passed with no errors detected (took 46ms)
+18:22:12.687 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+18:22:12.726 Slow query took 20ms: SELECT noteId, parentNoteId FROM branches WHERE isDeleted = 0
+18:22:12.729 All consistency checks passed with no errors detected (took 42ms)
+19:22:12.692 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+19:22:12.717 All consistency checks passed with no errors detected (took 26ms)
+20:22:12.709 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+20:22:12.734 All consistency checks passed with no errors detected (took 26ms)
+21:22:12.713 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+21:22:12.734 All consistency checks passed with no errors detected (took 22ms)
+22:22:12.729 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+22:22:12.767 All consistency checks passed with no errors detected (took 39ms)
+23:22:12.743 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+23:22:12.774 All consistency checks passed with no errors detected (took 32ms)

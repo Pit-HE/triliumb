@@ -1,0 +1,33 @@
+00:22:12.757 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+00:22:12.794 All consistency checks passed with no errors detected (took 39ms)
+01:16:47.881 Generated CSRF token 3NFtJq45-fL5s_l0V-tplXBZ6J1m8nV3L3NM with secret _csrf=35kc2qOMCxKmvfcH3P_8WhNe; Path=/
+01:16:48.434 200 GET /api/options with 6328 bytes took 4ms
+01:16:48.473 Slow 200 GET /api/tree with 83637 bytes took 38ms
+01:16:48.496 Slow 200 GET /api/keyboard-actions with 12407 bytes took 14ms
+01:16:48.532 Slow 200 GET /api/script/widgets with 155155 bytes took 25ms
+01:16:48.746 200 POST /api/tree/load with 6402 bytes took 4ms
+01:16:48.887 200 POST /api/tree/load with 6566 bytes took 6ms
+01:16:49.504 200 POST /api/tree/load with 5957 bytes took 2ms
+01:16:49.642 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 4ms
+01:16:49.696 Slow 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 12ms
+01:16:49.698 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 1ms
+01:16:49.709 Slow 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 10ms
+01:16:49.807 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 2ms
+01:16:49.811 200 GET /api/notes/5tuXRUjKpIvp/blob with 1526 bytes took 3ms
+01:16:50.179 200 GET /api/search/%23workspace%20%23!template with 2 bytes took 3ms
+01:16:50.274 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 4ms
+01:16:50.278 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+01:16:50.593 204 PUT /api/options with 0 bytes took 4ms
+01:16:51.647 200 GET /api/script/startup with 1804 bytes took 6ms
+01:16:51.764 200 POST /api/tree/load with 6528 bytes took 2ms
+01:16:51.864 200 POST /api/tree/load with 6682 bytes took 4ms
+01:16:56.272 200 GET /api/notes/5tuXRUjKpIvp/blob with 1526 bytes took 7ms
+01:16:56.293 Slow 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 11ms
+01:16:56.313 Slow 204 PUT /api/options with 0 bytes took 19ms
+01:19:59.709 Slow 200 GET /api/notes/5tuXRUjKpIvp/blob with 1526 bytes took 17ms
+01:19:59.876 Slow 204 PUT /api/options with 0 bytes took 27ms
+01:20:00.843 204 PUT /api/options with 0 bytes took 8ms
+01:22:00.446 Optimizing database
+01:22:00.448 Optimization finished in 1ms.
+01:22:12.755 Table counts: notes: 300, revisions: 57, attachments: 38, branches: 303, attributes: 448, etapi_tokens: 0, blobs: 268
+01:22:12.797 All consistency checks passed with no errors detected (took 43ms)
