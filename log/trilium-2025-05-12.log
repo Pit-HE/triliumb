@@ -8,3 +8,53 @@
 02:22:14.040 All consistency checks passed with no errors detected (took 18ms)
 03:22:14.031 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
 03:22:14.061 All consistency checks passed with no errors detected (took 31ms)
+04:22:14.037 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+04:22:14.070 All consistency checks passed with no errors detected (took 34ms)
+05:22:14.043 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+05:22:14.091 Slow query took 28ms: SELECT noteId, parentNoteId FROM branches WHERE isDeleted = 0
+05:22:14.095 All consistency checks passed with no errors detected (took 52ms)
+06:22:14.050 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+06:22:14.077 All consistency checks passed with no errors detected (took 28ms)
+07:22:14.056 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+07:22:14.108 Slow query took 38ms: SELECT id, entityId FROM entity_changes LEFT JOIN etapi_tokens ON entityId = etapi_tokens.etapiTokenId WHERE entity_changes.isErased = 0 AND entity_changes.entityName = 'etapi_tokens' AND etapi_tokens.etapiTokenId IS NULL
+07:22:14.164 Slow query took 23ms: SELECT noteId, type FROM notes WHERE isDeleted = 0 AND type NOT IN ('text', 'code', 'render', 'file', 'image', 'search', 'relationMap', 'book', 'noteMap', 'mermaid', 'canvas', 'webView', 'launcher', 'doc', 'contentWidget')
+07:22:14.184 All consistency checks passed with no errors detected (took 129ms)
+08:22:14.057 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+08:22:14.092 All consistency checks passed with no errors detected (took 36ms)
+09:22:01.779 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+09:22:14.057 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+09:22:14.091 All consistency checks passed with no errors detected (took 34ms)
+10:22:14.064 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+10:22:14.132 All consistency checks passed with no errors detected (took 68ms)
+11:22:00.609 Optimizing database
+11:22:00.614 Optimization finished in 2ms.
+11:22:14.072 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+11:22:14.124 All consistency checks passed with no errors detected (took 55ms)
+12:22:14.100 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+12:22:14.126 All consistency checks passed with no errors detected (took 26ms)
+13:22:14.110 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+13:22:14.123 All consistency checks passed with no errors detected (took 14ms)
+14:22:14.126 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+14:22:14.142 All consistency checks passed with no errors detected (took 17ms)
+15:22:14.150 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+15:22:14.168 All consistency checks passed with no errors detected (took 19ms)
+16:22:14.169 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+16:22:14.192 All consistency checks passed with no errors detected (took 23ms)
+17:22:14.182 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+17:22:14.221 All consistency checks passed with no errors detected (took 40ms)
+18:22:14.203 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+18:22:14.221 All consistency checks passed with no errors detected (took 18ms)
+19:22:14.221 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+19:22:14.246 All consistency checks passed with no errors detected (took 25ms)
+20:22:14.237 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+20:22:14.259 All consistency checks passed with no errors detected (took 23ms)
+21:11:09.164 Error: Router not found for request GET /sitemap.xml
+21:11:20.978 Error: Router not found for request GET /config.json
+21:22:00.611 Optimizing database
+21:22:00.615 Optimization finished in 1ms.
+21:22:14.250 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+21:22:14.282 All consistency checks passed with no errors detected (took 33ms)
+22:22:14.266 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+22:22:14.296 All consistency checks passed with no errors detected (took 31ms)
+23:22:14.277 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+23:22:14.296 All consistency checks passed with no errors detected (took 20ms)
