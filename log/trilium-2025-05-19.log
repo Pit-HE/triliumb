@@ -1,0 +1,11 @@
+00:22:15.874 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+00:22:15.892 All consistency checks passed with no errors detected (took 19ms)
+00:24:39.912 Error: Router not found for request GET /phpinfo.php
+00:24:41.950 Error: Router not found for request GET /info.php
+00:24:43.056 Error: Router not found for request GET /phpinfo
+00:24:44.092 Error: Router not found for request GET /test.php
+00:24:45.129 Error: Router not found for request GET /.env
+00:24:46.157 Error: Router not found for request GET /config/.env
+00:24:47.262 Error: Router not found for request GET /api/.env
+01:22:15.887 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+01:22:15.901 All consistency checks passed with no errors detected (took 14ms)
