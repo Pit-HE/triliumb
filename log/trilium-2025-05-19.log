@@ -9,3 +9,9 @@
 00:24:47.262 Error: Router not found for request GET /api/.env
 01:22:15.887 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
 01:22:15.901 All consistency checks passed with no errors detected (took 14ms)
+02:22:15.913 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+02:22:15.927 All consistency checks passed with no errors detected (took 15ms)
+03:22:00.777 Optimizing database
+03:22:00.780 Optimization finished in 1ms.
+03:22:15.928 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+03:22:15.946 All consistency checks passed with no errors detected (took 19ms)
