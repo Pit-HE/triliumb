@@ -1,0 +1,119 @@
+13:03:58.409 DB size: 3915 KB
+13:04:02.668 {
+  "appVersion": "0.63.7",
+  "dbVersion": 228,
+  "nodeVersion": "v18.18.2",
+  "syncVersion": 32,
+  "buildDate": "2024-05-30T06:59:06+02:00",
+  "buildRevision": "95d46b7ce7e0036eeb72b43e1815cc5c00dc214c",
+  "dataDirectory": "/root/.local/share/trilium-data",
+  "clipperProtocolVersion": "1.0",
+  "utcDateTime": "2025-06-06T13:03:57.291Z"
+}
+13:04:02.670 CPU model: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz, logical cores: 4 freq: 2399 Mhz
+13:04:02.671 Trusted reverse proxy: false
+13:04:02.679 App HTTP server starting up at port 9898
+13:04:02.696 Listening on port 9898
+13:04:02.787 Becca (note cache) load took 87ms
+13:04:06.812 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+13:04:06.867 Slow query took 29ms: SELECT notes.noteId, notes.type, notes.mime FROM notes JOIN blobs USING (blobId) WHERE isDeleted = 0 AND isProtected = 0 AND content IS NULL
+13:04:06.881 All consistency checks passed with no errors detected (took 74ms)
+13:06:18.728 DB size: 3915 KB
+13:06:20.794 {
+  "appVersion": "0.63.7",
+  "dbVersion": 228,
+  "nodeVersion": "v18.18.2",
+  "syncVersion": 32,
+  "buildDate": "2024-05-30T06:59:06+02:00",
+  "buildRevision": "95d46b7ce7e0036eeb72b43e1815cc5c00dc214c",
+  "dataDirectory": "/root/.local/share/trilium-data",
+  "clipperProtocolVersion": "1.0",
+  "utcDateTime": "2025-06-06T13:06:18.150Z"
+}
+13:06:20.796 CPU model: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz, logical cores: 4 freq: 2399 Mhz
+13:06:20.797 Trusted reverse proxy: false
+13:06:20.801 App HTTP server starting up at port 9898
+13:06:20.819 Listening on port 9898
+13:06:20.878 Becca (note cache) load took 56ms
+13:06:24.902 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+13:06:24.944 All consistency checks passed with no errors detected (took 45ms)
+13:08:09.129 Generated CSRF token b1Yb7tkW-FDriaVep71EEFJIRQ-8ODSsGMVw with secret _csrf=8eftkigr1BSExZ0TDGvOZDF7; Path=/
+13:08:09.984 200 GET /api/options with 6536 bytes took 5ms
+13:08:10.012 Slow 200 GET /api/tree with 83910 bytes took 26ms
+13:08:10.028 200 GET /api/keyboard-actions with 12407 bytes took 7ms
+13:08:10.062 Slow 200 GET /api/script/widgets with 155155 bytes took 30ms
+13:08:10.261 200 POST /api/tree/load with 6402 bytes took 8ms
+13:08:10.400 Slow 200 POST /api/tree/load with 6566 bytes took 14ms
+13:08:10.914 Slow 200 POST /api/tree/load with 5957 bytes took 12ms
+13:08:11.121 Slow 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 11ms
+13:08:11.157 Slow 200 GET /api/tree?subTreeNoteId=nmGRBjLRBYx0 with 8656 bytes took 17ms
+13:08:11.168 200 GET /api/tree?subTreeNoteId=MPdckOb6hmUt with 5783 bytes took 9ms
+13:08:11.196 Slow 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2378 bytes took 10ms
+13:08:11.290 Slow 200 GET /api/notes/16ewVYb5lycl/blob with 549 bytes took 10ms
+13:08:11.356 Slow 200 GET /api/note-map/16ewVYb5lycl/backlink-count with 11 bytes took 13ms
+13:08:13.036 Slow 200 GET /api/script/startup with 1804 bytes took 13ms
+13:08:13.185 200 POST /api/tree/load with 6528 bytes took 6ms
+13:08:13.294 200 POST /api/tree/load with 6682 bytes took 4ms
+13:11:20.956 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+14:06:20.822 Optimizing database
+14:06:20.824 Optimization finished in 1ms.
+14:06:20.888 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+14:06:20.912 All consistency checks passed with no errors detected (took 26ms)
+15:06:20.887 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+15:06:20.906 All consistency checks passed with no errors detected (took 20ms)
+15:28:23.569 Error: Router not found for request GET /@vite/env
+15:28:24.219 Error: Router not found for request GET /actuator/env
+15:28:24.840 Error: Router not found for request POST /php-cgi/php-cgi.exe?%ADd+cgi.force_redirect%3D0+%ADd+disable_functions%3D""+%ADd+allow_url_include%3D1+%ADd+auto_prepend_file%3Dphp://input
+15:28:25.508 Error: Router not found for request GET /server
+15:28:26.151 Error: Router not found for request GET /.vscode/sftp.json
+15:28:26.919 Error: Router not found for request GET /about
+15:28:27.690 Error: Router not found for request GET /debug/default/view?panel=config
+15:28:28.523 Error: Router not found for request GET /v2/_catalog
+15:28:29.381 Error: Router not found for request GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+15:28:30.211 Error: Router not found for request GET /server-status
+15:28:30.939 Error: Router not found for request GET /login.action
+15:28:31.614 Error: Router not found for request GET /_all_dbs
+15:28:32.314 Error: Router not found for request GET /.DS_Store
+15:28:33.033 Error: Router not found for request GET /.env
+15:28:33.668 Error: Router not found for request GET /.git/config
+15:28:34.317 Error: Router not found for request GET /s/6333e2932313e2435323e2332323/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+15:28:34.975 Error: Router not found for request GET /config.json
+15:28:35.682 Error: Router not found for request GET /telescope/requests
+15:28:36.351 Error: Router not found for request GET /info.php
+16:06:20.888 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+16:06:20.920 All consistency checks passed with no errors detected (took 33ms)
+17:06:20.890 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+17:06:20.918 All consistency checks passed with no errors detected (took 28ms)
+18:06:20.891 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+18:06:20.918 All consistency checks passed with no errors detected (took 28ms)
+19:06:20.892 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+19:06:20.926 All consistency checks passed with no errors detected (took 35ms)
+20:06:20.896 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+20:06:20.928 All consistency checks passed with no errors detected (took 33ms)
+20:57:21.726 Error: Router not found for request GET /@vite/env
+20:57:21.844 Error: Router not found for request GET /actuator/env
+20:57:21.959 Error: Router not found for request POST /php-cgi/php-cgi.exe?%ADd+cgi.force_redirect%3D0+%ADd+disable_functions%3D""+%ADd+allow_url_include%3D1+%ADd+auto_prepend_file%3Dphp://input
+20:57:22.079 Error: Router not found for request GET /server
+20:57:22.206 Error: Router not found for request GET /.vscode/sftp.json
+20:57:22.332 Error: Router not found for request GET /about
+20:57:22.455 Error: Router not found for request GET /debug/default/view?panel=config
+20:57:22.591 Error: Router not found for request GET /v2/_catalog
+20:57:22.741 Error: Router not found for request GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+20:57:22.864 Error: Router not found for request GET /server-status
+20:57:22.994 Error: Router not found for request GET /login.action
+20:57:23.123 Error: Router not found for request GET /_all_dbs
+20:57:23.242 Error: Router not found for request GET /.DS_Store
+20:57:23.365 Error: Router not found for request GET /.env
+20:57:23.484 Error: Router not found for request GET /.git/config
+20:57:23.609 Error: Router not found for request GET /s/6333e2932313e2435323e2332323/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+20:57:23.742 Error: Router not found for request GET /config.json
+20:57:23.867 Error: Router not found for request GET /telescope/requests
+20:57:23.998 Error: Router not found for request GET /info.php
+21:06:20.896 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+21:06:20.913 All consistency checks passed with no errors detected (took 17ms)
+22:06:20.900 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+22:06:20.929 All consistency checks passed with no errors detected (took 30ms)
+23:06:20.824 Optimizing database
+23:06:20.826 Optimization finished in 1ms.
+23:06:20.898 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+23:06:20.921 All consistency checks passed with no errors detected (took 23ms)
