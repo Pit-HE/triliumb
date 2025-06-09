@@ -2,3 +2,111 @@
 00:06:20.920 All consistency checks passed with no errors detected (took 21ms)
 01:06:20.901 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
 01:06:20.916 All consistency checks passed with no errors detected (took 15ms)
+02:06:20.905 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+02:06:20.936 All consistency checks passed with no errors detected (took 32ms)
+03:06:20.905 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+03:06:20.940 All consistency checks passed with no errors detected (took 36ms)
+03:46:05.343 Error: Router not found for request GET /.env
+04:06:20.909 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+04:06:20.932 All consistency checks passed with no errors detected (took 24ms)
+05:06:20.909 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+05:06:20.926 All consistency checks passed with no errors detected (took 18ms)
+06:06:20.913 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+06:06:20.943 All consistency checks passed with no errors detected (took 31ms)
+07:06:20.917 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+07:06:20.948 All consistency checks passed with no errors detected (took 32ms)
+08:06:20.919 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+08:06:20.947 All consistency checks passed with no errors detected (took 29ms)
+08:15:54.187 Error: Router not found for request GET /.git/config
+09:06:20.826 Optimizing database
+09:06:20.827 Optimization finished in 1ms.
+09:06:20.918 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+09:06:20.942 All consistency checks passed with no errors detected (took 25ms)
+10:06:20.918 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+10:06:20.933 All consistency checks passed with no errors detected (took 15ms)
+11:06:20.923 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+11:06:20.970 All consistency checks passed with no errors detected (took 48ms)
+12:06:20.926 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+12:06:20.954 All consistency checks passed with no errors detected (took 28ms)
+13:06:20.926 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+13:06:20.951 All consistency checks passed with no errors detected (took 26ms)
+13:13:15.220 Error: Router not found for request GET /.git/config
+14:06:20.930 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+14:06:20.968 All consistency checks passed with no errors detected (took 39ms)
+15:06:20.932 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+15:06:20.954 All consistency checks passed with no errors detected (took 21ms)
+16:06:20.936 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+16:06:20.958 All consistency checks passed with no errors detected (took 22ms)
+17:06:20.936 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+17:06:20.958 All consistency checks passed with no errors detected (took 23ms)
+18:06:20.940 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+18:06:20.960 All consistency checks passed with no errors detected (took 21ms)
+18:07:10.347 Error: Router not found for request GET /config.php
+18:07:10.453 Error: Router not found for request GET /api/.env
+18:07:10.481 Error: Router not found for request GET /config/production.json
+18:07:10.485 Error: Router not found for request GET /feed
+18:07:10.494 Error: Router not found for request GET /config.xml
+18:07:10.498 Error: Router not found for request GET /wp-config.php
+18:07:10.528 Error: Router not found for request GET /docker-compose.yml
+18:07:10.537 Error: Router not found for request GET /backup.tar.gz
+18:07:10.546 Error: Router not found for request GET /_vti_pvt/service.pwd
+18:07:10.554 Error: Router not found for request GET /etc/ssl/private/server.key
+18:07:10.559 Error: Router not found for request GET /database_backup.sql
+18:07:10.566 Error: Router not found for request GET /cloud-config.yml
+18:07:10.575 Error: Router not found for request GET /config.json
+18:07:10.586 Error: Router not found for request GET /config.yml
+18:07:10.590 Error: Router not found for request GET /.aws/credentials
+18:07:10.609 Error: Router not found for request GET /wp-admin/setup-config.php
+18:07:10.625 Error: Router not found for request GET /database.sql
+18:07:10.632 Error: Router not found for request GET /dump.sql
+18:07:10.636 Error: Router not found for request GET /backup.sql
+18:07:10.651 Error: Router not found for request GET /.git/HEAD
+18:07:10.673 Error: Router not found for request GET /secrets.json
+18:07:10.689 Error: Router not found for request GET /web.config
+18:07:10.695 Error: Router not found for request GET /server.key
+18:07:10.710 Error: Router not found for request GET /.env
+18:07:10.723 Error: Router not found for request GET /.env.production
+18:07:10.731 Error: Router not found for request GET /phpinfo.php
+18:07:10.740 Error: Router not found for request GET /settings.py
+18:07:10.744 Error: Router not found for request GET /.ssh/id_ed25519
+18:07:10.747 Error: Router not found for request GET /config.yaml
+18:07:10.750 Error: Router not found for request GET /.ssh/id_ecdsa
+18:07:10.753 Error: Router not found for request GET /.ssh/id_rsa
+18:07:10.757 Error: Router not found for request GET /backup.zip
+18:07:10.760 Error: Router not found for request GET /user_secrets.yml
+18:07:10.764 Error: Router not found for request GET /.vscode/sftp.json
+18:07:10.775 Error: Router not found for request GET /.svn/wc.db
+18:07:10.791 Error: Router not found for request GET /db/schema.rb
+18:07:10.795 Error: Router not found for request GET /server-status
+19:06:20.829 Optimizing database
+19:06:20.835 Optimization finished in 5ms.
+19:06:20.941 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+19:06:20.965 All consistency checks passed with no errors detected (took 26ms)
+19:28:32.616 Error: Router not found for request GET /.well-known/security.txt
+19:51:13.154 Error: Router not found for request GET //wp-includes/wlwmanifest.xml
+19:51:13.201 Error: Router not found for request GET //xmlrpc.php?rsd
+19:51:13.292 Error: Router not found for request GET //blog/wp-includes/wlwmanifest.xml
+19:51:13.337 Error: Router not found for request GET //web/wp-includes/wlwmanifest.xml
+19:51:13.383 Error: Router not found for request GET //wordpress/wp-includes/wlwmanifest.xml
+19:51:13.431 Error: Router not found for request GET //website/wp-includes/wlwmanifest.xml
+19:51:13.477 Error: Router not found for request GET //wp/wp-includes/wlwmanifest.xml
+19:51:13.523 Error: Router not found for request GET //news/wp-includes/wlwmanifest.xml
+19:51:13.567 Error: Router not found for request GET //2018/wp-includes/wlwmanifest.xml
+19:51:13.612 Error: Router not found for request GET //2019/wp-includes/wlwmanifest.xml
+19:51:13.657 Error: Router not found for request GET //shop/wp-includes/wlwmanifest.xml
+19:51:13.711 Error: Router not found for request GET //wp1/wp-includes/wlwmanifest.xml
+19:51:13.757 Error: Router not found for request GET //test/wp-includes/wlwmanifest.xml
+19:51:13.802 Error: Router not found for request GET //media/wp-includes/wlwmanifest.xml
+19:51:13.851 Error: Router not found for request GET //wp2/wp-includes/wlwmanifest.xml
+19:51:13.900 Error: Router not found for request GET //site/wp-includes/wlwmanifest.xml
+19:51:13.949 Error: Router not found for request GET //cms/wp-includes/wlwmanifest.xml
+19:51:14.000 Error: Router not found for request GET //sito/wp-includes/wlwmanifest.xml
+20:06:20.949 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+20:06:20.970 All consistency checks passed with no errors detected (took 22ms)
+21:06:20.943 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+21:06:20.978 All consistency checks passed with no errors detected (took 35ms)
+22:06:20.947 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+22:06:20.964 All consistency checks passed with no errors detected (took 18ms)
+22:39:26.540 Error: Router not found for request GET /.env
+23:06:20.949 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+23:06:20.970 All consistency checks passed with no errors detected (took 22ms)

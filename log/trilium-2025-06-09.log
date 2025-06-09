@@ -1,0 +1,28 @@
+00:06:21.000 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+00:06:21.030 All consistency checks passed with no errors detected (took 30ms)
+00:52:14.320 Error: Router not found for request GET //wp-includes/wlwmanifest.xml
+00:52:14.371 Error: Router not found for request GET //xmlrpc.php?rsd
+00:52:14.474 Error: Router not found for request GET //blog/wp-includes/wlwmanifest.xml
+00:52:14.520 Error: Router not found for request GET //web/wp-includes/wlwmanifest.xml
+00:52:14.566 Error: Router not found for request GET //wordpress/wp-includes/wlwmanifest.xml
+00:52:14.612 Error: Router not found for request GET //website/wp-includes/wlwmanifest.xml
+00:52:14.662 Error: Router not found for request GET //wp/wp-includes/wlwmanifest.xml
+00:52:14.710 Error: Router not found for request GET //news/wp-includes/wlwmanifest.xml
+00:52:14.757 Error: Router not found for request GET //2018/wp-includes/wlwmanifest.xml
+00:52:14.809 Error: Router not found for request GET //2019/wp-includes/wlwmanifest.xml
+00:52:14.857 Error: Router not found for request GET //shop/wp-includes/wlwmanifest.xml
+00:52:14.905 Error: Router not found for request GET //wp1/wp-includes/wlwmanifest.xml
+00:52:14.958 Error: Router not found for request GET //test/wp-includes/wlwmanifest.xml
+00:52:15.015 Error: Router not found for request GET //media/wp-includes/wlwmanifest.xml
+00:52:15.071 Error: Router not found for request GET //wp2/wp-includes/wlwmanifest.xml
+00:52:15.135 Error: Router not found for request GET //site/wp-includes/wlwmanifest.xml
+00:52:15.194 Error: Router not found for request GET //cms/wp-includes/wlwmanifest.xml
+00:52:15.241 Error: Router not found for request GET //sito/wp-includes/wlwmanifest.xml
+01:06:20.841 Optimizing database
+01:06:20.843 Optimization finished in 1ms.
+01:06:21.001 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+01:06:21.024 All consistency checks passed with no errors detected (took 23ms)
+02:06:21.007 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+02:06:21.030 All consistency checks passed with no errors detected (took 23ms)
+03:06:21.010 Table counts: notes: 301, revisions: 59, attachments: 38, branches: 304, attributes: 448, etapi_tokens: 0, blobs: 271
+03:06:21.030 All consistency checks passed with no errors detected (took 21ms)
