@@ -4,3 +4,298 @@
 01:06:20.901 Optimization finished in 1ms.
 01:06:21.305 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
 01:06:21.328 All consistency checks passed with no errors detected (took 24ms)
+02:06:21.304 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+02:06:21.324 All consistency checks passed with no errors detected (took 20ms)
+03:06:21.305 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+03:06:21.328 All consistency checks passed with no errors detected (took 23ms)
+04:06:21.306 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+04:06:21.319 All consistency checks passed with no errors detected (took 14ms)
+04:57:05.148 Error: Router not found for request GET /.git/HEAD
+05:06:21.305 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+05:06:21.320 All consistency checks passed with no errors detected (took 15ms)
+05:25:10.701 Error: Router not found for request GET /_profiler/phpinfo
+05:25:10.924 Error: Router not found for request GET /_profiler/phpinfo.php
+05:25:11.147 Error: Router not found for request GET /phpinfo
+05:25:11.370 Error: Router not found for request GET /phpinfo.php
+05:25:11.591 Error: Router not found for request GET /info
+05:25:11.814 Error: Router not found for request GET /info.php
+05:25:12.042 Error: Router not found for request GET /.env
+05:25:12.267 Error: Router not found for request GET /app/.env
+05:25:12.547 Error: Router not found for request GET /.env.bak
+05:25:12.839 Error: Router not found for request GET /.env.example
+05:25:13.571 Error: Router not found for request GET /.env.local
+05:25:13.837 Error: Router not found for request GET /.env.old
+05:25:14.103 Error: Router not found for request GET /.env.prod
+05:25:14.381 Error: Router not found for request GET /.env.production.local
+05:25:14.670 Error: Router not found for request GET /.env.stage
+05:25:14.957 Error: Router not found for request GET /admin/.env
+05:25:15.229 Error: Router not found for request GET /api/.env
+05:25:15.970 Error: Router not found for request GET /apps/.env
+05:25:16.735 Error: Router not found for request GET /.git/config
+05:25:17.471 Error: Router not found for request GET /main.js
+05:25:17.734 Error: Router not found for request GET /test2.php
+05:25:17.999 Error: Router not found for request GET /etc/caddy/Caddyfile
+05:25:18.271 Error: Router not found for request GET /api/config/tsconfig.json
+05:25:20.438 Error: Router not found for request GET /test
+05:25:20.725 Error: Router not found for request GET /application.properties
+05:25:21.430 Error: Router not found for request GET /products/.gitlab-ci.yml
+05:25:21.653 Error: Router not found for request GET /.aws/credentials
+05:25:21.876 Error: Router not found for request GET /config/database.php
+05:25:22.099 Error: Router not found for request GET /appsettings.json
+05:25:22.399 Error: Router not found for request GET /index.html
+05:25:22.622 Error: Router not found for request GET /docs/deployment.md
+05:25:22.848 Error: Router not found for request GET /index.php/phpinfo
+05:25:23.076 Error: Router not found for request GET /app/routes.py
+05:25:23.299 Error: Router not found for request GET /src/main/resources/appsettings.yml
+05:25:23.522 Error: Router not found for request GET /config/test.json
+05:25:23.745 Error: Router not found for request GET /app.js
+05:25:23.968 Error: Router not found for request GET /docker-compose.yml
+05:25:24.193 Error: Router not found for request GET /config/config.json
+05:25:24.414 Error: Router not found for request GET /app_dev.php/_profiler/phpinfo
+05:25:24.636 Error: Router not found for request GET /resources/application.conf
+05:25:24.858 Error: Router not found for request GET /php.php
+05:25:25.079 Error: Router not found for request GET /config/application.yml
+05:25:25.301 Error: Router not found for request GET /debug/default
+05:25:25.523 Error: Router not found for request GET /test.php
+05:25:25.744 Error: Router not found for request GET /frontend_dev.php/$
+05:25:25.972 Error: Router not found for request GET /index.php
+05:25:26.195 Error: Router not found for request GET /server.js
+05:25:26.417 Error: Router not found for request GET /application/config/constants.php
+05:25:26.638 Error: Router not found for request GET /config/services.yaml
+05:25:26.860 Error: Router not found for request GET /config/config.js
+05:25:27.082 Error: Router not found for request GET /app/etc/env.php
+05:25:27.304 Error: Router not found for request GET /.profile
+05:25:27.527 Error: Router not found for request GET /config/config.ini
+05:25:27.749 Error: Router not found for request GET /wp-config.php
+05:25:27.972 Error: Router not found for request GET /gulpfile.js
+05:25:28.196 Error: Router not found for request GET /settings.json
+05:25:28.418 Error: Router not found for request GET /config.php
+05:25:28.641 Error: Router not found for request GET /config
+05:25:28.866 Error: Router not found for request GET /php-info.php
+05:25:29.092 Error: Router not found for request GET /config.properties
+05:25:29.317 Error: Router not found for request GET /test1.php
+05:25:29.539 Error: Router not found for request GET /config/constants.js
+05:25:29.761 Error: Router not found for request GET /js/config.js
+05:25:29.985 Error: Router not found for request GET /configs/application.ini
+05:25:30.211 Error: Router not found for request GET /config/aws.json
+05:25:30.432 Error: Router not found for request GET /manifest.json
+05:25:30.656 Error: Router not found for request GET /config/settings.py
+05:25:30.881 Error: Router not found for request GET /admin/config
+05:25:31.103 Error: Router not found for request GET /config.ini
+05:25:31.329 Error: Router not found for request GET /ecosystem.config.js
+05:25:31.551 Error: Router not found for request GET /config.json
+05:25:31.774 Error: Router not found for request GET /src/main/resources/application.properties
+05:25:31.996 Error: Router not found for request GET /config/config.php
+05:25:32.218 Error: Router not found for request GET /.aws/config
+05:25:32.440 Error: Router not found for request GET /appsettings.Development.json
+05:25:32.662 Error: Router not found for request GET /README.md
+05:25:32.884 Error: Router not found for request GET /k8s/deployment.yaml
+05:25:33.105 Error: Router not found for request GET /project/settings.py
+05:25:33.325 Error: Router not found for request GET /Dockerfile
+05:25:33.546 Error: Router not found for request GET /Program.cs
+05:25:33.769 Error: Router not found for request GET /app.config.js
+05:25:33.993 Error: Router not found for request GET /config/default.json
+05:25:34.215 Error: Router not found for request GET /config/production.json
+05:25:34.438 Error: Router not found for request GET /config/development.yaml
+05:25:34.660 Error: Router not found for request GET /src/config/environment.js
+05:25:34.881 Error: Router not found for request GET /.flaskenv
+05:25:35.103 Error: Router not found for request GET /config/config.yaml
+05:25:35.325 Error: Router not found for request GET /config/secrets.json
+05:25:35.546 Error: Router not found for request GET /config/application.rb
+05:25:35.772 Error: Router not found for request GET /config/environments/production.rb
+05:25:35.994 Error: Router not found for request GET /config/environments/development.rb
+05:25:36.215 Error: Router not found for request GET /config/initializers/devise.rb
+05:25:36.437 Error: Router not found for request GET /config/database.yml
+05:25:36.659 Error: Router not found for request GET /config/secrets.yml
+05:25:36.884 Error: Router not found for request GET /config/app.php
+05:25:37.104 Error: Router not found for request GET /config/cache.php
+05:25:37.324 Error: Router not found for request GET /config/config.yml
+05:25:37.545 Error: Router not found for request GET /config/packages/prod/doctrine.yaml
+05:25:37.766 Error: Router not found for request GET /src/main/resources/application.yml
+05:25:37.987 Error: Router not found for request GET /src/main/resources/application-dev.properties
+05:25:38.208 Error: Router not found for request GET /src/main/resources/application-prod.properties
+05:25:38.447 Error: Router not found for request GET /config/applicationContext.xml
+05:25:38.673 Error: Router not found for request GET /appsettings.Production.json
+05:25:38.896 Error: Router not found for request GET /web.config
+05:25:39.117 Error: Router not found for request GET /secrets/appsettings.json
+05:25:39.340 Error: Router not found for request GET /config/config.go
+05:25:39.562 Error: Router not found for request GET /src/config/config.yaml
+05:25:39.784 Error: Router not found for request GET /src/config/config.json
+05:25:40.006 Error: Router not found for request GET /config/app.yaml
+05:25:40.229 Error: Router not found for request GET /Config.plist
+05:25:40.453 Error: Router not found for request GET /Info.plist
+05:25:40.673 Error: Router not found for request GET /Environment.xcconfig
+05:25:40.894 Error: Router not found for request GET /Config.xcconfig
+05:25:41.116 Error: Router not found for request GET /App/Config.swift
+05:25:41.338 Error: Router not found for request GET /App/Info.plist
+05:25:41.567 Error: Router not found for request GET /src/main/java/com/example/config/Config.kt
+05:25:41.787 Error: Router not found for request GET /local.properties
+05:25:42.008 Error: Router not found for request GET /src/main/assets/config.json
+05:25:42.230 Error: Router not found for request GET /config/config.exs
+05:25:42.453 Error: Router not found for request GET /config/prod.exs
+05:25:42.676 Error: Router not found for request GET /config/dev.exs
+05:25:42.897 Error: Router not found for request GET /config/runtime.exs
+05:25:43.118 Error: Router not found for request GET /config/releases.exs
+05:25:43.341 Error: Router not found for request GET /Rocket.toml
+05:25:43.565 Error: Router not found for request GET /config/Config.toml
+05:25:43.786 Error: Router not found for request GET /src/config.rs
+05:25:44.009 Error: Router not found for request GET /config.yml
+05:25:44.232 Error: Router not found for request GET /environments/development.yml
+05:25:44.454 Error: Router not found for request GET /environments/production.yml
+05:25:44.676 Error: Router not found for request GET /app.pl
+05:25:44.897 Error: Router not found for request GET /bin/app.pl
+05:25:45.119 Error: Router not found for request GET /conf/application.conf
+05:25:45.345 Error: Router not found for request GET /conf/development.conf
+05:25:45.567 Error: Router not found for request GET /conf/production.conf
+05:25:45.789 Error: Router not found for request GET /build.sbt
+05:25:46.010 Error: Router not found for request GET /project/plugins.sbt
+05:25:46.247 Error: Router not found for request GET /src/config.clj
+05:25:46.467 Error: Router not found for request GET /.lein-env
+05:25:46.691 Error: Router not found for request GET /project.clj
+05:25:46.913 Error: Router not found for request GET /resources/config.edn
+05:25:47.141 Error: Router not found for request GET /config/config.jl
+05:25:47.363 Error: Router not found for request GET /config/development.jl
+05:25:47.584 Error: Router not found for request GET /config/production.jl
+05:25:47.805 Error: Router not found for request GET /config/routes.jl
+05:25:48.025 Error: Router not found for request GET /config/database.jl
+05:25:48.250 Error: Router not found for request GET /src/config.ml
+05:25:48.472 Error: Router not found for request GET /src/server/server.ml
+05:25:48.692 Error: Router not found for request GET /config/sys.config
+05:25:48.932 Error: Router not found for request GET /rel/sys.config
+05:25:49.158 Error: Router not found for request GET /rel/vm.args
+05:25:49.380 Error: Router not found for request GET /config/application.cr
+05:25:49.602 Error: Router not found for request GET /config/config.cr
+05:25:49.827 Error: Router not found for request GET /config/development.cr
+05:25:50.051 Error: Router not found for request GET /config/production.cr
+05:25:50.276 Error: Router not found for request GET /config/routes.cr
+05:25:50.498 Error: Router not found for request GET /config.nim
+05:25:50.728 Error: Router not found for request GET /config/development.nim
+05:25:50.950 Error: Router not found for request GET /config/production.nim
+05:25:51.172 Error: Router not found for request GET /src/config.nim
+05:25:51.711 Error: Router not found for request GET /src/routes.nim
+05:25:51.936 Error: Router not found for request GET /global.R
+05:25:52.165 Error: Router not found for request GET /server.R
+05:25:52.435 Error: Router not found for request GET /ui.R
+05:25:52.658 Error: Router not found for request GET /config.R
+05:25:52.880 Error: Router not found for request GET /app.R
+05:25:53.114 Error: Router not found for request GET /config.m
+05:25:53.335 Error: Router not found for request GET /config.f90
+05:25:53.558 Error: Router not found for request GET /config.cbl
+05:25:53.784 Error: Router not found for request GET /Sources/App/configure.swift
+05:25:54.008 Error: Router not found for request GET /Sources/App/routes.swift
+05:25:54.229 Error: Router not found for request GET /Resources/Config
+05:25:54.451 Error: Router not found for request GET /pubspec.yaml
+05:25:54.703 Error: Router not found for request GET /config.dart
+05:25:54.925 Error: Router not found for request GET /src/main.rs
+05:25:55.147 Error: Router not found for request GET /Application.cfc
+05:25:55.372 Error: Router not found for request GET /Application.cfm
+05:25:55.613 Error: Router not found for request GET /config/config.cfc
+05:25:55.835 Error: Router not found for request GET /config/settings.cfc
+05:25:56.058 Error: Router not found for request GET /config/environment.cfc
+05:25:56.307 Error: Router not found for request GET /.cfconfig.json
+05:25:56.527 Error: Router not found for request GET /config.lua
+05:25:56.749 Error: Router not found for request GET /config/application.lua
+05:25:57.250 Error: Router not found for request GET /config/development.lua
+05:25:57.473 Error: Router not found for request GET /config/production.lua
+05:25:57.693 Error: Router not found for request GET /config/routes.lua
+05:25:58.215 Error: Router not found for request GET /config/db.lua
+05:25:58.437 Error: Router not found for request GET /grails-app/conf/application.yml
+05:25:58.711 Error: Router not found for request GET /grails-app/conf/application.groovy
+05:25:58.932 Error: Router not found for request GET /grails-app/conf/application.properties
+05:25:59.154 Error: Router not found for request GET /grails-app/conf/logback.groovy
+05:25:59.388 Error: Router not found for request GET /grails-app/conf/bootstrap.groovy
+05:25:59.610 Error: Router not found for request GET /.ebextensions/myconfig.config
+05:25:59.831 Error: Router not found for request GET /cloudformation/template.yaml
+05:26:00.053 Error: Router not found for request GET /cloudformation/template.json
+05:26:00.298 Error: Router not found for request GET /appspec.yml
+05:26:00.518 Error: Router not found for request GET /scripts/install_dependencies.sh
+05:26:00.741 Error: Router not found for request GET /scripts/start_server.sh
+05:26:01.027 Error: Router not found for request GET /apprunner.yaml
+05:26:01.251 Error: Router not found for request GET /localstack/config.json
+05:26:01.474 Error: Router not found for request GET /meshes/mesh_config.json
+05:26:01.737 Error: Router not found for request GET /stepfunctions/state-machine-definition.json
+05:26:01.959 Error: Router not found for request GET /stepfunctions/state-machine-definition.yaml
+05:26:02.182 Error: Router not found for request GET /index.js
+05:26:02.429 Error: Router not found for request GET /config.js
+05:26:02.651 Error: Router not found for request GET /lambda_function.py
+05:26:02.873 Error: Router not found for request GET /config.yaml
+05:26:03.302 Error: Router not found for request GET /etc/environment
+05:26:03.525 Error: Router not found for request GET /etc/profile.d
+05:26:03.781 Error: Router not found for request GET /home/ec2-user/.bashrc
+05:26:04.013 Error: Router not found for request GET /home/ec2-user/.aws/credentials
+05:26:04.234 Error: Router not found for request GET /home/ec2-user/.aws/config
+05:26:04.489 Error: Router not found for request GET /ecs-params.yml
+05:26:04.717 Error: Router not found for request GET /ebextensions.config
+05:26:04.939 Error: Router not found for request GET /.elasticbeanstalk/config.yml
+05:26:05.161 Error: Router not found for request GET /bucket-name/config/config.json
+05:26:05.427 Error: Router not found for request GET /bucket-name/config/config.yaml
+05:26:05.647 Error: Router not found for request GET /bucket-name/config/.env
+05:26:05.869 Error: Router not found for request GET /CloudFormation
+05:26:06.130 Error: Router not found for request GET /cloudformation-template.json
+05:26:06.352 Error: Router not found for request GET /cloudformation-template.yaml
+05:26:06.578 Error: Router not found for request GET /kubernetes/deployment.yaml
+05:26:07.095 Error: Router not found for request GET /kubernetes/service.yaml
+05:26:07.316 Error: Router not found for request GET /kubernetes/configmap.yaml
+05:26:07.542 Error: Router not found for request GET /kubernetes/secrets.yaml
+05:26:07.767 Error: Router not found for request GET /amplify/.config/project-config.json
+05:26:07.989 Error: Router not found for request GET /amplify/backend/config.json
+05:26:08.253 Error: Router not found for request GET /amplify/backend/environment-parameters.json
+05:26:08.512 Error: Router not found for request GET /src/aws-exports.js
+05:26:08.756 Error: Router not found for request GET /bin/app.ts
+05:26:08.979 Error: Router not found for request GET /lib/my-stack.ts
+05:26:09.211 Error: Router not found for request GET /cdk.json
+05:26:09.432 Error: Router not found for request GET /serverless.yml
+05:26:09.676 Error: Router not found for request GET /Terraform
+05:26:09.898 Error: Router not found for request GET /main.tf
+05:26:10.119 Error: Router not found for request GET /variables.tf
+05:26:10.342 Error: Router not found for request GET /terraform.tfvars
+05:26:10.570 Error: Router not found for request GET /template.yaml
+05:26:10.804 Error: Router not found for request GET /samconfig.toml
+05:26:11.026 Error: Router not found for request GET /CodePipeline
+05:26:11.248 Error: Router not found for request GET /buildspec.yml
+05:26:11.630 Error: Router not found for request GET /pipeline.yml
+05:26:11.904 Error: Router not found for request GET /config/database.json
+05:26:12.129 Error: Router not found for request GET /config/application.json
+05:26:12.351 Error: Router not found for request GET /config/settings.json
+06:06:21.312 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+06:06:21.337 All consistency checks passed with no errors detected (took 26ms)
+07:06:21.308 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+07:06:21.325 All consistency checks passed with no errors detected (took 18ms)
+08:06:21.308 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+08:06:21.323 All consistency checks passed with no errors detected (took 15ms)
+09:06:21.309 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+09:06:21.322 All consistency checks passed with no errors detected (took 14ms)
+09:24:49.034 Error: Router not found for request GET /llms.txt
+10:06:21.309 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+10:06:21.330 All consistency checks passed with no errors detected (took 21ms)
+11:06:20.913 Optimizing database
+11:06:20.917 Optimization finished in 1ms.
+11:06:21.310 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+11:06:21.329 All consistency checks passed with no errors detected (took 20ms)
+11:34:44.349 Error: Router not found for request GET /.well-known/security.txt
+12:06:21.310 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+12:06:21.328 All consistency checks passed with no errors detected (took 17ms)
+13:06:21.311 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+13:06:21.330 All consistency checks passed with no errors detected (took 20ms)
+14:06:21.311 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+14:06:21.330 All consistency checks passed with no errors detected (took 19ms)
+15:06:21.312 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+15:06:21.330 All consistency checks passed with no errors detected (took 18ms)
+16:06:21.312 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+16:06:21.334 All consistency checks passed with no errors detected (took 22ms)
+17:06:21.313 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+17:06:21.326 All consistency checks passed with no errors detected (took 14ms)
+18:06:21.313 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+18:06:21.329 All consistency checks passed with no errors detected (took 17ms)
+19:06:21.313 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+19:06:21.333 All consistency checks passed with no errors detected (took 20ms)
+20:06:21.313 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+20:06:21.326 All consistency checks passed with no errors detected (took 13ms)
+21:06:20.930 Optimizing database
+21:06:20.934 Optimization finished in 1ms.
+21:06:21.315 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+21:06:21.337 All consistency checks passed with no errors detected (took 23ms)
+22:06:21.315 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+22:06:21.332 All consistency checks passed with no errors detected (took 18ms)
+23:06:21.315 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+23:06:21.333 All consistency checks passed with no errors detected (took 19ms)
