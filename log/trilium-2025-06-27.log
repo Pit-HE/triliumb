@@ -1,0 +1,90 @@
+01:50:13.182 DB size: 3915 KB
+01:50:15.770 {
+  "appVersion": "0.63.7",
+  "dbVersion": 228,
+  "nodeVersion": "v18.18.2",
+  "syncVersion": 32,
+  "buildDate": "2024-05-30T06:59:06+02:00",
+  "buildRevision": "95d46b7ce7e0036eeb72b43e1815cc5c00dc214c",
+  "dataDirectory": "/root/.local/share/trilium-data",
+  "clipperProtocolVersion": "1.0",
+  "utcDateTime": "2025-06-27T01:50:12.530Z"
+}
+01:50:15.772 CPU model: Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz, logical cores: 4 freq: 2399 Mhz
+01:50:15.772 Trusted reverse proxy: false
+01:50:15.775 App HTTP server starting up at port 9898
+01:50:15.785 Listening on port 9898
+01:50:15.831 Becca (note cache) load took 43ms
+01:50:19.856 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+01:50:19.905 Slow query took 21ms: SELECT notes.noteId, notes.type, notes.mime FROM notes JOIN blobs USING (blobId) WHERE isDeleted = 0 AND isProtected = 0 AND content IS NULL
+01:50:19.917 All consistency checks passed with no errors detected (took 67ms)
+01:51:30.030 Generated CSRF token JraByyOA-3ZvG44zl7cjsG0jgrferrJmijYk with secret _csrf=wqTb64YaJwlTIeAHUHdU61ZA; Path=/
+01:51:31.198 200 GET /api/options with 6552 bytes took 5ms
+01:51:31.207 200 GET /api/tree with 35434 bytes took 8ms
+01:51:31.233 Slow 200 GET /api/script/widgets with 155155 bytes took 17ms
+01:51:31.239 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+01:51:31.556 200 POST /api/tree/load with 6273 bytes took 6ms
+01:51:31.687 200 POST /api/tree/load with 6437 bytes took 4ms
+01:51:32.691 200 POST /api/tree/load with 5828 bytes took 5ms
+01:51:32.841 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 4ms
+01:51:32.874 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2249 bytes took 4ms
+01:51:32.972 200 GET /api/notes/LWNpKJZXcaAL/blob with 155 bytes took 5ms
+01:51:32.980 200 GET /api/note-map/LWNpKJZXcaAL/backlink-count with 11 bytes took 4ms
+01:51:33.484 200 GET /api/search/%23workspace%20%23!template with 2 bytes took 5ms
+01:51:33.650 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 5ms
+01:51:33.661 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 3ms
+01:51:33.903 Slow 204 PUT /api/options with 0 bytes took 14ms
+01:51:34.876 200 GET /api/script/startup with 1804 bytes took 6ms
+01:51:35.019 200 POST /api/tree/load with 6399 bytes took 3ms
+01:51:35.145 200 POST /api/tree/load with 6553 bytes took 5ms
+01:55:15.853 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+02:50:15.789 Optimizing database
+02:50:15.791 Optimization finished in 2ms.
+02:50:15.843 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+02:50:15.871 All consistency checks passed with no errors detected (took 29ms)
+03:50:15.842 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+03:50:15.864 All consistency checks passed with no errors detected (took 23ms)
+04:50:15.843 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+04:50:15.859 All consistency checks passed with no errors detected (took 17ms)
+05:50:15.846 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+05:50:15.874 All consistency checks passed with no errors detected (took 29ms)
+06:50:15.852 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+06:50:15.877 All consistency checks passed with no errors detected (took 25ms)
+07:50:15.856 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+07:50:15.872 All consistency checks passed with no errors detected (took 16ms)
+08:50:15.857 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+08:50:15.875 All consistency checks passed with no errors detected (took 19ms)
+09:50:15.858 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+09:50:15.881 All consistency checks passed with no errors detected (took 24ms)
+10:50:15.862 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+10:50:15.883 All consistency checks passed with no errors detected (took 22ms)
+11:50:15.793 Optimizing database
+11:50:15.795 Optimization finished in 1ms.
+11:50:15.862 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+11:50:15.884 All consistency checks passed with no errors detected (took 22ms)
+12:50:15.865 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+12:50:15.885 All consistency checks passed with no errors detected (took 21ms)
+13:50:15.865 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+13:50:15.880 All consistency checks passed with no errors detected (took 16ms)
+14:50:15.871 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+14:50:15.887 All consistency checks passed with no errors detected (took 16ms)
+15:50:15.872 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+15:50:15.893 All consistency checks passed with no errors detected (took 21ms)
+16:50:15.876 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+16:50:15.892 All consistency checks passed with no errors detected (took 17ms)
+17:50:15.876 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+17:50:15.897 All consistency checks passed with no errors detected (took 21ms)
+18:50:15.880 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+18:50:15.897 All consistency checks passed with no errors detected (took 18ms)
+19:50:15.885 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+19:50:15.908 All consistency checks passed with no errors detected (took 24ms)
+20:50:15.889 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+20:50:15.908 All consistency checks passed with no errors detected (took 20ms)
+21:50:15.796 Optimizing database
+21:50:15.799 Optimization finished in 1ms.
+21:50:15.890 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+21:50:15.924 All consistency checks passed with no errors detected (took 36ms)
+22:50:15.891 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+22:50:15.907 All consistency checks passed with no errors detected (took 17ms)
+23:50:15.894 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+23:50:15.910 All consistency checks passed with no errors detected (took 16ms)
