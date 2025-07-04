@@ -1,0 +1,367 @@
+00:50:16.094 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+00:50:16.113 All consistency checks passed with no errors detected (took 20ms)
+01:50:16.094 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+01:50:16.111 All consistency checks passed with no errors detected (took 18ms)
+02:50:16.097 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+02:50:16.116 All consistency checks passed with no errors detected (took 19ms)
+03:36:49.360 Error: Router not found for request GET /.git/HEAD
+03:36:52.147 Error: Router not found for request GET /_profiler/phpinfo
+03:36:52.354 Error: Router not found for request GET /_profiler/phpinfo.php
+03:36:52.554 Error: Router not found for request GET /phpinfo
+03:36:52.758 Error: Router not found for request GET /phpinfo.php
+03:36:52.959 Error: Router not found for request GET /info
+03:36:53.159 Error: Router not found for request GET /info.php
+03:36:53.359 Error: Router not found for request GET /.env
+03:36:53.560 Error: Router not found for request GET /app/.env
+03:36:54.633 Error: Router not found for request GET /.env.bak
+03:36:54.835 Error: Router not found for request GET /.env.example
+03:36:55.050 Error: Router not found for request GET /.env.local
+03:36:55.253 Error: Router not found for request GET /.env.old
+03:36:55.452 Error: Router not found for request GET /.env.prod
+03:36:55.653 Error: Router not found for request GET /.env.production.local
+03:36:55.852 Error: Router not found for request GET /.env.stage
+03:36:56.051 Error: Router not found for request GET /admin/.env
+03:36:56.251 Error: Router not found for request GET /api/.env
+03:36:56.452 Error: Router not found for request GET /apps/.env
+03:36:56.653 Error: Router not found for request GET /.git/config
+03:36:56.854 Error: Router not found for request GET /appsettings.Production.json
+03:36:57.054 Error: Router not found for request GET /docs/deployment.md
+03:36:57.255 Error: Router not found for request GET /test
+03:36:57.454 Error: Router not found for request GET /test.php
+03:50:16.100 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+03:50:16.118 All consistency checks passed with no errors detected (took 19ms)
+04:50:16.100 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+04:50:16.115 All consistency checks passed with no errors detected (took 16ms)
+05:50:16.100 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+05:50:16.113 All consistency checks passed with no errors detected (took 13ms)
+06:22:47.225 Generated CSRF token M4sn9m5U-YcDxN3ej9RkgIKjMYtC9-GaG5SU with secret _csrf=IQvxjnaGn5FliZEtlHx3cE2f; Path=/
+06:22:48.447 200 GET /api/options with 6742 bytes took 8ms
+06:22:48.454 200 GET /api/keyboard-actions with 12407 bytes took 6ms
+06:22:48.465 Slow 200 GET /api/tree with 35434 bytes took 10ms
+06:22:48.509 Slow 200 GET /api/script/widgets with 155155 bytes took 42ms
+06:22:48.774 200 POST /api/tree/load with 6273 bytes took 6ms
+06:22:48.922 200 POST /api/tree/load with 6437 bytes took 3ms
+06:22:49.683 200 POST /api/tree/load with 5828 bytes took 4ms
+06:22:49.848 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 3ms
+06:22:49.880 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2249 bytes took 3ms
+06:22:50.022 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 7ms
+06:22:50.031 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 5ms
+06:22:50.386 200 GET /api/search/%23workspace%20%23!template with 2 bytes took 3ms
+06:22:50.579 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 3ms
+06:22:50.869 Slow 204 PUT /api/options with 0 bytes took 20ms
+06:22:54.299 200 GET /api/script/startup with 1804 bytes took 5ms
+06:22:54.303 200 GET /api/note-map/Y1ssLHdTfg74/backlink-count with 11 bytes took 2ms
+06:22:54.310 200 GET /api/notes/Y1ssLHdTfg74/blob with 13026 bytes took 7ms
+06:22:54.418 204 PUT /api/options with 0 bytes took 4ms
+06:22:54.465 200 POST /api/tree/load with 6399 bytes took 4ms
+06:22:54.687 200 POST /api/tree/load with 6553 bytes took 3ms
+06:22:59.364 200 GET /api/notes/Y1ssLHdTfg74/blob with 13026 bytes took 8ms
+06:23:01.174 200 GET /api/notes/Y1ssLHdTfg74/blob with 13026 bytes took 3ms
+06:23:03.263 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 55ms
+06:23:03.860 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 4ms
+06:23:03.864 200 GET /api/notes/Y1ssLHdTfg74/blob with 13067 bytes took 3ms
+06:23:04.931 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 109ms
+06:23:05.048 200 GET /api/notes/Y1ssLHdTfg74/blob with 13108 bytes took 6ms
+06:23:10.396 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:23:10.509 200 GET /api/notes/Y1ssLHdTfg74/blob with 13104 bytes took 4ms
+06:23:11.211 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 11ms
+06:23:11.322 200 GET /api/notes/Y1ssLHdTfg74/blob with 13106 bytes took 4ms
+06:23:35.066 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:23:35.169 200 GET /api/notes/Y1ssLHdTfg74/blob with 13108 bytes took 4ms
+06:23:39.995 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:23:40.106 200 GET /api/notes/Y1ssLHdTfg74/blob with 13108 bytes took 4ms
+06:23:48.686 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:23:48.801 200 GET /api/notes/Y1ssLHdTfg74/blob with 13125 bytes took 5ms
+06:23:50.890 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:23:51.001 200 GET /api/notes/Y1ssLHdTfg74/blob with 13166 bytes took 5ms
+06:23:52.771 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:23:52.883 200 GET /api/notes/Y1ssLHdTfg74/blob with 13178 bytes took 4ms
+06:23:54.858 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:23:54.971 200 GET /api/notes/Y1ssLHdTfg74/blob with 13179 bytes took 3ms
+06:24:47.568 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:24:47.684 200 GET /api/notes/Y1ssLHdTfg74/blob with 13178 bytes took 6ms
+06:24:48.601 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 6ms
+06:24:48.705 200 GET /api/notes/Y1ssLHdTfg74/blob with 13325 bytes took 4ms
+06:24:49.517 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:24:49.618 200 GET /api/notes/Y1ssLHdTfg74/blob with 13324 bytes took 3ms
+06:24:53.993 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:24:54.107 200 GET /api/notes/Y1ssLHdTfg74/blob with 13323 bytes took 5ms
+06:24:54.999 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:24:55.112 200 GET /api/notes/Y1ssLHdTfg74/blob with 13166 bytes took 4ms
+06:24:56.031 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:24:56.148 200 GET /api/notes/Y1ssLHdTfg74/blob with 13125 bytes took 3ms
+06:24:57.064 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:24:57.169 200 GET /api/notes/Y1ssLHdTfg74/blob with 13166 bytes took 4ms
+06:24:58.220 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 6ms
+06:24:58.334 200 GET /api/notes/Y1ssLHdTfg74/blob with 13180 bytes took 2ms
+06:24:59.257 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 5ms
+06:25:00.932 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 6ms
+06:25:01.053 200 GET /api/notes/Y1ssLHdTfg74/blob with 13182 bytes took 7ms
+06:25:01.966 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 12ms
+06:25:02.086 Slow 200 GET /api/notes/Y1ssLHdTfg74/blob with 13183 bytes took 12ms
+06:25:08.228 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:25:08.345 200 GET /api/notes/Y1ssLHdTfg74/blob with 13460 bytes took 4ms
+06:25:13.298 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:25:13.410 200 GET /api/notes/Y1ssLHdTfg74/blob with 13198 bytes took 3ms
+06:25:16.271 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 13ms
+06:25:16.383 200 GET /api/notes/Y1ssLHdTfg74/blob with 13194 bytes took 4ms
+06:25:17.274 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:17.378 200 GET /api/notes/Y1ssLHdTfg74/blob with 13190 bytes took 4ms
+06:25:18.377 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:18.494 200 GET /api/notes/Y1ssLHdTfg74/blob with 13186 bytes took 5ms
+06:25:19.411 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 6ms
+06:25:19.513 200 GET /api/notes/Y1ssLHdTfg74/blob with 13182 bytes took 4ms
+06:25:20.818 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 6ms
+06:25:20.933 200 GET /api/notes/Y1ssLHdTfg74/blob with 13183 bytes took 4ms
+06:25:21.832 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:21.944 200 GET /api/notes/Y1ssLHdTfg74/blob with 13184 bytes took 4ms
+06:25:24.447 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:25.497 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 21ms
+06:25:26.831 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 13ms
+06:25:27.878 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:25:30.739 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:25:31.760 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:25:34.564 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:25:35.586 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:38.448 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:39.447 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:25:41.884 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:25:42.332 200 GET /api/notes/Y1ssLHdTfg74/blob with 13211 bytes took 5ms
+06:25:44.172 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:25:44.314 200 GET /api/notes/Y1ssLHdTfg74/blob with 13239 bytes took 6ms
+06:25:44.800 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:44.944 200 GET /api/notes/Y1ssLHdTfg74/blob with 13257 bytes took 4ms
+06:25:45.802 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 11ms
+06:25:45.943 200 GET /api/notes/Y1ssLHdTfg74/blob with 13258 bytes took 4ms
+06:25:48.117 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:25:48.256 200 GET /api/notes/Y1ssLHdTfg74/blob with 13293 bytes took 4ms
+06:25:49.617 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:25:50.364 200 GET /api/notes/Y1ssLHdTfg74/blob with 13295 bytes took 5ms
+06:25:51.180 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:51.849 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:25:51.853 200 GET /api/notes/Y1ssLHdTfg74/blob with 13337 bytes took 2ms
+06:25:52.006 200 GET /api/notes/Y1ssLHdTfg74/blob with 13337 bytes took 3ms
+06:26:02.259 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 13ms
+06:26:02.413 200 GET /api/notes/Y1ssLHdTfg74/blob with 13320 bytes took 7ms
+06:26:05.864 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:26:06.010 200 GET /api/notes/Y1ssLHdTfg74/blob with 13337 bytes took 3ms
+06:26:08.527 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:26:08.673 200 GET /api/notes/Y1ssLHdTfg74/blob with 13354 bytes took 3ms
+06:26:11.252 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:26:11.393 200 GET /api/notes/Y1ssLHdTfg74/blob with 13371 bytes took 3ms
+06:26:34.164 200 GET /api/notes/Y1ssLHdTfg74/blob with 13371 bytes took 3ms
+06:26:37.634 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:26:39.389 200 GET /api/notes/Y1ssLHdTfg74/blob with 13412 bytes took 3ms
+06:26:39.397 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:26:40.102 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:26:40.106 200 GET /api/notes/Y1ssLHdTfg74/blob with 13847 bytes took 3ms
+06:26:40.259 200 GET /api/notes/Y1ssLHdTfg74/blob with 13847 bytes took 4ms
+06:26:42.793 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:26:43.614 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:26:43.619 200 GET /api/notes/Y1ssLHdTfg74/blob with 13809 bytes took 4ms
+06:26:43.778 200 GET /api/notes/Y1ssLHdTfg74/blob with 13809 bytes took 5ms
+06:26:46.569 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:26:46.716 200 GET /api/notes/Y1ssLHdTfg74/blob with 13799 bytes took 3ms
+06:27:48.157 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:27:48.254 200 GET /api/notes/Y1ssLHdTfg74/blob with 13774 bytes took 4ms
+06:29:03.938 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:29:04.054 200 GET /api/notes/Y1ssLHdTfg74/blob with 13767 bytes took 3ms
+06:29:04.724 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:29:04.840 200 GET /api/notes/Y1ssLHdTfg74/blob with 13768 bytes took 4ms
+06:29:07.795 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 13ms
+06:29:08.204 200 GET /api/notes/Y1ssLHdTfg74/blob with 13780 bytes took 5ms
+06:29:13.647 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:29:13.757 200 GET /api/notes/Y1ssLHdTfg74/blob with 13805 bytes took 6ms
+06:29:17.471 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:29:17.583 200 GET /api/notes/Y1ssLHdTfg74/blob with 13795 bytes took 4ms
+06:29:19.964 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:29:20.072 200 GET /api/notes/Y1ssLHdTfg74/blob with 13782 bytes took 4ms
+06:29:21.695 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:29:21.821 200 GET /api/notes/Y1ssLHdTfg74/blob with 13775 bytes took 4ms
+06:29:26.518 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 16ms
+06:29:26.640 200 GET /api/notes/Y1ssLHdTfg74/blob with 13782 bytes took 4ms
+06:29:28.007 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 14ms
+06:29:28.119 200 GET /api/notes/Y1ssLHdTfg74/blob with 13769 bytes took 3ms
+06:29:29.276 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:29:29.389 200 GET /api/notes/Y1ssLHdTfg74/blob with 13756 bytes took 6ms
+06:29:30.827 200 GET /api/notes/Y1ssLHdTfg74/blob with 13756 bytes took 3ms
+06:29:33.021 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 6ms
+06:29:33.123 200 GET /api/notes/Y1ssLHdTfg74/blob with 13672 bytes took 4ms
+06:29:34.573 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 12ms
+06:29:34.679 200 GET /api/notes/Y1ssLHdTfg74/blob with 13640 bytes took 4ms
+06:29:40.943 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:29:41.054 200 GET /api/notes/Y1ssLHdTfg74/blob with 13603 bytes took 4ms
+06:29:43.483 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:29:43.596 200 GET /api/notes/Y1ssLHdTfg74/blob with 13615 bytes took 5ms
+06:29:47.460 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:29:47.590 200 GET /api/notes/Y1ssLHdTfg74/blob with 13640 bytes took 8ms
+06:29:48.802 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:29:48.931 200 GET /api/notes/Y1ssLHdTfg74/blob with 13633 bytes took 3ms
+06:30:04.537 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:30:04.664 200 GET /api/notes/Y1ssLHdTfg74/blob with 13608 bytes took 5ms
+06:30:11.232 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 6ms
+06:30:11.359 200 GET /api/notes/Y1ssLHdTfg74/blob with 13655 bytes took 4ms
+06:30:15.721 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 5ms
+06:30:15.854 200 GET /api/notes/Y1ssLHdTfg74/blob with 13608 bytes took 7ms
+06:30:20.275 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:30:20.402 200 GET /api/notes/Y1ssLHdTfg74/blob with 13615 bytes took 3ms
+06:30:21.553 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:30:21.669 200 GET /api/notes/Y1ssLHdTfg74/blob with 13608 bytes took 5ms
+06:30:22.362 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:30:22.481 200 GET /api/notes/Y1ssLHdTfg74/blob with 13615 bytes took 6ms
+06:30:25.788 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:30:25.917 200 GET /api/notes/Y1ssLHdTfg74/blob with 13590 bytes took 5ms
+06:30:27.295 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:30:27.417 200 GET /api/notes/Y1ssLHdTfg74/blob with 13597 bytes took 3ms
+06:30:30.939 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 6ms
+06:30:31.386 200 GET /api/notes/Y1ssLHdTfg74/blob with 13599 bytes took 4ms
+06:30:31.953 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 11ms
+06:30:32.076 200 GET /api/notes/Y1ssLHdTfg74/blob with 13598 bytes took 5ms
+06:30:35.297 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 11ms
+06:30:35.404 200 GET /api/notes/Y1ssLHdTfg74/blob with 13600 bytes took 4ms
+06:30:36.314 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:30:36.727 200 GET /api/notes/Y1ssLHdTfg74/blob with 13599 bytes took 4ms
+06:30:38.482 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:30:38.599 200 GET /api/notes/Y1ssLHdTfg74/blob with 13627 bytes took 7ms
+06:30:39.633 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:30:39.748 200 GET /api/notes/Y1ssLHdTfg74/blob with 13655 bytes took 4ms
+06:30:47.631 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:30:47.744 200 GET /api/notes/Y1ssLHdTfg74/blob with 13654 bytes took 4ms
+06:30:49.228 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:30:49.360 200 GET /api/notes/Y1ssLHdTfg74/blob with 13655 bytes took 4ms
+06:30:52.103 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 11ms
+06:30:52.713 200 GET /api/notes/Y1ssLHdTfg74/blob with 13654 bytes took 4ms
+06:30:52.721 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:30:52.843 200 GET /api/notes/Y1ssLHdTfg74/blob with 13655 bytes took 4ms
+06:30:53.904 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:30:54.021 200 GET /api/notes/Y1ssLHdTfg74/blob with 13648 bytes took 4ms
+06:30:54.855 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:30:54.973 200 GET /api/notes/Y1ssLHdTfg74/blob with 13647 bytes took 6ms
+06:30:55.679 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:30:55.794 200 GET /api/notes/Y1ssLHdTfg74/blob with 13648 bytes took 5ms
+06:30:56.701 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 8ms
+06:30:56.815 200 GET /api/notes/Y1ssLHdTfg74/blob with 13647 bytes took 4ms
+06:30:57.718 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 7ms
+06:30:57.833 200 GET /api/notes/Y1ssLHdTfg74/blob with 13641 bytes took 4ms
+06:30:58.957 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 11ms
+06:30:59.068 200 GET /api/notes/Y1ssLHdTfg74/blob with 13640 bytes took 4ms
+06:30:59.917 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 9ms
+06:31:00.031 200 GET /api/notes/Y1ssLHdTfg74/blob with 13641 bytes took 5ms
+06:31:04.012 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 10ms
+06:31:04.117 200 GET /api/notes/Y1ssLHdTfg74/blob with 13634 bytes took 5ms
+06:31:13.906 Slow 204 PUT /api/notes/Y1ssLHdTfg74/data with 0 bytes took 13ms
+06:31:14.018 200 GET /api/notes/Y1ssLHdTfg74/blob with 13606 bytes took 4ms
+06:31:40.186 Created new note 'HSdHTsyl0U8E', branch 'LWNpKJZXcaAL_HSdHTsyl0U8E' of type 'text', mime 'text/html'
+06:31:40.196 Slow 200 POST /api/notes/LWNpKJZXcaAL/children?target=into&targetBranchId= with 555 bytes took 31ms
+06:31:40.313 200 POST /api/tree/load with 3142 bytes took 3ms
+06:31:40.433 200 GET /api/notes/HSdHTsyl0U8E/blob with 155 bytes took 2ms
+06:31:40.436 200 GET /api/note-map/HSdHTsyl0U8E/backlink-count with 11 bytes took 2ms
+06:31:40.454 204 PUT /api/options with 0 bytes took 6ms
+06:31:43.027 200 PUT /api/notes/HSdHTsyl0U8E/title with 320 bytes took 5ms
+06:31:43.145 200 GET /api/notes/HSdHTsyl0U8E/blob with 155 bytes took 3ms
+06:31:44.026 200 PUT /api/notes/HSdHTsyl0U8E/title with 321 bytes took 9ms
+06:31:45.028 200 PUT /api/notes/HSdHTsyl0U8E/title with 328 bytes took 5ms
+06:31:45.146 200 GET /api/notes/HSdHTsyl0U8E/blob with 155 bytes took 3ms
+06:31:46.000 200 PUT /api/notes/HSdHTsyl0U8E/title with 323 bytes took 5ms
+06:31:48.073 204 PUT /api/options with 0 bytes took 4ms
+06:31:48.077 200 GET /api/notes/mDLrFbMcdXXx/blob with 519 bytes took 3ms
+06:31:48.081 200 GET /api/note-map/mDLrFbMcdXXx/backlink-count with 11 bytes took 3ms
+06:31:50.416 200 GET /api/notes/f5JUlRvow6xl/blob with 373 bytes took 2ms
+06:31:50.420 200 GET /api/note-map/f5JUlRvow6xl/backlink-count with 11 bytes took 3ms
+06:31:50.432 204 PUT /api/options with 0 bytes took 4ms
+06:31:52.923 Slow 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 11ms
+06:31:53.044 200 GET /api/notes/f5JUlRvow6xl/blob with 366 bytes took 4ms
+06:32:14.213 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 6ms
+06:32:14.326 200 GET /api/notes/f5JUlRvow6xl/blob with 373 bytes took 3ms
+06:32:17.293 204 PUT /api/notes/f5JUlRvow6xl/data with 0 bytes took 8ms
+06:32:17.406 200 GET /api/notes/f5JUlRvow6xl/blob with 369 bytes took 2ms
+06:32:30.531 200 GET /api/notes/Y1ssLHdTfg74/blob with 13606 bytes took 9ms
+06:32:30.534 200 GET /api/note-map/Y1ssLHdTfg74/backlink-count with 11 bytes took 1ms
+06:32:30.541 204 PUT /api/options with 0 bytes took 3ms
+06:32:31.397 200 GET /api/notes/WJIOuOn4LKC5/blob with 155 bytes took 6ms
+06:32:31.409 200 GET /api/note-map/WJIOuOn4LKC5/backlink-count with 11 bytes took 3ms
+06:32:31.529 204 PUT /api/options with 0 bytes took 4ms
+06:32:33.153 200 GET /api/notes/2utKLgZLWObh/blob with 155 bytes took 2ms
+06:32:33.158 200 GET /api/note-map/2utKLgZLWObh/backlink-count with 11 bytes took 3ms
+06:32:33.164 204 PUT /api/options with 0 bytes took 4ms
+06:32:36.227 204 PUT /api/options with 0 bytes took 4ms
+06:32:36.232 200 GET /api/notes/WJIOuOn4LKC5/blob with 155 bytes took 4ms
+06:32:36.236 200 GET /api/note-map/WJIOuOn4LKC5/backlink-count with 11 bytes took 2ms
+06:32:37.757 Slow 200 PUT /api/notes/WJIOuOn4LKC5/title with 322 bytes took 12ms
+06:32:37.864 200 GET /api/notes/WJIOuOn4LKC5/blob with 155 bytes took 3ms
+06:32:38.751 200 PUT /api/notes/WJIOuOn4LKC5/title with 323 bytes took 5ms
+06:32:39.412 200 GET /api/notes/WJIOuOn4LKC5/blob with 155 bytes took 2ms
+06:32:42.266 204 PUT /api/options with 0 bytes took 5ms
+06:32:42.270 200 GET /api/notes/5tuXRUjKpIvp/blob with 1526 bytes took 3ms
+06:32:42.274 200 GET /api/note-map/5tuXRUjKpIvp/backlink-count with 11 bytes took 3ms
+06:32:46.879 200 PUT /api/notes/5tuXRUjKpIvp/title with 321 bytes took 8ms
+06:32:46.995 200 GET /api/notes/5tuXRUjKpIvp/blob with 1526 bytes took 4ms
+06:32:48.171 200 PUT /api/notes/5tuXRUjKpIvp/title with 326 bytes took 6ms
+06:32:48.288 200 GET /api/notes/5tuXRUjKpIvp/blob with 1526 bytes took 4ms
+06:32:48.830 200 PUT /api/notes/5tuXRUjKpIvp/title with 323 bytes took 4ms
+06:50:16.103 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+06:50:16.117 All consistency checks passed with no errors detected (took 15ms)
+07:50:15.769 Optimizing database
+07:50:15.771 Optimization finished in 1ms.
+07:50:16.103 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+07:50:16.128 All consistency checks passed with no errors detected (took 26ms)
+08:50:16.106 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+08:50:16.127 All consistency checks passed with no errors detected (took 22ms)
+09:50:16.106 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+09:50:16.121 All consistency checks passed with no errors detected (took 16ms)
+10:50:16.108 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+10:50:16.121 All consistency checks passed with no errors detected (took 14ms)
+11:31:08.187 Error: Router not found for request GET /.git/logs/HEAD
+11:31:08.426 Error: Router not found for request GET /.git/info/exclude
+11:31:08.854 Error: Router not found for request GET /doc/.env
+11:31:09.328 Error: Router not found for request GET /.env.smtp_access
+11:31:09.549 Error: Router not found for request GET /.env.old
+11:31:09.813 Error: Router not found for request GET /phpinfo.php3
+11:31:10.482 Error: Router not found for request GET /.gitattributes
+11:31:10.844 Error: Router not found for request GET /wp-config.cache
+11:31:11.049 Error: Router not found for request GET /wp-config.dist
+11:31:11.670 Error: Router not found for request GET /env/.env
+11:31:11.874 Error: Router not found for request GET /inf.php
+11:31:12.082 Error: Router not found for request GET /v2/.env
+11:31:12.317 Error: Router not found for request GET /services/traefik/.env
+11:31:12.624 Error: Router not found for request GET /portal/.env
+11:31:12.829 Error: Router not found for request GET /test.php
+11:31:13.031 Error: Router not found for request GET /info1.php
+11:31:13.232 Error: Router not found for request GET /admin/.env
+11:31:13.439 Error: Router not found for request GET /crm/.env
+11:31:13.735 Error: Router not found for request GET /root/infophp
+11:31:14.051 Error: Router not found for request GET /wp-config.php_old2014
+11:31:14.372 Error: Router not found for request GET /old/.env
+11:31:14.698 Error: Router not found for request GET /.env.php
+11:31:15.318 Error: Router not found for request GET /apps/.env
+11:50:16.108 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+11:50:16.125 All consistency checks passed with no errors detected (took 17ms)
+12:50:16.112 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+12:50:16.139 All consistency checks passed with no errors detected (took 28ms)
+13:50:16.113 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+13:50:16.130 All consistency checks passed with no errors detected (took 18ms)
+14:50:16.115 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+14:50:16.128 All consistency checks passed with no errors detected (took 14ms)
+14:50:42.885 Error: Router not found for request GET /.well-known/security.txt
+15:50:16.118 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+15:50:16.132 All consistency checks passed with no errors detected (took 15ms)
+16:50:16.118 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+16:50:16.135 All consistency checks passed with no errors detected (took 17ms)
+17:22:05.219 Error: Router not found for request GET /.git/config
+17:50:15.769 Optimizing database
+17:50:15.771 Optimization finished in 1ms.
+17:50:16.119 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+17:50:16.145 All consistency checks passed with no errors detected (took 27ms)
+18:15:44.868 Error: Router not found for request GET /.git/config
+18:50:16.120 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+18:50:16.132 All consistency checks passed with no errors detected (took 13ms)
+19:50:16.120 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+19:50:16.134 All consistency checks passed with no errors detected (took 14ms)
+20:50:16.123 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+20:50:16.141 All consistency checks passed with no errors detected (took 18ms)
+21:50:16.125 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+21:50:16.149 All consistency checks passed with no errors detected (took 25ms)
+22:50:16.127 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+22:50:16.146 All consistency checks passed with no errors detected (took 19ms)
+23:50:16.130 Table counts: notes: 300, revisions: 63, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 272
+23:50:16.149 All consistency checks passed with no errors detected (took 20ms)

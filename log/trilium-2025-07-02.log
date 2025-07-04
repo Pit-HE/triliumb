@@ -1,0 +1,102 @@
+00:50:16.045 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+00:50:16.060 All consistency checks passed with no errors detected (took 16ms)
+01:50:15.763 Optimizing database
+01:50:15.765 Optimization finished in 1ms.
+01:50:16.045 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+01:50:16.064 All consistency checks passed with no errors detected (took 19ms)
+02:50:16.049 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+02:50:16.072 All consistency checks passed with no errors detected (took 23ms)
+03:50:16.051 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+03:50:16.070 All consistency checks passed with no errors detected (took 19ms)
+04:50:16.055 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+04:50:16.074 All consistency checks passed with no errors detected (took 20ms)
+04:52:15.417 Error: Router not found for request GET /.env.production
+04:52:15.424 Error: Router not found for request GET /next/.env
+04:52:15.429 Error: Router not found for request GET /api/.env
+04:52:15.436 Error: Router not found for request GET /.env
+04:52:15.442 Error: Router not found for request GET /flask/.env
+04:52:15.448 Error: Router not found for request GET /django/.env
+04:52:15.477 Error: Router not found for request GET /.env.local
+04:52:15.486 Error: Router not found for request GET /config/.env
+04:52:15.494 Error: Router not found for request GET /symfony/.env
+04:52:15.500 Error: Router not found for request GET /api/shared/config/config.env
+04:52:15.506 Error: Router not found for request GET /nuxt/.env
+04:52:15.510 Error: Router not found for request GET /react/.env
+04:52:15.513 Error: Router not found for request GET /.env.save
+04:52:15.516 Error: Router not found for request GET /cp/.env
+04:52:15.522 Error: Router not found for request GET /core/.env
+04:52:15.528 Error: Router not found for request GET /conf/.env
+04:52:15.532 Error: Router not found for request GET /server/.env
+04:52:15.536 Error: Router not found for request GET /crm/.env
+04:52:15.692 Error: Router not found for request GET /api.sql
+04:52:15.696 Error: Router not found for request GET /.aws/credentials
+04:52:15.698 Error: Router not found for request GET /backup.sql
+04:52:15.702 Error: Router not found for request GET /register/
+04:52:15.704 Error: Router not found for request GET /db.sql
+04:52:15.707 Error: Router not found for request GET /contact/
+04:52:15.714 Error: Router not found for request GET /test.zip
+04:52:15.716 Error: Router not found for request GET /config.sh
+04:52:15.719 Error: Router not found for request GET /backup.zip
+04:52:15.752 Error: Router not found for request GET /api.csv
+04:52:15.757 Error: Router not found for request GET /karma.conf.json
+04:52:15.763 Error: Router not found for request GET /.git/config
+04:52:15.777 Error: Router not found for request GET /.gitconfig
+04:52:15.783 Error: Router not found for request GET /config.js
+04:52:15.786 Error: Router not found for request GET /js/config.js
+04:52:15.788 Error: Router not found for request GET /docker-compose.yml
+04:52:15.790 Error: Router not found for request GET /docker-compose.yaml
+04:52:15.795 Error: Router not found for request GET /index.js
+04:52:15.816 Error: Router not found for request GET /.AWS_/credentials
+04:52:15.823 Error: Router not found for request GET /settings.py
+04:52:15.829 Error: Router not found for request GET /ses.sh
+04:52:15.835 Error: Router not found for request GET /send-ses.sh
+04:52:15.844 Error: Router not found for request GET /signup/
+04:52:15.853 Error: Router not found for request GET /sitemap.xml
+04:52:15.856 Error: Router not found for request GET /web.config
+04:52:15.865 Error: Router not found for request GET /wp-config.php
+04:52:15.868 Error: Router not found for request GET /config.php.old
+04:52:15.876 Error: Router not found for request GET /wp-config.php.bak
+04:52:15.879 Error: Router not found for request GET /config.properties
+05:50:16.055 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+05:50:16.075 All consistency checks passed with no errors detected (took 20ms)
+06:50:16.058 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+06:50:16.072 All consistency checks passed with no errors detected (took 15ms)
+07:50:16.058 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+07:50:16.076 All consistency checks passed with no errors detected (took 19ms)
+08:50:16.062 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+08:50:16.082 All consistency checks passed with no errors detected (took 21ms)
+09:50:16.061 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+09:50:16.075 All consistency checks passed with no errors detected (took 14ms)
+10:50:16.066 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+10:50:16.089 All consistency checks passed with no errors detected (took 24ms)
+11:50:15.765 Optimizing database
+11:50:15.767 Optimization finished in 1ms.
+11:50:16.067 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+11:50:16.091 All consistency checks passed with no errors detected (took 25ms)
+12:50:16.069 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+12:50:16.086 All consistency checks passed with no errors detected (took 18ms)
+13:50:16.069 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+13:50:16.085 All consistency checks passed with no errors detected (took 16ms)
+14:50:16.069 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+14:50:16.087 All consistency checks passed with no errors detected (took 19ms)
+15:50:16.072 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+15:50:16.087 All consistency checks passed with no errors detected (took 15ms)
+16:50:16.075 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+16:50:16.090 All consistency checks passed with no errors detected (took 15ms)
+17:50:16.076 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+17:50:16.094 All consistency checks passed with no errors detected (took 19ms)
+18:50:16.079 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+18:50:16.092 All consistency checks passed with no errors detected (took 13ms)
+19:50:16.083 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+19:50:16.105 All consistency checks passed with no errors detected (took 23ms)
+20:15:48.474 Error: Router not found for request GET /.git/config
+20:50:16.086 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+20:50:16.101 All consistency checks passed with no errors detected (took 16ms)
+21:50:15.767 Optimizing database
+21:50:15.769 Optimization finished in 1ms.
+21:50:16.086 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+21:50:16.107 All consistency checks passed with no errors detected (took 21ms)
+22:50:16.088 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+22:50:16.107 All consistency checks passed with no errors detected (took 19ms)
+23:50:16.091 Table counts: notes: 299, revisions: 59, attachments: 38, branches: 302, attributes: 446, etapi_tokens: 0, blobs: 270
+23:50:16.109 All consistency checks passed with no errors detected (took 18ms)
