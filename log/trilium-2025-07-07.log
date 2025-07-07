@@ -1,2 +1,11 @@
 00:50:16.232 Table counts: notes: 300, revisions: 64, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 273
 00:50:16.254 All consistency checks passed with no errors detected (took 22ms)
+01:50:15.781 Optimizing database
+01:50:15.783 Optimization finished in 1ms.
+01:50:16.234 Table counts: notes: 300, revisions: 64, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 273
+01:50:16.262 All consistency checks passed with no errors detected (took 29ms)
+02:50:16.235 Table counts: notes: 300, revisions: 64, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 273
+02:50:16.260 All consistency checks passed with no errors detected (took 25ms)
+03:07:01.790 Error: Router not found for request GET /.git/config
+03:50:16.238 Table counts: notes: 300, revisions: 64, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 273
+03:50:16.258 All consistency checks passed with no errors detected (took 21ms)
