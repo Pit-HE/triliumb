@@ -1,0 +1,116 @@
+00:50:16.324 Table counts: notes: 300, revisions: 65, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 274
+00:50:16.345 All consistency checks passed with no errors detected (took 21ms)
+01:50:16.325 Table counts: notes: 300, revisions: 65, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 274
+01:50:16.348 All consistency checks passed with no errors detected (took 24ms)
+02:50:16.327 Table counts: notes: 300, revisions: 65, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 274
+02:50:16.344 All consistency checks passed with no errors detected (took 17ms)
+03:50:16.327 Table counts: notes: 300, revisions: 65, attachments: 38, branches: 303, attributes: 446, etapi_tokens: 0, blobs: 274
+03:50:16.347 All consistency checks passed with no errors detected (took 21ms)
+04:01:59.519 200 GET /api/notes/5tuXRUjKpIvp/blob with 1799 bytes took 6ms
+04:02:02.942 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 6ms
+04:02:02.946 200 GET /api/note-map/eaxgg24od19f/backlink-count with 11 bytes took 3ms
+04:02:02.971 Slow 204 PUT /api/options with 0 bytes took 10ms
+04:02:44.091 JS Error: 0 PUT notes/eaxgg24od19f/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+04:02:44.092 JS Error: 0 PUT notes/eaxgg24od19f/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+04:02:44.093 JS Error: 0 POST recent-notes - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+04:02:57.690 Created new note '3Ave0KwF0N5t', branch 'LWNpKJZXcaAL_3Ave0KwF0N5t' of type 'text', mime 'text/html'
+04:02:57.704 Slow 200 POST /api/notes/LWNpKJZXcaAL/children?target=into&targetBranchId= with 555 bytes took 47ms
+04:02:57.781 200 POST /api/tree/load with 3288 bytes took 4ms
+04:02:57.911 200 GET /api/notes/3Ave0KwF0N5t/blob with 155 bytes took 2ms
+04:02:57.914 200 GET /api/note-map/3Ave0KwF0N5t/backlink-count with 11 bytes took 1ms
+04:02:57.921 204 PUT /api/options with 0 bytes took 5ms
+04:03:00.124 200 PUT /api/notes/3Ave0KwF0N5t/title with 320 bytes took 9ms
+04:03:00.206 200 GET /api/notes/3Ave0KwF0N5t/blob with 155 bytes took 3ms
+04:03:01.138 Slow 200 PUT /api/notes/3Ave0KwF0N5t/title with 325 bytes took 26ms
+04:03:02.142 Slow 200 PUT /api/notes/3Ave0KwF0N5t/title with 321 bytes took 19ms
+04:03:02.237 200 GET /api/notes/3Ave0KwF0N5t/blob with 155 bytes took 4ms
+04:03:03.138 Slow 200 PUT /api/notes/3Ave0KwF0N5t/title with 323 bytes took 10ms
+04:03:04.131 200 PUT /api/notes/3Ave0KwF0N5t/title with 321 bytes took 7ms
+04:03:04.217 200 GET /api/notes/3Ave0KwF0N5t/blob with 155 bytes took 2ms
+04:03:05.129 200 PUT /api/notes/3Ave0KwF0N5t/title with 327 bytes took 7ms
+04:03:06.144 200 PUT /api/notes/3Ave0KwF0N5t/title with 324 bytes took 6ms
+04:03:06.233 200 GET /api/notes/3Ave0KwF0N5t/blob with 155 bytes took 2ms
+04:03:07.141 200 PUT /api/notes/3Ave0KwF0N5t/title with 326 bytes took 8ms
+04:03:08.145 200 PUT /api/notes/3Ave0KwF0N5t/title with 323 bytes took 8ms
+04:03:08.214 200 GET /api/notes/3Ave0KwF0N5t/blob with 155 bytes took 3ms
+04:03:27.772 Slow 204 PUT /api/notes/3Ave0KwF0N5t/data with 0 bytes took 10ms
+04:03:27.787 Slow 204 PUT /api/notes/3Ave0KwF0N5t/data with 0 bytes took 14ms
+04:03:27.801 Slow 204 PUT /api/notes/3Ave0KwF0N5t/data with 0 bytes took 12ms
+04:03:27.815 Slow 204 PUT /api/notes/3Ave0KwF0N5t/data with 0 bytes took 10ms
+04:03:27.832 Slow 204 PUT /api/notes/3Ave0KwF0N5t/data with 0 bytes took 10ms
+04:03:27.838 200 GET /api/notes/3Ave0KwF0N5t/blob with 1255 bytes took 3ms
+04:03:27.940 200 GET /api/notes/3Ave0KwF0N5t/blob with 1255 bytes took 2ms
+04:03:28.486 Slow 204 PUT /api/notes/3Ave0KwF0N5t/data with 0 bytes took 19ms
+04:03:28.542 200 GET /api/notes/3Ave0KwF0N5t/blob with 1268 bytes took 3ms
+04:03:29.489 Slow 204 PUT /api/notes/3Ave0KwF0N5t/data with 0 bytes took 15ms
+04:03:29.536 200 GET /api/notes/3Ave0KwF0N5t/blob with 1281 bytes took 3ms
+04:03:32.463 Updating option 'hideArchivedNotes_main' to 'false'
+04:03:32.469 204 PUT /api/options with 0 bytes took 6ms
+04:03:32.524 Updating option 'autoCollapseNoteTree' to 'false'
+04:03:32.530 204 PUT /api/options with 0 bytes took 7ms
+04:03:32.604 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2248 bytes took 4ms
+04:50:16.327 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+04:50:16.352 All consistency checks passed with no errors detected (took 25ms)
+05:50:15.810 Optimizing database
+05:50:15.813 Optimization finished in 2ms.
+05:50:16.038 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+05:50:16.329 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+05:50:16.352 All consistency checks passed with no errors detected (took 23ms)
+06:50:16.329 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+06:50:16.347 All consistency checks passed with no errors detected (took 18ms)
+07:50:16.331 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+07:50:16.350 All consistency checks passed with no errors detected (took 20ms)
+08:01:52.013 204 PUT /api/options with 0 bytes took 7ms
+08:01:52.018 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 4ms
+08:01:52.022 200 GET /api/note-map/eaxgg24od19f/backlink-count with 11 bytes took 2ms
+08:50:16.332 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+08:50:16.351 All consistency checks passed with no errors detected (took 20ms)
+09:50:16.332 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+09:50:16.352 All consistency checks passed with no errors detected (took 20ms)
+10:50:16.334 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+10:50:16.356 All consistency checks passed with no errors detected (took 23ms)
+11:50:16.334 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+11:50:16.360 All consistency checks passed with no errors detected (took 27ms)
+12:50:16.333 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+12:50:16.355 All consistency checks passed with no errors detected (took 22ms)
+13:14:17.245 Error: Router not found for request GET /pdown
+13:50:16.333 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+13:50:16.353 All consistency checks passed with no errors detected (took 21ms)
+14:50:16.334 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+14:50:16.348 All consistency checks passed with no errors detected (took 15ms)
+15:50:15.826 Optimizing database
+15:50:15.828 Optimization finished in 1ms.
+15:50:16.335 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+15:50:16.360 All consistency checks passed with no errors detected (took 26ms)
+16:50:16.335 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+16:50:16.351 All consistency checks passed with no errors detected (took 17ms)
+17:50:16.335 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+17:50:16.355 All consistency checks passed with no errors detected (took 20ms)
+18:50:16.336 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+18:50:16.353 All consistency checks passed with no errors detected (took 18ms)
+19:50:16.338 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+19:50:16.360 All consistency checks passed with no errors detected (took 23ms)
+20:50:16.338 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+20:50:16.357 All consistency checks passed with no errors detected (took 19ms)
+21:50:16.339 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+21:50:16.359 All consistency checks passed with no errors detected (took 20ms)
+22:32:13.640 Error: Router not found for request GET /.git/config
+22:50:16.339 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+22:50:16.352 All consistency checks passed with no errors detected (took 14ms)
+23:50:16.340 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+23:50:16.355 All consistency checks passed with no errors detected (took 15ms)

@@ -1,0 +1,3 @@
+00:50:16.396 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+00:50:16.418 All consistency checks passed with no errors detected (took 22ms)
+01:04:52.798 Error: Router not found for request GET /.well-known/security.txt
