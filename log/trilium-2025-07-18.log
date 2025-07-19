@@ -1,0 +1,78 @@
+00:50:17.171 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+00:50:17.188 All consistency checks passed with no errors detected (took 17ms)
+01:50:17.173 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+01:50:17.198 All consistency checks passed with no errors detected (took 27ms)
+02:50:17.179 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+02:50:17.195 All consistency checks passed with no errors detected (took 16ms)
+03:50:17.187 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+03:50:17.218 All consistency checks passed with no errors detected (took 33ms)
+04:36:06.185 Error: Router not found for request GET //wp-includes/wlwmanifest.xml
+04:36:06.235 Error: Router not found for request GET //xmlrpc.php?rsd
+04:36:06.318 Error: Router not found for request GET //blog/wp-includes/wlwmanifest.xml
+04:36:06.355 Error: Router not found for request GET //web/wp-includes/wlwmanifest.xml
+04:36:06.392 Error: Router not found for request GET //wordpress/wp-includes/wlwmanifest.xml
+04:36:06.430 Error: Router not found for request GET //website/wp-includes/wlwmanifest.xml
+04:36:06.468 Error: Router not found for request GET //wp/wp-includes/wlwmanifest.xml
+04:36:06.509 Error: Router not found for request GET //news/wp-includes/wlwmanifest.xml
+04:36:06.547 Error: Router not found for request GET //2018/wp-includes/wlwmanifest.xml
+04:36:06.586 Error: Router not found for request GET //2019/wp-includes/wlwmanifest.xml
+04:36:06.625 Error: Router not found for request GET //shop/wp-includes/wlwmanifest.xml
+04:36:06.663 Error: Router not found for request GET //wp1/wp-includes/wlwmanifest.xml
+04:36:06.719 Error: Router not found for request GET //test/wp-includes/wlwmanifest.xml
+04:36:06.757 Error: Router not found for request GET //media/wp-includes/wlwmanifest.xml
+04:36:06.795 Error: Router not found for request GET //wp2/wp-includes/wlwmanifest.xml
+04:36:06.832 Error: Router not found for request GET //site/wp-includes/wlwmanifest.xml
+04:36:06.871 Error: Router not found for request GET //cms/wp-includes/wlwmanifest.xml
+04:36:06.910 Error: Router not found for request GET //sito/wp-includes/wlwmanifest.xml
+04:50:17.191 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+04:50:17.207 All consistency checks passed with no errors detected (took 16ms)
+05:50:16.216 Created backup at /root/.local/share/trilium-data/backup/backup-weekly.db
+05:50:17.191 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+05:50:17.207 All consistency checks passed with no errors detected (took 17ms)
+06:01:47.572 Error: Router not found for request GET /wiki
+06:50:17.194 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+06:50:17.216 All consistency checks passed with no errors detected (took 23ms)
+07:50:15.993 Optimizing database
+07:50:15.996 Optimization finished in 1ms.
+07:50:17.195 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+07:50:17.215 All consistency checks passed with no errors detected (took 21ms)
+08:50:17.197 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+08:50:17.210 All consistency checks passed with no errors detected (took 14ms)
+09:50:17.198 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+09:50:17.217 All consistency checks passed with no errors detected (took 20ms)
+10:50:17.200 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+10:50:17.217 All consistency checks passed with no errors detected (took 18ms)
+11:50:17.228 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+11:50:17.252 All consistency checks passed with no errors detected (took 25ms)
+12:50:17.253 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+12:50:17.266 All consistency checks passed with no errors detected (took 14ms)
+13:15:35.626 Error: Router not found for request GET /pdown
+13:50:17.255 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+13:50:17.274 All consistency checks passed with no errors detected (took 20ms)
+14:05:19.099 Error: Router not found for request GET /llms.txt
+14:50:17.259 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+14:50:17.277 All consistency checks passed with no errors detected (took 19ms)
+15:50:17.261 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+15:50:17.275 All consistency checks passed with no errors detected (took 15ms)
+16:50:17.281 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+16:50:17.298 All consistency checks passed with no errors detected (took 18ms)
+17:50:16.010 Optimizing database
+17:50:16.014 Optimization finished in 2ms.
+17:50:17.282 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+17:50:17.301 All consistency checks passed with no errors detected (took 20ms)
+18:50:17.286 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+18:50:17.301 All consistency checks passed with no errors detected (took 16ms)
+19:00:38.173 Error: Router not found for request GET /login/robots.txt
+19:00:38.178 Error: Router not found for request GET /login/sitemap.xml
+19:00:38.972 Error: Router not found for request GET /login/sitemap.xml
+19:00:38.976 Error: Router not found for request GET /login/robots.txt
+19:50:17.304 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+19:50:17.320 All consistency checks passed with no errors detected (took 17ms)
+20:50:17.319 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+20:50:17.334 All consistency checks passed with no errors detected (took 15ms)
+21:50:17.320 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+21:50:17.346 All consistency checks passed with no errors detected (took 26ms)
+22:50:17.323 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+22:50:17.342 All consistency checks passed with no errors detected (took 20ms)
+23:50:17.334 Table counts: notes: 301, revisions: 65, attachments: 38, branches: 304, attributes: 446, etapi_tokens: 0, blobs: 275
+23:50:17.356 All consistency checks passed with no errors detected (took 23ms)
