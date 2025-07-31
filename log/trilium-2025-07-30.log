@@ -1,0 +1,97 @@
+00:08:08.508 Error: Router not found for request GET //wp-includes/wlwmanifest.xml
+00:08:08.799 Error: Router not found for request GET //xmlrpc.php?rsd
+00:08:09.380 Error: Router not found for request GET //blog/wp-includes/wlwmanifest.xml
+00:08:09.677 Error: Router not found for request GET //web/wp-includes/wlwmanifest.xml
+00:08:09.965 Error: Router not found for request GET //wordpress/wp-includes/wlwmanifest.xml
+00:08:10.271 Error: Router not found for request GET //website/wp-includes/wlwmanifest.xml
+00:08:10.559 Error: Router not found for request GET //wp/wp-includes/wlwmanifest.xml
+00:08:10.852 Error: Router not found for request GET //news/wp-includes/wlwmanifest.xml
+00:08:11.148 Error: Router not found for request GET //2018/wp-includes/wlwmanifest.xml
+00:08:11.441 Error: Router not found for request GET //2019/wp-includes/wlwmanifest.xml
+00:08:11.737 Error: Router not found for request GET //shop/wp-includes/wlwmanifest.xml
+00:08:12.033 Error: Router not found for request GET //wp1/wp-includes/wlwmanifest.xml
+00:08:12.327 Error: Router not found for request GET //test/wp-includes/wlwmanifest.xml
+00:08:12.623 Error: Router not found for request GET //media/wp-includes/wlwmanifest.xml
+00:08:12.920 Error: Router not found for request GET //wp2/wp-includes/wlwmanifest.xml
+00:08:13.209 Error: Router not found for request GET //site/wp-includes/wlwmanifest.xml
+00:08:13.501 Error: Router not found for request GET //cms/wp-includes/wlwmanifest.xml
+00:08:13.792 Error: Router not found for request GET //sito/wp-includes/wlwmanifest.xml
+00:50:19.428 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+00:50:19.445 All consistency checks passed with no errors detected (took 18ms)
+01:50:19.430 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+01:50:19.449 All consistency checks passed with no errors detected (took 20ms)
+02:50:19.443 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+02:50:19.457 All consistency checks passed with no errors detected (took 15ms)
+03:50:19.454 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+03:50:19.468 All consistency checks passed with no errors detected (took 14ms)
+04:50:19.463 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+04:50:19.479 All consistency checks passed with no errors detected (took 17ms)
+05:45:06.295 200 GET /api/notes/1g13lN5Vif5L/blob with 4643 bytes took 6ms
+05:45:06.301 204 PUT /api/options with 0 bytes took 4ms
+05:45:06.305 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 2ms
+05:45:09.115 200 GET /api/note-map/jpqn2OtPU3r1/backlink-count with 11 bytes took 2ms
+05:45:09.121 204 PUT /api/options with 0 bytes took 4ms
+05:45:09.127 200 GET /api/notes/jpqn2OtPU3r1/blob with 399 bytes took 2ms
+05:50:19.463 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+05:50:19.480 All consistency checks passed with no errors detected (took 16ms)
+06:50:19.474 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+06:50:19.495 All consistency checks passed with no errors detected (took 22ms)
+07:50:02.047 Error: Router not found for request GET //wp-includes/wlwmanifest.xml
+07:50:02.271 Error: Router not found for request GET //xmlrpc.php?rsd
+07:50:02.709 Error: Router not found for request GET //blog/wp-includes/wlwmanifest.xml
+07:50:02.928 Error: Router not found for request GET //web/wp-includes/wlwmanifest.xml
+07:50:03.148 Error: Router not found for request GET //wordpress/wp-includes/wlwmanifest.xml
+07:50:03.368 Error: Router not found for request GET //website/wp-includes/wlwmanifest.xml
+07:50:03.590 Error: Router not found for request GET //wp/wp-includes/wlwmanifest.xml
+07:50:03.810 Error: Router not found for request GET //news/wp-includes/wlwmanifest.xml
+07:50:04.028 Error: Router not found for request GET //2018/wp-includes/wlwmanifest.xml
+07:50:04.247 Error: Router not found for request GET //2019/wp-includes/wlwmanifest.xml
+07:50:04.466 Error: Router not found for request GET //shop/wp-includes/wlwmanifest.xml
+07:50:04.687 Error: Router not found for request GET //wp1/wp-includes/wlwmanifest.xml
+07:50:04.928 Error: Router not found for request GET //test/wp-includes/wlwmanifest.xml
+07:50:05.149 Error: Router not found for request GET //media/wp-includes/wlwmanifest.xml
+07:50:05.370 Error: Router not found for request GET //wp2/wp-includes/wlwmanifest.xml
+07:50:05.590 Error: Router not found for request GET //site/wp-includes/wlwmanifest.xml
+07:50:05.809 Error: Router not found for request GET //cms/wp-includes/wlwmanifest.xml
+07:50:06.029 Error: Router not found for request GET //sito/wp-includes/wlwmanifest.xml
+07:50:19.475 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+07:50:19.497 All consistency checks passed with no errors detected (took 22ms)
+08:50:19.484 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+08:50:19.499 All consistency checks passed with no errors detected (took 16ms)
+09:50:16.346 Optimizing database
+09:50:16.348 Optimization finished in 1ms.
+09:50:19.486 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+09:50:19.507 All consistency checks passed with no errors detected (took 21ms)
+10:50:19.494 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+10:50:19.515 All consistency checks passed with no errors detected (took 22ms)
+11:50:19.498 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+11:50:19.513 All consistency checks passed with no errors detected (took 16ms)
+11:53:50.398 Error: Router not found for request GET /.git/config
+12:50:19.506 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+12:50:19.527 All consistency checks passed with no errors detected (took 22ms)
+13:14:11.685 Error: Router not found for request GET /pdown
+13:50:19.506 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+13:50:19.523 All consistency checks passed with no errors detected (took 17ms)
+14:50:19.511 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+14:50:19.528 All consistency checks passed with no errors detected (took 18ms)
+15:50:19.515 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+15:50:19.531 All consistency checks passed with no errors detected (took 16ms)
+16:50:19.517 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+16:50:19.533 All consistency checks passed with no errors detected (took 17ms)
+17:07:50.694 Error: Router not found for request GET /.git/config
+17:50:19.517 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+17:50:19.535 All consistency checks passed with no errors detected (took 19ms)
+18:50:19.544 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+18:50:19.564 All consistency checks passed with no errors detected (took 20ms)
+19:50:16.358 Optimizing database
+19:50:16.361 Optimization finished in 1ms.
+19:50:19.546 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+19:50:19.576 All consistency checks passed with no errors detected (took 31ms)
+20:50:19.571 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+20:50:19.590 All consistency checks passed with no errors detected (took 20ms)
+21:50:19.573 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+21:50:19.587 All consistency checks passed with no errors detected (took 14ms)
+22:50:19.594 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+22:50:19.612 All consistency checks passed with no errors detected (took 18ms)
+23:50:19.615 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+23:50:19.634 All consistency checks passed with no errors detected (took 19ms)

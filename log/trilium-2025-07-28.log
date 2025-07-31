@@ -328,3 +328,101 @@
 03:15:13.715 200 GET /api/notes/3Ave0KwF0N5t/blob with 1281 bytes took 3ms
 03:50:19.092 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
 03:50:19.109 All consistency checks passed with no errors detected (took 18ms)
+04:35:29.075 200 GET /api/tree with 35864 bytes took 6ms
+04:35:29.080 200 GET /api/options with 6319 bytes took 3ms
+04:35:29.088 200 GET /api/keyboard-actions with 12407 bytes took 7ms
+04:35:29.091 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+04:35:29.320 200 GET /api/notes/LWNpKJZXcaAL/blob with 155 bytes took 2ms
+04:35:29.323 200 GET /api/note-map/LWNpKJZXcaAL/backlink-count with 11 bytes took 2ms
+04:35:30.941 200 GET /api/notes/16ewVYb5lycl/blob with 549 bytes took 3ms
+04:35:31.021 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 3ms
+04:35:31.189 Slow 200 GET /api/notes/2yEcqD32vonH/blob with 43200 bytes took 10ms
+04:35:31.336 200 GET /api/notes/V3IXTrV9VS8q/blob with 290 bytes took 3ms
+04:35:31.501 200 GET /api/notes/5tuXRUjKpIvp/blob with 1799 bytes took 3ms
+04:35:31.665 200 GET /api/notes/gWuJbTe5qwAb/blob with 858 bytes took 3ms
+04:35:31.748 200 GET /api/notes/f5JUlRvow6xl/blob with 369 bytes took 3ms
+04:35:31.831 200 GET /api/notes/mDLrFbMcdXXx/blob with 519 bytes took 3ms
+04:35:31.940 200 GET /api/script/startup?mobile=true with 2 bytes took 5ms
+04:35:31.947 200 GET /api/notes/HSdHTsyl0U8E/blob with 193 bytes took 6ms
+04:35:32.027 200 GET /api/notes/3Ave0KwF0N5t/blob with 1281 bytes took 2ms
+04:50:19.100 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+04:50:19.118 All consistency checks passed with no errors detected (took 18ms)
+05:50:19.103 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+05:50:19.125 All consistency checks passed with no errors detected (took 23ms)
+06:50:19.106 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+06:50:19.124 All consistency checks passed with no errors detected (took 19ms)
+07:50:16.295 Optimizing database
+07:50:16.297 Optimization finished in 1ms.
+07:50:19.109 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+07:50:19.130 All consistency checks passed with no errors detected (took 22ms)
+08:50:19.112 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+08:50:19.131 All consistency checks passed with no errors detected (took 19ms)
+09:19:44.683 200 GET /api/options with 6319 bytes took 5ms
+09:19:44.692 200 GET /api/tree with 35863 bytes took 7ms
+09:19:44.702 200 GET /api/keyboard-actions with 12407 bytes took 9ms
+09:19:44.706 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 3ms
+09:19:44.862 200 GET /api/notes/LWNpKJZXcaAL/blob with 155 bytes took 5ms
+09:19:44.899 200 GET /api/note-map/LWNpKJZXcaAL/backlink-count with 11 bytes took 2ms
+09:19:47.544 200 GET /api/notes/16ewVYb5lycl/blob with 549 bytes took 2ms
+09:19:47.660 200 GET /api/script/startup?mobile=true with 2 bytes took 3ms
+09:19:47.740 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 4ms
+09:19:47.908 200 GET /api/notes/2yEcqD32vonH/blob with 43200 bytes took 9ms
+09:19:48.051 200 GET /api/notes/V3IXTrV9VS8q/blob with 290 bytes took 3ms
+09:19:48.166 200 GET /api/notes/5tuXRUjKpIvp/blob with 1799 bytes took 3ms
+09:20:08.537 200 GET /api/notes/5tuXRUjKpIvp/blob with 1799 bytes took 3ms
+09:20:08.977 200 GET /api/notes/gWuJbTe5qwAb/blob with 858 bytes took 3ms
+09:20:09.111 200 GET /api/notes/f5JUlRvow6xl/blob with 369 bytes took 3ms
+09:20:09.234 200 GET /api/notes/mDLrFbMcdXXx/blob with 519 bytes took 6ms
+09:20:09.365 200 GET /api/notes/HSdHTsyl0U8E/blob with 193 bytes took 5ms
+09:20:09.606 200 GET /api/notes/3Ave0KwF0N5t/blob with 1281 bytes took 3ms
+09:50:19.114 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+09:50:19.130 All consistency checks passed with no errors detected (took 16ms)
+10:50:19.122 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+10:50:19.144 All consistency checks passed with no errors detected (took 23ms)
+10:50:22.414 200 GET /api/options with 6319 bytes took 4ms
+10:50:22.486 200 GET /api/tree with 35863 bytes took 8ms
+10:50:22.494 200 GET /api/keyboard-actions with 12407 bytes took 7ms
+10:50:22.497 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+10:50:22.633 200 GET /api/notes/LWNpKJZXcaAL/blob with 155 bytes took 2ms
+10:50:22.636 200 GET /api/note-map/LWNpKJZXcaAL/backlink-count with 11 bytes took 2ms
+10:50:23.232 200 GET /api/notes/16ewVYb5lycl/blob with 549 bytes took 2ms
+10:50:23.333 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 4ms
+10:50:23.482 Slow 200 GET /api/notes/2yEcqD32vonH/blob with 43200 bytes took 11ms
+10:50:23.587 200 GET /api/notes/V3IXTrV9VS8q/blob with 290 bytes took 2ms
+10:50:23.682 200 GET /api/notes/5tuXRUjKpIvp/blob with 1799 bytes took 7ms
+10:50:23.753 200 GET /api/notes/gWuJbTe5qwAb/blob with 858 bytes took 2ms
+10:50:23.832 200 GET /api/notes/f5JUlRvow6xl/blob with 369 bytes took 2ms
+10:50:23.931 200 GET /api/notes/mDLrFbMcdXXx/blob with 519 bytes took 1ms
+10:50:24.043 200 GET /api/notes/HSdHTsyl0U8E/blob with 193 bytes took 3ms
+10:50:24.142 200 GET /api/notes/3Ave0KwF0N5t/blob with 1281 bytes took 2ms
+10:50:25.249 200 GET /api/script/startup?mobile=true with 2 bytes took 3ms
+11:50:19.127 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+11:50:19.147 All consistency checks passed with no errors detected (took 21ms)
+12:50:19.131 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+12:50:19.151 All consistency checks passed with no errors detected (took 21ms)
+13:14:28.782 Error: Router not found for request GET /pdown
+13:50:19.130 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+13:50:19.149 All consistency checks passed with no errors detected (took 18ms)
+14:50:19.137 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+14:50:19.152 All consistency checks passed with no errors detected (took 15ms)
+15:50:19.143 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+15:50:19.162 All consistency checks passed with no errors detected (took 19ms)
+16:04:59.543 Error: Router not found for request GET /sitemap.xml
+16:50:19.167 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+16:50:19.184 All consistency checks passed with no errors detected (took 17ms)
+17:50:16.314 Optimizing database
+17:50:16.316 Optimization finished in 1ms.
+17:50:19.170 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+17:50:19.187 All consistency checks passed with no errors detected (took 18ms)
+18:50:19.191 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+18:50:19.208 All consistency checks passed with no errors detected (took 18ms)
+19:50:19.208 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+19:50:19.227 All consistency checks passed with no errors detected (took 20ms)
+20:50:19.210 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+20:50:19.222 All consistency checks passed with no errors detected (took 12ms)
+21:50:19.214 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+21:50:19.234 All consistency checks passed with no errors detected (took 21ms)
+22:50:19.222 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+22:50:19.251 All consistency checks passed with no errors detected (took 30ms)
+23:50:19.230 Table counts: notes: 305, revisions: 68, attachments: 38, branches: 308, attributes: 451, etapi_tokens: 0, blobs: 278
+23:50:19.251 All consistency checks passed with no errors detected (took 20ms)
