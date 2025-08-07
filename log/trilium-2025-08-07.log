@@ -1,0 +1,4 @@
+00:04:12.794 Error: Router not found for request GET /.git/HEAD
+00:50:20.892 Table counts: notes: 307, revisions: 109, attachments: 51, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 321
+00:50:20.906 All consistency checks passed with no errors detected (took 15ms)
+01:03:36.579 Error: Router not found for request GET /sitemap.xml

@@ -51,3 +51,87 @@
 03:47:48.346 204 PUT /api/options with 0 bytes took 3ms
 03:50:20.365 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
 03:50:20.380 All consistency checks passed with no errors detected (took 15ms)
+04:50:20.376 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+04:50:20.397 All consistency checks passed with no errors detected (took 22ms)
+05:50:20.378 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+05:50:20.398 All consistency checks passed with no errors detected (took 21ms)
+06:50:20.382 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+06:50:20.404 All consistency checks passed with no errors detected (took 22ms)
+07:50:20.388 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+07:50:20.404 All consistency checks passed with no errors detected (took 17ms)
+08:28:39.499 Error: Router not found for request GET /api/v1/users
+08:28:39.697 Error: Router not found for request GET /api/users
+08:28:39.896 Error: Router not found for request GET /.env
+08:50:06.709 Error: Router not found for request GET /api/v1/users
+08:50:06.911 Error: Router not found for request GET /api/users
+08:50:07.113 Error: Router not found for request GET /.env
+08:50:20.389 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+08:50:20.405 All consistency checks passed with no errors detected (took 16ms)
+09:50:16.433 Optimizing database
+09:50:16.435 Optimization finished in 1ms.
+09:50:20.391 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+09:50:20.410 All consistency checks passed with no errors detected (took 20ms)
+10:50:20.397 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+10:50:20.411 All consistency checks passed with no errors detected (took 15ms)
+11:50:20.402 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+11:50:20.416 All consistency checks passed with no errors detected (took 14ms)
+12:50:20.406 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+12:50:20.419 All consistency checks passed with no errors detected (took 14ms)
+13:14:10.813 Error: Router not found for request GET /pdown
+13:34:55.830 Generated CSRF token nDAj01XR-Q_Uf_XsVF1wGDXVjYZBGx_RG3tY with secret undefined
+13:34:56.431 200 GET /api/options with 6523 bytes took 3ms
+13:34:56.435 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+13:34:56.438 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+13:34:56.445 200 GET /api/tree with 35273 bytes took 6ms
+13:34:56.597 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 2ms
+13:34:56.605 200 GET /api/notes/9R3YWVm1h2j2/blob with 44580 bytes took 7ms
+13:34:57.155 200 GET /api/notes/LWNpKJZXcaAL/blob with 155 bytes took 3ms
+13:34:57.158 200 GET /api/note-map/LWNpKJZXcaAL/backlink-count with 11 bytes took 2ms
+13:34:57.237 200 POST /api/tree/load with 4683 bytes took 2ms
+13:34:57.303 200 GET /api/notes/16ewVYb5lycl/blob with 1117 bytes took 3ms
+13:34:57.373 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 3ms
+13:34:57.419 204 PUT /api/options with 0 bytes took 4ms
+13:34:57.448 200 GET /api/notes/2yEcqD32vonH/blob with 43200 bytes took 5ms
+13:34:57.522 200 GET /api/notes/V3IXTrV9VS8q/blob with 290 bytes took 2ms
+13:34:57.643 200 GET /api/notes/5tuXRUjKpIvp/blob with 1799 bytes took 4ms
+13:34:57.705 200 GET /api/notes/gWuJbTe5qwAb/blob with 858 bytes took 2ms
+13:34:57.779 200 GET /api/notes/f5JUlRvow6xl/blob with 369 bytes took 3ms
+13:34:57.864 200 GET /api/notes/mDLrFbMcdXXx/blob with 519 bytes took 3ms
+13:34:57.943 200 GET /api/notes/HSdHTsyl0U8E/blob with 193 bytes took 1ms
+13:34:58.042 200 GET /api/notes/3Ave0KwF0N5t/blob with 1281 bytes took 3ms
+13:34:58.541 200 GET /api/script/startup?mobile=true with 2 bytes took 2ms
+13:34:58.808 204 PUT /api/options with 0 bytes took 3ms
+13:34:58.814 200 GET /api/notes/9R3YWVm1h2j2/blob with 44580 bytes took 5ms
+13:34:58.816 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 1ms
+13:50:20.406 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+13:50:20.419 All consistency checks passed with no errors detected (took 13ms)
+14:50:20.412 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+14:50:20.434 All consistency checks passed with no errors detected (took 23ms)
+15:50:20.413 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+15:50:20.428 All consistency checks passed with no errors detected (took 16ms)
+16:50:20.429 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+16:50:20.450 All consistency checks passed with no errors detected (took 22ms)
+17:50:20.452 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+17:50:20.489 All consistency checks passed with no errors detected (took 38ms)
+18:50:20.452 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+18:50:20.470 All consistency checks passed with no errors detected (took 19ms)
+19:50:16.440 Optimizing database
+19:50:16.444 Optimization finished in 1ms.
+19:50:20.453 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+19:50:20.471 All consistency checks passed with no errors detected (took 19ms)
+20:50:20.454 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+20:50:20.468 All consistency checks passed with no errors detected (took 15ms)
+21:50:20.456 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+21:50:20.471 All consistency checks passed with no errors detected (took 16ms)
+22:29:08.812 200 GET /api/options with 6332 bytes took 5ms
+22:29:08.825 Slow 200 GET /api/tree with 35273 bytes took 11ms
+22:29:08.832 200 GET /api/keyboard-actions with 12407 bytes took 6ms
+22:29:08.835 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+22:29:08.980 200 GET /api/notes/9R3YWVm1h2j2/blob with 44580 bytes took 5ms
+22:29:08.983 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 2ms
+22:29:10.942 200 GET /api/script/startup?mobile=true with 2 bytes took 4ms
+22:50:20.461 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+22:50:20.488 All consistency checks passed with no errors detected (took 28ms)
+23:03:02.270 Error: Router not found for request GET /wiki
+23:50:20.463 Table counts: notes: 307, revisions: 97, attachments: 40, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 310
+23:50:20.483 All consistency checks passed with no errors detected (took 21ms)
