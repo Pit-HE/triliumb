@@ -1,0 +1,121 @@
+00:50:21.362 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+00:50:21.379 All consistency checks passed with no errors detected (took 18ms)
+01:50:21.365 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+01:50:21.382 All consistency checks passed with no errors detected (took 18ms)
+02:50:21.374 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+02:50:21.394 All consistency checks passed with no errors detected (took 19ms)
+03:03:17.794 Error: Router not found for request GET /security.txt
+03:33:42.707 200 GET /api/options with 6332 bytes took 2ms
+03:33:42.711 200 GET /api/tree with 35275 bytes took 3ms
+03:33:42.720 200 GET /api/keyboard-actions with 12407 bytes took 8ms
+03:33:42.723 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+03:33:42.891 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 169716 bytes took 11ms
+03:33:42.964 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 2ms
+03:33:44.883 200 GET /api/script/startup?mobile=true with 2 bytes took 3ms
+03:35:45.931 ERROR: WebSocket connection not allowed because session is neither electron nor logged in.
+03:50:21.385 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+03:50:21.402 All consistency checks passed with no errors detected (took 18ms)
+04:50:21.403 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+04:50:21.423 All consistency checks passed with no errors detected (took 21ms)
+05:50:21.409 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+05:50:21.431 All consistency checks passed with no errors detected (took 23ms)
+06:50:21.424 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+06:50:21.441 All consistency checks passed with no errors detected (took 17ms)
+07:50:21.438 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+07:50:21.465 All consistency checks passed with no errors detected (took 28ms)
+08:50:21.451 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+08:50:21.481 All consistency checks passed with no errors detected (took 30ms)
+09:50:16.560 Optimizing database
+09:50:16.564 Optimization finished in 1ms.
+09:50:21.453 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+09:50:21.476 All consistency checks passed with no errors detected (took 24ms)
+10:50:21.462 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+10:50:21.482 All consistency checks passed with no errors detected (took 20ms)
+11:50:21.470 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+11:50:21.496 All consistency checks passed with no errors detected (took 27ms)
+12:50:21.474 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+12:50:21.495 All consistency checks passed with no errors detected (took 22ms)
+13:13:24.683 Error: Router not found for request GET /pdown
+13:50:21.481 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+13:50:21.495 All consistency checks passed with no errors detected (took 15ms)
+14:50:21.486 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+14:50:21.501 All consistency checks passed with no errors detected (took 15ms)
+15:50:21.486 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+15:50:21.501 All consistency checks passed with no errors detected (took 15ms)
+16:42:48.177 Error: Router not found for request GET /.env
+16:50:21.487 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+16:50:21.506 All consistency checks passed with no errors detected (took 20ms)
+17:50:21.486 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+17:50:21.505 All consistency checks passed with no errors detected (took 19ms)
+18:50:21.490 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+18:50:21.515 All consistency checks passed with no errors detected (took 25ms)
+19:50:16.566 Optimizing database
+19:50:16.569 Optimization finished in 1ms.
+19:50:21.491 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+19:50:21.515 All consistency checks passed with no errors detected (took 25ms)
+20:50:21.511 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+20:50:21.530 All consistency checks passed with no errors detected (took 20ms)
+21:48:51.673 Error: Router not found for request GET /.git/HEAD
+21:50:21.516 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+21:50:21.535 All consistency checks passed with no errors detected (took 20ms)
+21:52:46.562 Error: Router not found for request GET /.env
+21:52:46.839 Error: Router not found for request GET /.env.local
+21:52:47.088 Error: Router not found for request GET /.env.dev
+21:52:47.337 Error: Router not found for request GET /.env.development
+21:52:47.599 Error: Router not found for request GET /.env.prod
+21:52:47.849 Error: Router not found for request GET /.env.production
+21:52:48.098 Error: Router not found for request GET /.env.stage
+21:52:48.346 Error: Router not found for request GET /.env.test
+21:52:48.594 Error: Router not found for request GET /.env.example
+21:52:53.672 Error: Router not found for request GET /.env.bak
+21:52:53.925 Error: Router not found for request GET /.env.old
+21:52:54.175 Error: Router not found for request GET /config/.env
+21:52:54.423 Error: Router not found for request GET /config/config.env
+21:52:54.692 Error: Router not found for request GET /app/.env
+21:52:54.967 Error: Router not found for request GET /admin/.env
+21:52:55.216 Error: Router not found for request GET /api/.env
+21:52:55.488 Error: Router not found for request GET /apps/.env
+21:52:55.735 Error: Router not found for request GET /server/.env
+21:52:55.983 Error: Router not found for request GET /backend/.env
+21:52:56.231 Error: Router not found for request GET /aws/credentials
+21:52:56.487 Error: Router not found for request GET /.aws/credentials
+21:52:56.850 Error: Router not found for request GET /.aws/config
+21:52:57.100 Error: Router not found for request GET /config/aws.yml
+21:52:57.348 Error: Router not found for request GET /config/aws.json
+21:52:57.599 Error: Router not found for request GET /docker-compose.yml
+21:52:57.848 Error: Router not found for request GET /docker-compose.override.yml
+21:53:02.734 Error: Router not found for request GET /docker-compose.prod.yml
+21:53:03.038 Error: Router not found for request GET /docker-compose.dev.yml
+21:53:03.300 Error: Router not found for request GET /config/config.json
+21:53:03.549 Error: Router not found for request GET /config.json
+21:53:03.847 Error: Router not found for request GET /config.yaml
+21:53:04.095 Error: Router not found for request GET /config.yml
+21:53:04.343 Error: Router not found for request GET /secrets.json
+21:53:04.591 Error: Router not found for request GET /secrets.yml
+21:53:09.772 Error: Router not found for request GET /credentials.json
+21:53:15.424 Error: Router not found for request GET /.git-credentials
+21:53:15.690 Error: Router not found for request GET /.git/config
+21:53:15.959 Error: Router not found for request GET /.gitignore
+21:53:16.207 Error: Router not found for request GET /.gitlab-ci.yml
+21:53:16.478 Error: Router not found for request GET /.github/workflows/
+21:53:20.959 Error: Router not found for request GET /.idea/workspace.xml
+21:53:25.930 Error: Router not found for request GET /.vscode/settings.json
+21:53:26.199 Error: Router not found for request GET /storage/logs/laravel.log
+21:53:26.448 Error: Router not found for request GET /storage/logs/error.log
+21:53:26.696 Error: Router not found for request GET /logs/debug.log
+21:53:26.947 Error: Router not found for request GET /logs/app.log
+21:53:27.218 Error: Router not found for request GET /debug.log
+21:53:27.466 Error: Router not found for request GET /error.log
+21:53:27.715 Error: Router not found for request GET /.DS_Store
+21:53:27.966 Error: Router not found for request GET /backup.zip
+21:53:28.214 Error: Router not found for request GET /.backup
+21:53:32.447 Error: Router not found for request GET /db.sql
+21:53:36.578 Error: Router not found for request GET /dump.sql
+21:53:36.828 Error: Router not found for request GET /database.sql
+21:53:37.144 Error: Router not found for request GET /backup.tar.gz
+22:50:21.534 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+22:50:21.548 All consistency checks passed with no errors detected (took 14ms)
+22:55:24.922 Error: Router not found for request GET /.git/HEAD
+22:59:56.714 ERROR: WebSocket connection not allowed because session is neither electron nor logged in.
+23:50:21.552 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+23:50:21.585 All consistency checks passed with no errors detected (took 34ms)
