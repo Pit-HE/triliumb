@@ -1,2 +1,76 @@
 00:50:21.567 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
 00:50:21.584 All consistency checks passed with no errors detected (took 18ms)
+01:36:12.045 Error: Router not found for request GET /login/robots.txt
+01:36:12.051 Error: Router not found for request GET /login/sitemap.xml
+01:36:16.506 Error: Router not found for request GET /login/robots.txt
+01:36:16.533 Error: Router not found for request GET /login/sitemap.xml
+01:50:21.570 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+01:50:21.591 All consistency checks passed with no errors detected (took 21ms)
+02:50:21.576 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+02:50:21.599 All consistency checks passed with no errors detected (took 23ms)
+03:50:21.580 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+03:50:21.606 All consistency checks passed with no errors detected (took 27ms)
+03:54:40.878 Error: Router not found for request GET /sitemap.xml
+04:50:21.587 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+04:50:21.611 All consistency checks passed with no errors detected (took 23ms)
+05:50:16.595 Optimizing database
+05:50:16.598 Optimization finished in 1ms.
+05:50:21.589 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+05:50:21.611 All consistency checks passed with no errors detected (took 23ms)
+06:50:21.592 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+06:50:21.611 All consistency checks passed with no errors detected (took 20ms)
+07:28:12.738 Error: Router not found for request GET /.env.local
+07:50:21.594 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+07:50:21.612 All consistency checks passed with no errors detected (took 19ms)
+08:50:21.598 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+08:50:21.618 All consistency checks passed with no errors detected (took 21ms)
+09:50:21.602 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+09:50:21.622 All consistency checks passed with no errors detected (took 21ms)
+10:50:21.623 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+10:50:21.644 All consistency checks passed with no errors detected (took 22ms)
+11:34:35.076 Error: Router not found for request GET /.git/HEAD
+11:50:21.641 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+11:50:21.656 All consistency checks passed with no errors detected (took 15ms)
+12:50:21.660 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+12:50:21.680 All consistency checks passed with no errors detected (took 20ms)
+13:13:48.828 Error: Router not found for request GET /pdown
+13:50:21.661 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+13:50:21.677 All consistency checks passed with no errors detected (took 16ms)
+14:50:21.673 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+14:50:21.693 All consistency checks passed with no errors detected (took 21ms)
+15:50:16.603 Optimizing database
+15:50:16.607 Optimization finished in 1ms.
+15:50:21.678 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+15:50:21.712 All consistency checks passed with no errors detected (took 35ms)
+16:50:21.683 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+16:50:21.700 All consistency checks passed with no errors detected (took 17ms)
+17:50:21.687 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+17:50:21.708 All consistency checks passed with no errors detected (took 21ms)
+18:50:21.697 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+18:50:21.718 All consistency checks passed with no errors detected (took 22ms)
+19:50:21.700 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+19:50:21.718 All consistency checks passed with no errors detected (took 19ms)
+20:50:21.706 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+20:50:21.725 All consistency checks passed with no errors detected (took 19ms)
+21:50:21.711 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+21:50:21.729 All consistency checks passed with no errors detected (took 19ms)
+21:59:19.909 Error: Router not found for request GET /wp-includes/css/buttons.css
+21:59:19.981 Error: Router not found for request GET /media/system/js/core.js
+22:50:21.717 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+22:50:21.740 All consistency checks passed with no errors detected (took 24ms)
+23:07:43.500 Error: Router not found for request GET /.env.production
+23:45:45.188 Error: Router not found for request GET /.git/config
+23:50:21.718 Table counts: notes: 307, revisions: 111, attachments: 54, branches: 310, attributes: 451, etapi_tokens: 0, blobs: 323
+23:50:21.735 All consistency checks passed with no errors detected (took 18ms)
+23:54:15.317 Error: Router not found for request GET /.git/config
+23:54:15.719 Error: Router not found for request GET /.env
+23:54:16.214 Error: Router not found for request GET /api/.env
+23:54:16.707 Error: Router not found for request GET /config/.env
+23:54:17.209 Error: Router not found for request GET /_profiler/phpinfo
+23:54:17.597 Error: Router not found for request GET /tool/view/phpinfo.view.php
+23:54:18.011 Error: Router not found for request GET /test.php
+23:54:18.432 Error: Router not found for request GET /app_dev.php/_profiler/phpinfo
+23:54:18.828 Error: Router not found for request GET /phpinfo=1
+23:54:19.242 Error: Router not found for request GET /phpinfo.php
+23:54:19.751 Error: Router not found for request GET /phpinfo
+23:54:20.253 Error: Router not found for request GET /info.php
