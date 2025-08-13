@@ -4014,3 +4014,381 @@ Stack: Error
 04:00:01.519 200 GET /api/script/startup with 1804 bytes took 7ms
 04:00:01.738 200 POST /api/tree/load with 6530 bytes took 3ms
 04:00:01.956 200 POST /api/tree/load with 6684 bytes took 6ms
+04:00:03.089 JS Info: Frontend app reload: 正在切换到移动版
+04:00:03.135 Generated CSRF token d6AA5n1K-tcSMITNM1HuXub-DXirCv9U007k with secret undefined
+04:00:03.395 200 GET /api/options with 6344 bytes took 3ms
+04:00:03.404 200 GET /api/keyboard-actions with 12407 bytes took 7ms
+04:00:03.420 Slow 200 GET /api/tree with 35149 bytes took 15ms
+04:00:03.422 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 1ms
+04:00:03.608 200 GET /api/notes/LWNpKJZXcaAL/blob with 155 bytes took 4ms
+04:00:03.660 200 GET /api/note-map/LWNpKJZXcaAL/backlink-count with 11 bytes took 3ms
+04:00:04.135 200 GET /api/note-map/LWNpKJZXcaAL/backlink-count with 11 bytes took 2ms
+04:00:04.202 200 POST /api/tree/load with 4552 bytes took 3ms
+04:00:04.296 200 GET /api/notes/16ewVYb5lycl/blob with 1117 bytes took 3ms
+04:00:04.418 204 PUT /api/options with 0 bytes took 3ms
+04:00:04.422 200 GET /api/notes/eaxgg24od19f/blob with 7225 bytes took 3ms
+04:00:04.539 200 GET /api/notes/2yEcqD32vonH/blob with 43200 bytes took 6ms
+04:00:04.660 200 GET /api/notes/V3IXTrV9VS8q/blob with 290 bytes took 2ms
+04:00:04.856 200 GET /api/notes/5tuXRUjKpIvp/blob with 1799 bytes took 3ms
+04:00:05.014 200 GET /api/notes/gWuJbTe5qwAb/blob with 858 bytes took 4ms
+04:00:05.147 200 GET /api/notes/f5JUlRvow6xl/blob with 369 bytes took 4ms
+04:00:05.344 200 GET /api/notes/mDLrFbMcdXXx/blob with 519 bytes took 2ms
+04:00:05.434 200 GET /api/notes/HSdHTsyl0U8E/blob with 193 bytes took 2ms
+04:00:05.587 200 GET /api/notes/3Ave0KwF0N5t/blob with 1281 bytes took 3ms
+04:00:05.606 200 GET /api/script/startup?mobile=true with 2 bytes took 3ms
+04:00:07.335 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 3ms
+04:00:07.356 204 PUT /api/options with 0 bytes took 4ms
+04:00:07.414 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 428151 bytes took 17ms
+04:00:15.629 Generated CSRF token rA1H7nWX-5WfK0XV0bbnfewF4T42xdhaoCPQ with secret undefined
+04:00:15.915 200 GET /api/options with 6328 bytes took 3ms
+04:00:15.921 200 GET /api/tree with 35149 bytes took 5ms
+04:00:15.927 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+04:00:15.930 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+04:00:16.087 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 3ms
+04:00:16.329 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 428151 bytes took 22ms
+04:00:18.040 200 GET /api/script/startup?mobile=true with 2 bytes took 3ms
+04:05:59.003 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 428151 bytes took 46ms
+04:05:59.092 204 PUT /api/options with 0 bytes took 4ms
+04:06:00.189 204 PUT /api/options with 0 bytes took 3ms
+04:06:00.192 200 GET /api/notes/1g13lN5Vif5L/blob with 5370 bytes took 2ms
+04:06:00.195 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 2ms
+04:06:01.244 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 4ms
+04:06:01.249 204 PUT /api/options with 0 bytes took 4ms
+04:06:01.253 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+04:06:03.166 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 8ms
+04:46:06.865 Table counts: notes: 309, revisions: 114, attachments: 62, branches: 312, attributes: 458, etapi_tokens: 0, blobs: 325
+04:46:06.887 All consistency checks passed with no errors detected (took 23ms)
+05:06:13.430 Error: Router not found for request GET /security.txt
+05:46:06.865 Table counts: notes: 309, revisions: 114, attachments: 62, branches: 312, attributes: 458, etapi_tokens: 0, blobs: 325
+05:46:06.882 All consistency checks passed with no errors detected (took 18ms)
+06:19:58.407 Generated CSRF token pZAOvBws-QduEfbrFFetLAX-0mKMi9tzudGk with secret undefined
+06:19:58.587 200 GET /api/options with 6315 bytes took 2ms
+06:19:58.592 200 GET /api/tree with 35149 bytes took 4ms
+06:19:58.602 200 GET /api/keyboard-actions with 12407 bytes took 9ms
+06:19:58.618 Slow 200 GET /api/script/widgets with 155155 bytes took 15ms
+06:19:58.739 200 POST /api/tree/load with 6404 bytes took 4ms
+06:19:58.824 200 POST /api/tree/load with 6568 bytes took 3ms
+06:19:59.081 200 POST /api/tree/load with 5959 bytes took 3ms
+06:19:59.183 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+06:19:59.263 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 3ms
+06:19:59.266 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+06:19:59.349 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 3ms
+06:20:00.130 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 1ms
+06:20:00.166 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 428151 bytes took 16ms
+06:20:00.181 204 PUT /api/options with 0 bytes took 4ms
+06:20:01.186 200 GET /api/script/startup with 1804 bytes took 5ms
+06:20:01.274 200 POST /api/tree/load with 6530 bytes took 4ms
+06:20:01.364 200 POST /api/tree/load with 6684 bytes took 5ms
+06:20:10.643 Marking attributes DbywLTll6k3M as deleted
+06:20:10.649 Slow 204 DELETE /api/notes/9R3YWVm1h2j2/attributes/DbywLTll6k3M with 0 bytes took 10ms
+06:20:10.754 200 PUT /api/notes/9R3YWVm1h2j2/attribute with 30 bytes took 7ms
+06:20:10.757 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 2ms
+06:20:10.775 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 428151 bytes took 17ms
+06:20:10.922 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 2ms
+06:20:12.814 Slow 204 PUT /api/notes/9R3YWVm1h2j2/data with 0 bytes took 57ms
+06:20:12.911 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 359715 bytes took 19ms
+06:20:16.912 Updating option 'hideArchivedNotes_main' to 'false'
+06:20:16.915 204 PUT /api/options with 0 bytes took 3ms
+06:20:16.987 Updating option 'autoCollapseNoteTree' to 'false'
+06:20:16.990 204 PUT /api/options with 0 bytes took 3ms
+06:46:06.868 Table counts: notes: 309, revisions: 115, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 326
+06:46:06.895 All consistency checks passed with no errors detected (took 28ms)
+06:49:01.765 200 GET /api/notes/1g13lN5Vif5L/blob with 5370 bytes took 5ms
+06:49:01.775 204 PUT /api/options with 0 bytes took 7ms
+06:49:01.780 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 3ms
+06:49:03.455 200 GET /api/tree?subTreeNoteId=u2Ouc1086YFh with 2642 bytes took 2ms
+06:49:03.755 204 PUT /api/branches/root_u2Ouc1086YFh/expanded/1 with 0 bytes took 4ms
+06:49:04.630 204 PUT /api/options with 0 bytes took 4ms
+06:49:04.633 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 2ms
+06:49:04.635 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+06:49:25.145 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 4ms
+06:49:28.311 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 3ms
+06:50:32.668 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:50:32.669 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:50:32.669 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:50:32.670 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:50:32.670 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:50:32.670 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.428 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.429 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.430 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.430 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.442 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.442 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.443 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.443 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.443 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.443 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.443 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.456 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:04.456 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:24.826 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:24.827 JS Error: 0 PUT options - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:51:26.002 Generated CSRF token KwRJfkJl-Ahp7P0hrxAh3WucBox_H8EkK5mo with secret undefined
+06:51:26.254 200 GET /api/options with 6315 bytes took 4ms
+06:51:26.266 200 GET /api/tree with 35541 bytes took 6ms
+06:51:26.277 200 GET /api/keyboard-actions with 12407 bytes took 9ms
+06:51:26.291 Slow 200 GET /api/script/widgets with 155155 bytes took 11ms
+06:51:26.409 200 POST /api/tree/load with 6403 bytes took 3ms
+06:51:26.499 200 POST /api/tree/load with 6567 bytes took 3ms
+06:51:26.753 200 POST /api/tree/load with 5958 bytes took 4ms
+06:51:26.858 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+06:51:26.953 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 6ms
+06:51:26.956 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+06:51:27.037 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+06:51:27.840 204 PUT /api/options with 0 bytes took 7ms
+06:51:28.873 200 GET /api/script/startup with 1804 bytes took 6ms
+06:51:28.945 200 POST /api/tree/load with 6529 bytes took 3ms
+06:51:29.029 200 POST /api/tree/load with 6683 bytes took 3ms
+06:51:29.476 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 4ms
+06:52:10.635 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:52:10.636 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+06:52:10.636 JS Error: 0 PUT notes/lsgJRCHtTh9a/data - undefined
+Stack: Error
+    at Object.k [as logError] (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:118317)
+    at Object.throwError (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:101226)
+    at c (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:97980)
+    at async Object.error (https://xsunix.cn/assets/v0.63.7/app-dist/desktop.js:2:96737)
+07:10:09.192 Generated CSRF token NRusAUkf-jg6EYqBccQUkXuxIMECruDln9yQ with secret undefined
+07:10:09.412 200 GET /api/options with 6343 bytes took 5ms
+07:10:09.421 200 GET /api/tree with 35541 bytes took 8ms
+07:10:09.427 200 GET /api/keyboard-actions with 12407 bytes took 5ms
+07:10:09.446 Slow 200 GET /api/script/widgets with 155155 bytes took 18ms
+07:10:09.521 200 POST /api/tree/load with 6403 bytes took 3ms
+07:10:09.614 200 POST /api/tree/load with 6567 bytes took 3ms
+07:10:09.854 200 POST /api/tree/load with 5958 bytes took 4ms
+07:10:09.956 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 3ms
+07:10:10.055 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 5ms
+07:10:10.059 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+07:10:10.347 200 GET /api/search/%23workspace%20%23!template with 2 bytes took 4ms
+07:10:10.423 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 4ms
+07:10:11.101 204 PUT /api/options with 0 bytes took 7ms
+07:10:12.090 200 GET /api/script/startup with 1804 bytes took 6ms
+07:10:12.183 200 POST /api/tree/load with 6529 bytes took 5ms
+07:10:12.288 200 POST /api/tree/load with 6683 bytes took 4ms
+07:21:54.090 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 5ms
+07:21:55.201 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 4ms
+07:22:31.126 Generated CSRF token NzJB9llT-44NR2RixaqKh9ztWabyHcf3s_Zg with secret undefined
+07:22:31.318 200 GET /api/options with 6533 bytes took 6ms
+07:22:31.322 200 GET /api/tree with 35541 bytes took 4ms
+07:22:31.327 200 GET /api/keyboard-actions with 12407 bytes took 5ms
+07:22:31.338 200 GET /api/script/widgets with 155155 bytes took 8ms
+07:22:31.429 200 POST /api/tree/load with 6403 bytes took 2ms
+07:22:31.517 200 POST /api/tree/load with 6567 bytes took 2ms
+07:22:31.775 200 POST /api/tree/load with 5958 bytes took 4ms
+07:22:31.880 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+07:22:32.012 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 5ms
+07:22:32.015 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+07:22:32.089 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 3ms
+07:22:32.861 204 PUT /api/options with 0 bytes took 8ms
+07:22:33.885 200 GET /api/script/startup with 1804 bytes took 4ms
+07:22:33.973 200 POST /api/tree/load with 6529 bytes took 4ms
+07:22:34.062 200 POST /api/tree/load with 6683 bytes took 4ms
+07:26:57.068 200 GET /api/tree with 35541 bytes took 9ms
+07:26:57.074 200 GET /api/options with 6533 bytes took 4ms
+07:26:57.081 200 GET /api/keyboard-actions with 12407 bytes took 6ms
+07:26:57.085 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 3ms
+07:26:57.294 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 3ms
+07:26:57.368 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 4ms
+07:26:58.020 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 359715 bytes took 14ms
+07:26:58.032 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 2ms
+07:26:58.056 204 PUT /api/options with 0 bytes took 6ms
+07:26:59.303 200 GET /api/script/startup?mobile=true with 2 bytes took 5ms
+07:46:06.872 Table counts: notes: 309, revisions: 115, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 326
+07:46:06.887 All consistency checks passed with no errors detected (took 15ms)
+08:26:41.899 Generated CSRF token vH6EL9bd-PPtm6FaLFbdk0iXyqaGGqiLQGW4 with secret undefined
+08:26:42.090 200 GET /api/options with 6328 bytes took 8ms
+08:26:42.096 200 GET /api/tree with 35541 bytes took 5ms
+08:26:42.103 200 GET /api/keyboard-actions with 12407 bytes took 6ms
+08:26:42.117 Slow 200 GET /api/script/widgets with 155155 bytes took 11ms
+08:26:42.195 200 POST /api/tree/load with 6403 bytes took 3ms
+08:26:42.283 200 POST /api/tree/load with 6567 bytes took 3ms
+08:26:42.539 200 POST /api/tree/load with 5958 bytes took 3ms
+08:26:42.637 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+08:26:42.712 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 359715 bytes took 16ms
+08:26:42.715 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 1ms
+08:26:42.801 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 9ms
+08:26:42.804 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+08:26:43.621 204 PUT /api/options with 0 bytes took 5ms
+08:26:44.446 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 4ms
+08:26:44.645 200 GET /api/script/startup with 1804 bytes took 4ms
+08:26:44.717 200 POST /api/tree/load with 6529 bytes took 2ms
+08:26:44.806 200 POST /api/tree/load with 6683 bytes took 2ms
+08:26:48.005 200 GET /api/notes/lsgJRCHtTh9a/blob with 9416 bytes took 3ms
+08:26:54.942 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 20ms
+08:26:55.017 200 GET /api/notes/lsgJRCHtTh9a/blob with 9413 bytes took 3ms
+08:26:58.110 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 10ms
+08:26:58.191 200 GET /api/notes/lsgJRCHtTh9a/blob with 9415 bytes took 4ms
+08:27:00.145 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 11ms
+08:27:00.225 200 GET /api/notes/lsgJRCHtTh9a/blob with 9432 bytes took 4ms
+08:27:04.266 Slow 204 PUT /api/notes/lsgJRCHtTh9a/data with 0 bytes took 15ms
+08:27:04.340 200 GET /api/notes/lsgJRCHtTh9a/blob with 9479 bytes took 4ms
+08:46:06.875 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+08:46:06.892 All consistency checks passed with no errors detected (took 18ms)
+08:52:36.340 200 GET /api/notes/lsgJRCHtTh9a/blob with 9479 bytes took 5ms
+09:46:06.877 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+09:46:06.894 All consistency checks passed with no errors detected (took 18ms)
+10:46:06.877 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+10:46:06.904 All consistency checks passed with no errors detected (took 28ms)
+11:46:06.881 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+11:46:06.904 All consistency checks passed with no errors detected (took 24ms)
+12:46:06.818 Optimizing database
+12:46:06.820 Optimization finished in 1ms.
+12:46:06.882 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+12:46:06.908 All consistency checks passed with no errors detected (took 27ms)
+13:14:56.141 Error: Router not found for request GET /pdown
+13:46:06.884 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+13:46:06.900 All consistency checks passed with no errors detected (took 16ms)
+14:46:06.884 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+14:46:06.903 All consistency checks passed with no errors detected (took 19ms)
+15:11:21.396 Error: Router not found for request GET /.env.development
+15:46:06.889 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+15:46:06.909 All consistency checks passed with no errors detected (took 21ms)
+16:46:06.890 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+16:46:06.912 All consistency checks passed with no errors detected (took 22ms)
+17:46:06.894 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+17:46:06.910 All consistency checks passed with no errors detected (took 17ms)
+18:15:20.560 Generated CSRF token 5qZjRzKm-ClxvSIkw7k1nFShbv1VC3qWnCIw with secret _csrf=hlBED5xXudXN550LMWus7uqS; Path=/
+18:15:21.011 200 GET /api/options with 6343 bytes took 3ms
+18:15:21.016 200 GET /api/tree with 35541 bytes took 4ms
+18:15:21.022 200 GET /api/keyboard-actions with 12407 bytes took 4ms
+18:15:21.035 Slow 200 GET /api/script/widgets with 155155 bytes took 11ms
+18:15:21.162 200 POST /api/tree/load with 6403 bytes took 3ms
+18:15:21.230 200 POST /api/tree/load with 6567 bytes took 2ms
+18:15:21.636 200 POST /api/tree/load with 5958 bytes took 2ms
+18:15:21.722 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+18:15:21.841 200 GET /api/notes/lsgJRCHtTh9a/blob with 9479 bytes took 5ms
+18:15:21.845 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+18:15:23.734 200 GET /api/script/startup with 1804 bytes took 4ms
+18:15:23.797 200 POST /api/tree/load with 6529 bytes took 3ms
+18:15:23.859 200 POST /api/tree/load with 6683 bytes took 2ms
+18:15:25.394 200 GET /api/notes/lsgJRCHtTh9a/blob with 9479 bytes took 3ms
+18:46:06.894 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+18:46:06.911 All consistency checks passed with no errors detected (took 17ms)
+19:46:06.899 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+19:46:06.928 All consistency checks passed with no errors detected (took 30ms)
+20:46:06.903 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+20:46:06.930 All consistency checks passed with no errors detected (took 28ms)
+21:46:06.905 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+21:46:06.923 All consistency checks passed with no errors detected (took 18ms)
+22:46:06.821 Optimizing database
+22:46:06.823 Optimization finished in 1ms.
+22:46:06.906 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+22:46:06.934 All consistency checks passed with no errors detected (took 29ms)
+23:46:06.906 Table counts: notes: 309, revisions: 116, attachments: 64, branches: 312, attributes: 459, etapi_tokens: 0, blobs: 327
+23:46:06.920 All consistency checks passed with no errors detected (took 15ms)
