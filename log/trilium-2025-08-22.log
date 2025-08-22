@@ -1,0 +1,152 @@
+00:00:52.124 No connection to sync server.
+00:01:52.141 No connection to sync server.
+00:02:52.149 No connection to sync server.
+00:03:52.159 No connection to sync server.
+00:04:52.179 No connection to sync server.
+00:05:52.192 No connection to sync server.
+00:06:52.187 No connection to sync server.
+00:07:52.199 No connection to sync server.
+00:08:52.212 No connection to sync server.
+00:09:52.224 No connection to sync server.
+00:10:52.228 No connection to sync server.
+00:11:52.241 No connection to sync server.
+00:12:52.240 No connection to sync server.
+00:13:52.264 No connection to sync server.
+00:14:52.268 No connection to sync server.
+00:15:52.281 No connection to sync server.
+00:16:52.277 No connection to sync server.
+00:17:52.296 No connection to sync server.
+00:18:52.295 No connection to sync server.
+00:19:52.326 No connection to sync server.
+00:20:52.320 No connection to sync server.
+00:21:52.343 No connection to sync server.
+00:22:52.349 No connection to sync server.
+00:23:52.367 No connection to sync server.
+00:24:52.366 No connection to sync server.
+00:25:52.389 No connection to sync server.
+00:26:52.393 No connection to sync server.
+00:27:52.414 No connection to sync server.
+00:28:52.407 No connection to sync server.
+00:29:52.421 No connection to sync server.
+00:30:52.434 No connection to sync server.
+00:31:52.445 No connection to sync server.
+00:32:52.449 No connection to sync server.
+00:33:52.466 No connection to sync server.
+00:34:52.471 No connection to sync server.
+00:35:52.478 No connection to sync server.
+00:36:52.489 No connection to sync server.
+00:37:52.510 No connection to sync server.
+00:38:52.514 No connection to sync server.
+00:39:52.518 No connection to sync server.
+00:40:52.523 No connection to sync server.
+00:41:52.538 No connection to sync server.
+00:42:52.543 No connection to sync server.
+00:43:52.543 No connection to sync server.
+00:44:52.549 No connection to sync server.
+00:45:52.552 No connection to sync server.
+00:46:07.290 Table counts: notes: 308, revisions: 122, attachments: 66, branches: 311, attributes: 457, etapi_tokens: 0, blobs: 333
+00:46:07.313 All consistency checks passed with no errors detected (took 24ms)
+00:46:52.569 No connection to sync server.
+00:47:52.580 No connection to sync server.
+00:48:52.586 No connection to sync server.
+00:49:52.596 No connection to sync server.
+00:50:52.606 No connection to sync server.
+00:51:52.626 No connection to sync server.
+00:52:52.630 No connection to sync server.
+00:53:52.635 No connection to sync server.
+00:54:52.652 No connection to sync server.
+00:55:52.660 No connection to sync server.
+00:56:52.668 No connection to sync server.
+00:57:52.685 No connection to sync server.
+00:58:52.682 No connection to sync server.
+00:59:52.697 No connection to sync server.
+01:00:52.700 No connection to sync server.
+01:01:52.714 No connection to sync server.
+01:02:52.726 No connection to sync server.
+01:03:52.728 No connection to sync server.
+01:04:52.751 No connection to sync server.
+01:05:52.752 No connection to sync server.
+01:06:52.767 No connection to sync server.
+01:07:52.778 No connection to sync server.
+01:08:23.720 Generated CSRF token xzMSuyKX-poQsqY0WwN0H-StpUBaWnH1H_nA with secret _csrf=z77x3EKJyhzCcOi9dxamefoI; Path=/
+01:08:23.931 200 GET /api/options with 6529 bytes took 2ms
+01:08:23.935 200 GET /api/tree with 36640 bytes took 3ms
+01:08:23.943 200 GET /api/keyboard-actions with 12407 bytes took 7ms
+01:08:23.955 Slow 200 GET /api/script/widgets with 155155 bytes took 10ms
+01:08:24.063 200 POST /api/tree/load with 6402 bytes took 3ms
+01:08:24.153 200 POST /api/tree/load with 6566 bytes took 2ms
+01:08:24.408 200 POST /api/tree/load with 5957 bytes took 3ms
+01:08:24.526 200 GET /api/keyboard-shortcuts-for-notes with 2 bytes took 2ms
+01:08:24.572 200 GET /api/tree?subTreeNoteId=Y1ssLHdTfg74 with 2380 bytes took 3ms
+01:08:24.727 200 GET /api/note-map/3Ave0KwF0N5t/backlink-count with 11 bytes took 5ms
+01:08:24.731 200 GET /api/notes/3Ave0KwF0N5t/blob with 1281 bytes took 3ms
+01:08:25.333 200 GET /api/search/%23workspace%20%23!template with 2 bytes took 3ms
+01:08:25.431 200 GET /api/notes/lsgJRCHtTh9a/blob with 10094 bytes took 3ms
+01:08:25.433 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 1ms
+01:08:26.325 204 PUT /api/options with 0 bytes took 5ms
+01:08:27.299 200 GET /api/script/startup with 1804 bytes took 6ms
+01:08:27.385 200 POST /api/tree/load with 6528 bytes took 3ms
+01:08:27.481 200 POST /api/tree/load with 6682 bytes took 3ms
+01:08:52.772 No connection to sync server.
+01:09:37.250 204 PUT /api/branches/root_LWNpKJZXcaAL/expanded/0 with 0 bytes took 3ms
+01:09:39.023 204 PUT /api/branches/root_H54uT9l6nKf3/expanded/0 with 0 bytes took 2ms
+01:09:39.901 200 GET /api/notes/AiM3rUCwSi7m/blob with 15670 bytes took 6ms
+01:09:39.908 204 PUT /api/options with 0 bytes took 5ms
+01:09:39.911 200 GET /api/note-map/AiM3rUCwSi7m/backlink-count with 11 bytes took 2ms
+01:09:42.214 204 PUT /api/options with 0 bytes took 4ms
+01:09:42.217 200 GET /api/notes/0HiYJ6hXXgwX/blob with 1346 bytes took 2ms
+01:09:42.219 200 GET /api/note-map/0HiYJ6hXXgwX/backlink-count with 11 bytes took 1ms
+01:09:45.368 200 GET /api/notes/AiM3rUCwSi7m/blob with 15670 bytes took 3ms
+01:09:45.373 200 GET /api/note-map/AiM3rUCwSi7m/backlink-count with 11 bytes took 4ms
+01:09:45.386 204 PUT /api/options with 0 bytes took 5ms
+01:09:52.772 No connection to sync server.
+01:10:52.777 No connection to sync server.
+01:11:12.302 200 GET /api/notes/AiM3rUCwSi7m/blob with 15670 bytes took 4ms
+01:11:52.779 No connection to sync server.
+01:12:52.776 No connection to sync server.
+01:13:21.429 200 GET /api/tree?subTreeNoteId=u2Ouc1086YFh with 2642 bytes took 4ms
+01:13:21.743 204 PUT /api/branches/root_u2Ouc1086YFh/expanded/1 with 0 bytes took 3ms
+01:13:22.381 200 GET /api/notes/9GGMzeoUQJJM/blob with 5170 bytes took 4ms
+01:13:22.385 200 GET /api/note-map/9GGMzeoUQJJM/backlink-count with 11 bytes took 1ms
+01:13:22.393 204 PUT /api/options with 0 bytes took 6ms
+01:13:25.667 204 PUT /api/options with 0 bytes took 5ms
+01:13:25.673 200 GET /api/notes/nb4yx5qvVmy5/blob with 2590 bytes took 2ms
+01:13:25.676 200 GET /api/note-map/nb4yx5qvVmy5/backlink-count with 11 bytes took 2ms
+01:13:27.932 204 PUT /api/options with 0 bytes took 4ms
+01:13:27.935 200 GET /api/notes/0ocRr86nF47u/blob with 14448 bytes took 2ms
+01:13:27.937 200 GET /api/note-map/0ocRr86nF47u/backlink-count with 11 bytes took 1ms
+01:13:31.700 204 PUT /api/options with 0 bytes took 5ms
+01:13:31.703 200 GET /api/notes/1g13lN5Vif5L/blob with 5370 bytes took 3ms
+01:13:31.705 200 GET /api/note-map/1g13lN5Vif5L/backlink-count with 11 bytes took 2ms
+01:13:35.329 204 PUT /api/options with 0 bytes took 4ms
+01:13:35.333 200 GET /api/notes/QHp8TIFYUsiT/blob with 22729 bytes took 3ms
+01:13:35.336 200 GET /api/note-map/QHp8TIFYUsiT/backlink-count with 11 bytes took 2ms
+01:13:39.247 204 PUT /api/options with 0 bytes took 5ms
+01:13:39.250 200 GET /api/notes/lsgJRCHtTh9a/blob with 10094 bytes took 3ms
+01:13:39.252 200 GET /api/note-map/lsgJRCHtTh9a/backlink-count with 11 bytes took 2ms
+01:13:48.001 204 PUT /api/branches/root_LWNpKJZXcaAL/expanded/1 with 0 bytes took 3ms
+01:13:49.051 204 PUT /api/branches/root_LWNpKJZXcaAL/expanded/0 with 0 bytes took 3ms
+01:13:50.178 204 PUT /api/branches/root_H54uT9l6nKf3/expanded/1 with 0 bytes took 3ms
+01:13:52.098 204 PUT /api/branches/root_H54uT9l6nKf3/expanded/0 with 0 bytes took 3ms
+01:13:52.774 No connection to sync server.
+01:13:52.831 200 GET /api/tree?subTreeNoteId=F8GnPeOCpda7 with 2524 bytes took 2ms
+01:13:53.131 204 PUT /api/branches/root_F8GnPeOCpda7/expanded/1 with 0 bytes took 2ms
+01:13:53.756 204 PUT /api/options with 0 bytes took 6ms
+01:13:53.775 Slow 200 GET /api/notes/9R3YWVm1h2j2/blob with 359733 bytes took 18ms
+01:13:53.778 200 GET /api/note-map/9R3YWVm1h2j2/backlink-count with 11 bytes took 2ms
+01:14:52.782 No connection to sync server.
+01:15:52.785 No connection to sync server.
+01:16:52.785 No connection to sync server.
+01:17:52.798 No connection to sync server.
+01:18:52.802 No connection to sync server.
+01:19:52.807 No connection to sync server.
+01:20:52.814 No connection to sync server.
+01:21:52.836 No connection to sync server.
+01:22:52.838 No connection to sync server.
+01:23:52.849 No connection to sync server.
+01:24:52.858 No connection to sync server.
+01:25:52.879 No connection to sync server.
+01:26:52.884 No connection to sync server.
+01:27:52.894 No connection to sync server.
+01:28:52.899 No connection to sync server.
+01:29:52.930 No connection to sync server.
